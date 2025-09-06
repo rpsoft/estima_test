@@ -36,7 +36,7 @@ print(slr_fields)
 
 
 import os
-import PyPDF2
+import pdfplumber
 
 # Read pdf files in the docs folder
 docs_folder = "docs"
@@ -49,15 +49,23 @@ print(f"Found {len(pdf_files)} PDF files in {docs_folder} folder")
 pdf_dict = {}
 
 for pdf_file in pdf_files:
-    with open(os.path.join(docs_folder, pdf_file), 'rb') as file:
-        reader = PyPDF2.PdfReader(file)
-        text_content = ""
-        for page in reader.pages:
-            text_content += page.extract_text()
+    with pdfplumber.open(docs_folder + "/" + pdf_file) as pdf:
+        full_text = ""
+        for page in pdf.pages:
+            words = page.extract_words()
+            line = ""
+            last_top = None
+            for word in words:
+                # Start a new line if y-position changes significantly
+                if last_top is not None and abs(word['top'] - last_top) > 3:
+                    full_text += line.strip() + "\n"
+                    line = ""
+                line += word['text'] + " "
+                last_top = word['top']
+            full_text += line.strip() + "\n"  # flush last line of the page
+        pdf_dict[pdf_file] = full_text
 
-        # Store the extracted text in a dictionary
-        pdf_dict[pdf_file] = text_content
-        print(f"Extracted text from {pdf_file}")
+
 # %%
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.schema import Document
@@ -65,8 +73,8 @@ from langchain.schema import Document
 # Initialize the text splitter
 text_splitter = RecursiveCharacterTextSplitter(
     chunk_size=1000,
-    chunk_overlap=20,
-    separators=["\n\n", "\n", " ", ""]
+    chunk_overlap=200,
+    # separators=["\n\n", "\n", " ", ""]
 )
 
 # Chunk the texts in pdf_dict
@@ -99,7 +107,7 @@ embeddings = OllamaEmbeddings(
 import shutil
 import os
 
-persist_dir = "./chroma_db"
+persist_dir = "./chroma_db6"
 
 # Use Chroma.from_documents instead of from_texts
 vectorstore = Chroma.from_documents(
@@ -127,7 +135,7 @@ results = vectorstore.similarity_search(
 )
 
 for r in results:
-    print(r.page_content)
+    print(r.page_content[:100])
     # Enrollment for the maintenance trial was conducted at 238clinicalcentersin37countriesfromAugust28,2018,toMarch
     # 30,2022,withthefinalfollow-uponApril11,2023( Figure2 ).
     # Inclusion and Exclusion Criteria
@@ -220,4 +228,89 @@ for r in results:
 
 
 
-print(pdf_dict["UC_Louis_2024.pdf"])
+print(pdf_dict.items())
+# %%
+#
+from ollama import Client
+
+client = Client(
+  host='http://192.168.1.215:11434',
+  headers={'x-some-header': 'some-value'}
+)
+
+
+
+# -----------------------------
+# Example retrieved passages from vector DB
+# -----------------------------
+retrieved_passages = [
+    "Study X enrolled 248 patients. Mean age 56.4 years, 52% male...",
+    "BMI average 29.8 kg/m^2. Disease duration 10 years..."
+]
+
+# -----------------------------
+# Schema & domain augmentation
+# -----------------------------
+schema_info = """
+Return JSON only with keys: study_id, sample_size, mean_age, percent_male, bmi, disease_duration_years
+"""
+
+domain_augmentation = "Typical age range 30-75, BMI 20-40, percent male 0-100"
+
+context = "\n\n".join([schema_info, domain_augmentation] + retrieved_passages)
+
+# -----------------------------
+# Query Ollama
+# -----------------------------
+# ollama_client = client.generate(model='meditron', prompt='Why is the sky blue?') ##(model="meditron")  # or your local model #medllama2
+query = f"Extract baseline characteristics from the following text:\n{context}"
+
+response = client.generate(model='meditron:latest', prompt=query) #ollama_client.generate(query)
+
+# %%
+
+
+response["response"]
+
+# %%
+
+import ollama
+
+# Point to remote Ollama server
+client = ollama.Client(host="http://192.168.1.215:11434")
+
+response = client.chat(
+    model="gpt-oss",
+    messages=[{"role": "user", "content": query}]
+)
+
+# print(response['message']['content'])
+
+# context
+# %%
+#
+response.message.content
+
+
+# %%
+# from langchain.embeddings import OpenAIEmbeddings  # for vector DB
+# from langchain.vectorstores import FAISS
+# from pydantic import BaseModel, Field, confloat, conint
+# from typing import Optional
+
+# -----------------------------
+# Pydantic schema
+# -----------------------------
+# class BaselineCharacteristics(BaseModel):
+#     study_id: str
+#     sample_size: conint(gt=0)
+#     mean_age: Optional[confloat(gt=0, lt=120)]
+#     percent_male: Optional[confloat(ge=0, le=100)]
+#     bmi: Optional[confloat(gt=0, lt=100)]
+#     disease_duration_years: Optional[confloat(gt=0)]
+
+# -----------------------------
+# Validate with Pydantic
+# -----------------------------
+# baseline = BaselineCharacteristics.parse_raw(response.text)
+# print(baseline.json(indent=2))
