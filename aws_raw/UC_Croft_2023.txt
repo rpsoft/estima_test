@@ -1,0 +1,1800 @@
+
+Articles
+Safety and efficacy of multimatrix mesalamine in paediatric
+Check for
+patients with mild-to-moderate ulcerative colitis: a phase 3,
+updates
+randomised, double-blind study
+Nicholas Michael Croft, ab* Bartosz Korczowski,ᶜ Jarostaw Kierkus,d Beatriz Caballero,e and Manoj Kumar Thakur
+oa
+OPEN ACCESS
+ᵃFaculty of Medicine, Blizard Institute, Queen Mary University of London, London, UK
+ᵇPaediatric Gastroenterology, Royal London Children's Hospital, Barts Health NHS Trust, London, UK
+ᶜDepartment of Pediatrics and Pediatric Gastroenterology, College of Medical Sciences, University of Rzeszów, Rzeszów, Poland
+ᵈDepartment of Gastroenterology, Hepatology and Feeding Disorders, Children's Memorial Health Institute, Warsaw, Poland
+eTakeda Clinical Science, Zurich, Switzerland
+⁺Takeda Development Center Americas, Inc., Lexington, MA, USA
+Summary
+eClinicalMedicine
+Background Previous studies have demonstrated the tolerability and efficacy of multimatrix mesalamine in inducing
+2023;65: 102232
+and maintaining remission in adults with mild-to-moderate ulcerative colitis (UC). We evaluated the safety and
+Published Online 6 October
+2023
+efficacy of low-dose and high-dose once-daily multimatrix mesalamine in children and adolescents with mild-to-
+https://doi.org/10.
+moderate UC or those in remission.
+1016/j.eclinm.2023.
+102232
+Methods This prospective, randomised, parallel-group, phase 3 study (8-week double-blind acute [DBA] phase; 26-
+week double-blind maintenance [DBM] phase; and an additional 8-week, open-label acute [OLA] phase) was
+conducted in 33 sites across North America, Europe, and the Middle East between December 12, 2014, and
+November 28, 2018. Eligible patients aged 5-17 years and weighing 18-90 kg were randomised 1:1 to either low
+(900-2400 mg) or high (1800-4800 mg) oral doses of multimatrix mesalamine once daily, stratified by body
+weight. Interactive response technology was used for randomisation. The primary efficacy outcome was to
+estimate the clinical response of multimatrix mesalamine (two doses) in different weight groups. Efficacy and
+safety analyses were conducted in the safety analysis set (Clinicaltrials.gov: NCT02093663; Study completed).
+Findings Overall, 107 patients were randomised into the DBA (n = 54) or DBM phase (n = 88; directly or after
+completing the double-blind or OLA phases); the overall safety analysis set included 105 patients. In the DBA phase,
+the high-dose group (n = 17; 65.4%) achieved a higher clinical response rate than the low-dose (n = 10; 37.0%) group;
+difference 28.3% (95% CI: 2.5-54.2; p = 0.039), odds ratio (OR) 3.21 (95% CI: 1.04-9.88). In the DBM phase at Week
+26, similar proportions of patients maintained clinical response in the low-dose (n = 23; 54.8%) and high-dose (n = 24;
+53.3%) groups: OR 0.99 (0.42-2.34); P = 0.981. Overall, 246 treatment-emergent adverse events (TEAEs) were
+reported in 73 patients (69.5%); 23 TEAEs in 14 patients (13.3%) were considered related to the study drug. No
+treatment-related deaths were reported.
+Interpretation Our findings suggested that the benefit-risk ratio of once-daily multimatrix mesalamine in paediatric
+patients was favourable and comparable with that reported in adults with mild-to-moderate UC.
+Funding Shire Development LLC, a Takeda company.
+Copyright © 2023 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license
+(http://creativecommons.org/licenses/by/4.0/)
+Keywords: Efficacy; Mild-to-moderate ulcerative colitis; Multimatrix mesalamine; Paediatric; Phase 3 study; Safety;
+Trial
+Introduction
+bloody diarrhoea.¹ The characteristic disease course of UC
+Ulcerative colitis (UC) is a chronic inflammatory disease
+is marked by remissions and exacerbations over a number
+of the colon and rectum whose major clinical feature is
+of years.² Paediatric-onset UC constitutes approximately
+*Corresponding author. Faculty of Medicine, Blizard Institute, Queen Mary University of London, 4 Newark Street, London E1 2AT, UK.
+E-mail address: n.m.croft@qmul.ac.uk (N.M. Croft).
+www.thelancet.com Vol 65 November, 2023
+1
+Articles
+Research in context
+Evidence before this study
+Added value of this study
+Multimatrix mesalamine, a once-daily, high-strength, oral
+To our knowledge, this was the first randomised study of
+formulation of mesalamine, is efficacious in induction and
+once-daily mesalamine in children. It has demonstrated the
+maintenance of ulcerative colitis (UC) remission in adult
+efficacy of once-daily oral dosing of multimatrix mesalamine
+patients with mild-to-moderate disease. However, to date, no
+in inducing and maintaining clinical response in paediatric
+randomised controlled trials (RCTs) have been conducted on
+patients with mild-to-moderate UC, or those in remission.
+the safety and efficacy of once-daily multimatrix mesalamine
+in children and adolescents with UC. PubMed was searched
+Implications of all the available evidence
+The results from this study show that multimatrix
+for articles containing the terms "multimatrix mesalamine",
+"ulcerative colitis", "randomized trial", and "adolescent OR
+mesalamine offers a favourable benefit-risk profile in
+children OR pediatric". The date range used was from
+paediatric patients with mild-to-moderate UC and provides
+evidence to support once-daily dosing in children.
+database inception to August 1, 2023.
+15%-20% of all UC cases, with incidence ranging from
+Research Equity Act post-approval commitment with the
+one to four of 100,000 individuals per year in North
+United States (US) Food and Drug Administration
+America and Europe. 3,4 Most children with UC are diag-
+(FDA) intended to estimate clinical response for two
+nosed in late childhood and adolescence, although it can
+doses (low and high) across a range of weight groups.
+also occur earlier in life.¹ The disease course tends to be
+This study was conducted in 33 sites across North
+more severe in children than in adults, with more exten-
+America, Europe, and the Middle East and screened 165
+sive localisation.⁵ Children with UC require hospital-
+patients for eligibility (Fig. 1). The inclusion and exclu-
+isation for acute severe exacerbation (25%-30% over 3-4
+sion criteria used are detailed in the Supplementary
+years) more often than adults, and they more often un-
+Methods and Supplementary Table S1.
+dergo colectomy for medically refractory disease.6-¹ In
+The study included a screening period of 3-21 days,
+children, a colectomy rate of 30%-40% is seen at 10 years
+an 8-week double-blind acute (DBA) phase, and a 26-
+compared with that of 20% in adults with UC.
+week double-blind maintenance (DBM) phase (Fig. 2).
+Mesalamine (5-aminosalicylic acid [5-ASA]), a stan-
+There was an additional 8-week, open-label acute (OLA)
+dard first-line treatment for mild-to-moderate UC, 11.12 is
+phase for patients who did not achieve a clinical
+well tolerated and has a comparable safety profile in
+response, who were discontinued from the DBA phase
+children and adults. 10 Oral mesalamine preparations in
+and met certain criteria, or who were discontinued from
+children are typically administered in two to three
+the DBA phase after ≥2 weeks and, in the investigator's
+divided doses daily. 13,14 Multimatrix mesalamine is a
+opinion, did not benefit from treatment in the DBA
+once-daily, high-strength, oral formulation of 5-ASA that
+phase. Clinical response was defined as partial Ulcerative
+is effective for both the induction and maintenance of
+Colitis Disease Activity Index (UC-DAI) ≤1 (with rectal
+UC remission in adult patients with mild-to-moderate
+bleeding = 0, stool frequency ≤1, and Physician's Global
+UC.¹⁵⁻¹⁷ Induction treatment with multimatrix mesal-
+Assessment [PGA] = 0) (Supplementary Table S2).
+amine is well tolerated with similar rates of treatment-
+This study was conducted in accordance with the
+emergent adverse events (TEAEs) as observed among
+International Council for Harmonisation-Good Clinical
+patients treated with a placebo; moreover, maintenance
+Practice guidelines, Declaration of Helsinki, and the
+with multimatrix mesalamine was found to be well
+local ethical and legal requirements. Each patient or the
+tolerated in a pooled analysis of long-term safety. 17,18
+patient's legally authorised representative, as applicable,
+Currently, limited data are available on the safety and
+provided written informed consent.
+efficacy of once-daily multimatrix mesalamine in chil-
+dren and adolescents with UC.
+Randomisation and masking
+This study aimed to evaluate the safety and efficacy
+In the DBA phase, patients were randomised in a 1:1 ratio
+of multimatrix mesalamine in children and adolescents
+into low (900-2400 mg) or high (1800-4800 mg) once-
+with mild-to-moderate UC or those in remission, and to
+daily doses of multimatrix mesalamine. Eligible patients
+select an appropriate once-daily dosage in the paediatric
+from the DBA or OLA phase were re-randomised into the
+population across a range of weight groups.
+DBM phase. Randomisation was stratified by body weight
+group. Patients and investigators were blinded to the study
+Methods
+treatment. The allocation sequence was generated by
+Study design and participants
+interactive response technology, and the blinding part was
+This prospective, multicentre, randomised, double-
+ensured by keeping both doses of multimatrix mesal-
+blind, parallel-group, phase 3 study was a Pediatric
+amine in identical blister packs.
+2
+www.thelancet.com Vol 65 November, 2023
+Articles
+Screened for eligibility (n = 165)
+Excluded (n = 58)
+Randomised (n = 107)
+DBA phase (n = 54)
+DBM phase (n = 88)*
+Overall safety analysis set (n = 105)
+DBA phase safety analysis set
+OLA phase safety analysis set
+(n = 53)
+(n 18)
+Completed DBA phase (n = 41)
+Completed OLA phase (n = 12)
+Discontinued study (n = 6)
+Discontinued study (n = 6)
+due to:
+due to:
+- Adverse event (n = 1)
+- Adverse event (n = 1)
+- Lack of efficacy (n = 5)
+- Lack of efficacy (n = 5)
+Entered DBM phase via
+Entered DBM phase directly
+Entered DBM phase via
+DBA phase (n = 27)
+(n = 52)
+OLA phase (n = 8)
+DBM phase safety analysis set (n = 87)
+Completed DBM phase (n = 66)
+Discontinued study (n = 21) due to:
+- Adverse event (n = 5)
+- Lack of efficacy (n = 13)
+- Other (n = 2)
+- Missing (n = 1)
+Completed study (n = 65)
+Fig. 1: Patient disposition flow diagram. DBA = double-blind acute; DBM = double-blind maintenance; OLA = open-label acute; PGA =
+Physician's Global Assessment; UC-DAI = Ulcerative Colitis Disease Activity Index. *Patients with a clinical response (i.e., partial UC-DAI ≤1
+[defined as rectal bleeding = 0, stool frequency ≤1, and PGA = 0]) after completion of treatment in either the DBA or OLA phase were eligible
+for re-randomisation into the DBM phase provided they still met all baseline visit (Visit 2) inclusion and exclusion criteria (where reassessed).
+The overall safety analysis set consisted of randomised patients who had taken at least one dose of investigational product.
+www.thelancet.com Vol 65 November, 2023
+3
+Articles
+Screening
+Baseline
+Does the patient have partial UC-DAI ≥2 AND
+Does the patient have partial UC-DAI ≤1 AND
+mucosal appearance (endoscopy score) = 2 or 3?*
+mucosal appearance (endoscopy score) = 1?*
+Yes
+Yes
+DBA phase
+8 weeks
+Does the patient have
+Yes
+DBM phase
+partial UC-DAI ≤1?
+26 weeks
+No
+OLA phase
+8 weeks
+Does the patient have
+Yes
+partial UC-DAI ≤1?
+No
+Final/withdrawal visit and follow-up
+Fig. 2: Study design. DBA = double-blind acute; DBM = double-blind maintenance; OLA = open-label acute; PGA = Physician's Global
+Assessment; UC-DAI = Ulcerative Colitis Disease Activity Index. *Patients with partial UC-DAI ≥2 (with a combined rectal bleeding and stool
+frequency score of ≥1 and PGA = 1 or 2) and with mucosal appearance (endoscopy score) = 2 or 3. Patients with partial UC-DAI ≤1 (with rectal
+bleeding = 0 and stool frequency ≤1 and PGA = 0) and with mucosal appearance (endoscopy score) = 0 or 1.
+Procedures
+After the screening visit (Visit 1), patients who were
+For the purpose of this study, two paediatric formulations
+eligible proceeded to the baseline visit (Visit 2). At Visit
+(300- and 600-mg tablets) were developed, which were
+2, patients with partial UC-DAI ≥2 (with a combined
+smaller in size and of lower dosages than the commer-
+rectal bleeding and stool frequency score of ≥1 and
+cially available formulation (1.2 g). Multimatrix mesal-
+PGA = 1 or 2) and with mucosal appearance (endoscopy
+amine was administered based on the patient's body
+score) = 2 or 3 were eligible to enter the DBA phase, and
+weight: 900 or 1800 mg once daily for patients weighing
+patients with partial UC-DAI ≤1 (with rectal
+18 to ≤23 kg, 1200 or 2400 mg once daily for patients
+bleeding = 0 and stool frequency ≤1 and PGA = 0) and
+weighing >23 to ≤35 kg, 1800 or 3600 mg once daily for
+with mucosal appearance (endoscopy score) = 0 or 1
+patients weighing >35 to ≤50 kg, and 2400 or 4800 mg
+were eligible to enter the DBM phase. Patients with a
+once daily for patients weighing >50 to ≤90 kg. In the
+clinical response after treatment completion in either
+OLA phase, patients were treated with a high-dose multi-
+the DBA or OLA phase were eligible to enter the DBM
+matrix mesalamine as appropriate for their weight group.
+phase based on their partial UC-DAI scores (i.e., without
+4
+www.thelancet.com Vol 65 November, 2023
+Articles
+additional endoscopy). Patients without a clinical
+serious TEAEs, TEAEs related to the study drug, TEAEs
+response after treatment completion in both the DBA
+leading to discontinuation of the study drug, and TEAEs
+and OLA phases were not eligible to enter the DBM
+leading to death were summarised.
+phase and were discontinued.
+Patients were instructed to bring their unused study
+Statistical analysis
+medication and empty/used study medication pack-
+This study was an estimation study with no formal hy-
+aging at every visit. Treatment compliance was assessed
+pothesis testing; therefore, the study was not powered to
+at each visit at the container/packaging level for unused
+detect differences between treatment groups. More than
+study medication that was contained within the original
+100 patients were to be screened and up to 80 patients
+tamper-evident sealed container or at the individual
+were to be enrolled in the DBA phase of the study. After
+count level for opened containers/packaging; compli-
+agreement with the US FDA, the sample size for the
+ance was calculated for all study visits after the baseline
+DBA phase was reduced to 53 patients owing to diffi-
+visit except at follow-up. Patients were considered
+culties in recruitment. p-values are presented as
+compliant if they had taken 80%-120% of their study
+descriptive statistics only. The overall safety analysis set
+medication.
+consisted of randomised patients who had taken ≥1
+dose of multimatrix mesalamine. An independent data
+Outcomes
+monitoring committee reviewed the safety data gener-
+The different outcome measures used in this study,
+ated during the study.
+such as PGA, Pediatric Ulcerative Colitis Activity Index
+In the DBA phase, the primary efficacy outcome was
+(PUCAI), and UC-DAI, are detailed in Supplementary
+compared between treatment groups using an uncor-
+Table S2. The primary outcomes were the proportion
+rected chi-square test on the DBA safety analysis set. In
+of patients with a clinical response at Week 8 for the
+the DBM phase, the primary efficacy outcome was
+DBA phase and the proportion of patients who had
+compared between the treatment groups using a
+maintained a clinical response at Week 26 for the DBM
+Cochran-Mantel-Haenszel test stratified for three levels
+phase. Secondary outcomes included the proportion of
+of Week 8 responder status (entered DBM phase
+patients with a clinical and endoscopic response at Week
+directly, responder at Week 8 of the DBA phase, or
+8 (DBA phase) and Week 26 (DBM phase); the change
+responder at Week 8 of the OLA phase) in the DBM
+in Daily Ulcerative Colitis Scale (DUCS) score¹⁹ for
+phase safety analysis set. Analyses were performed us-
+children and caregivers from baseline to Week 8 (DBA
+ing SAS version 9.2 or higher (SAS Institute Inc., Cary,
+phase) and from Week 0 to Week 26 (DBM phase); the
+NC, USA). The detailed statistical analysis plan used in
+proportion of patients with improvement (change of
+this study is presented in the Supplementary Material.
+≥20 points) in PUCAI score²⁰ from baseline to Week 8
+This study is registered with ClinicalTrials.gov
+(DBA phase); and the proportion of patients in remis-
+(NCT02093663).
+sion (PUCAI <10) at Week 26 (DBM phase). Endoscopic
+activity was assessed using the Mayo endoscopic score.
+Role of the funding source
+Clinical and endoscopic response was defined as UC-
+The funder of the study had a role in the study design,
+DAI ≤2 with rectal bleeding = 0, stool frequency ≤1,
+data collection, data analysis/interpretation, clinical
+and PGA = 0 and with mucosal healing (endoscopy
+study report writing, and the decision to submit the
+score ≤1) based on central and local reading; in addi-
+manuscript. All authors had full access to all the data in
+tion, in the DBA phase, there must have been a ≥1-point
+the study and accept responsibility for the decision to
+reduction in endoscopy score from baseline. The DUCS
+submit for publication.
+is a content-valid patient/observer-reported outcome
+instrument for capturing the daily signs and symptoms
+of UC in paediatric patients aged 5-17 years with mild-
+Results
+to-moderate UC in a clinical trial setting.¹⁹
+Between December 12, 2014, and November 28, 2018, a
+Safety was assessed by reviewing adverse events,
+total of 165 patients were screened, of whom 107 met
+clinical laboratory tests, physical examinations, vital
+the enrolment criteria and were randomised into the
+signs, medical and medication history, and stool char-
+DBA (n = 54) or DBM phase (n = 88), either directly or
+acteristics. Adverse events were coded using the Medical
+after completing treatment in the DBA or OLA phase
+Dictionary for Regulatory Activities (MedDRA). TEAEs
+(Fig. 1). The safety analysis set had 105 patients; the
+were classified according to their severity (mild, mod-
+DBA phase, OLA phase, and DBM phase safety analysis
+erate, or severe). Serious TEAEs were defined as those
+sets had 53, 18, and 87 patients, respectively. In the
+that resulted in death, congenital anomalies or birth
+DBM phase safety analysis set, 52 entered directly, 27
+defects, persistent or significant disability, inpatient
+entered through the DBA phase, and eight entered
+hospitalisation, or prolonged hospitalisation, or those
+through the OLA phase (Fig. 1). Overall, 65 patients
+considered life-threatening or important medical events.
+(60.7%) completed the study. Among the 42 patients
+The number and percentage of patients with any TEAEs,
+(39.3%) who did not complete the study, 35
+www.thelancet.com Vol 65 November, 2023
+5
+Articles
+discontinued from their last study phase owing to lack
+respectively, were in remission (PUCAI score <10). In
+of efficacy (21.5%), adverse events (6.5%), or other
+the DBM phase, 39 (92.9%) patients in the low-dose
+reason (3.7%); four (3.7%) were not enrolled in the
+group and 39 (86.7%) in the high-dose group were in
+DBM phase; two (1.9%) did not continue in the study;
+remission. In the OLA phase, four (22.2%) patients were
+and one (0.9%) did not indicate a reason for withdrawal
+in remission.
+(Fig. 1, Supplementary Table S3).
+In the DBA phase, the multimatrix mesalamine dose
+The patient populations in the three study phases
+per kg for the low-dose and high-dose groups, respectively,
+were not mutually exclusive; as such, direct comparison
+were 35.6 and 77.4 mg for patients with baseline weight of
+of the baseline demographic characteristics is not
+>23 to ≤35 kg, 41.6 and 84.7 mg for patients weighing >35
+possible, and data interpretation needs to be performed
+to ≤50 kg, and 38.9 and 78.5 mg for patients weighing >50
+with caution. The median age of patients was 15.0 years
+to ≤90 kg (Table 2). In the DBM phase, the multimatrix
+(range: 5-17 years; Table 1). The safety analysis set
+mesalamine dose per kg for the low-dose and high-dose
+included 10 patients (9.5%) aged 5-10 years and 95
+groups, respectively, was 39.1 and 89.3 mg for patients
+patients (90.5%) aged 11-17 years. There were similar
+weighing 18 to ≤23 kg, 37.4 and 82.3 mg for patients
+proportions of male (49.5%) and female (50.5%) pa-
+weighing >23 to ≤35 kg, 40.7 and 83.3 mg for patients
+tients. Patient demographics by phase were similar to
+weighing >35 to ≤50 kg, and 39.3 and 76.6 mg for patients
+those observed overall, with the exceptions of more male
+weighing >50 to ≤90 kg (Table 2).
+than female patients in the DBA (64.2% VS 35.8%) and
+During the DBA phase, most patients (52 [98.1%])
+OLA (72.2% vs 27.8%) phases and of more female than
+took 80%-120% of their study medication (26 patients
+male patients in the DBM phase (55.2% VS 44.8%;
+[96.3%] in the low-dose group and 26 patients [100.0%]
+Table 1). For the DBA and DBM phases, no notable
+in the high-dose group); of these 52 patients, 20 (38.5%)
+differences were seen between patients receiving low-
+and 32 (61.5%) were 5-13 and 14-17 years of age,
+dose or high-dose multimatrix mesalamine. Mean
+respectively. During the OLA phase, 14 patients (77.8%)
+(standard deviation [SD]) time since diagnosis was 16.6
+were 80%-120% compliant; of the 14 patients, eight
+(31.5) months, and 58 patients (55.2%) were not newly
+(57.1%) were 5-13 years of age and six (42.9%) were
+diagnosed. The mean (SD) number of acute UC epi-
+14-17 years of age. During the DBM phase, most pa-
+sodes in the past year and since diagnosis was 0.9 (0.9)
+tients (81 [93.1%]) were 80%-120% compliant (38 pa-
+and 1.6 (1.3), respectively. The extent of disease was
+tients [90.5%] in the low-dose group and 43 patients
+classified only for patients who were not newly diag-
+[95.6%] in the high-dose group); of these 81 patients, 24
+nosed; it was noted as left-sided in 22 patients (21.0%)
+(29.6%) were 5-13 years of age and 57 (70.4%) were
+and involved the transverse colon in 14 patients (13.3%);
+14-17 years of age.
+21 patients (20.0%) had pancolitis. Patient characteris-
+In the DBA phase, a higher clinical response rate at
+tics by phase were similar to those observed overall,
+Week 8 was observed among patients on high-dose
+except that most patients in the DBA (77.4%) and OLA
+(n = 17; 65.4%) vs low-dose (n = 10; 37.0%) multi-
+(77.8%) phases were newly diagnosed (Table 1). Overall,
+matrix mesalamine (difference = 28.3% [95% CI:
+87 (82.9%) patients received prior medications, and 102
+2.5-54.2]; Fig. 3); the odds ratio (OR) was 3.21 (95% CI:
+(97.1%) reported taking concomitant medications.
+1.04-9.88 [p = 0.039]). In the DBM phase, similar pro-
+Aminosalicylic acid and similar agents were the most
+portions of patients maintained clinical response at
+common type of medications taken prior to and during
+Week 26 in the low-dose (n = 23; 54.8%) and high-dose
+the study (Table 1).
+(n = 24; 53.3%) groups (difference = -1.4% [95%
+Baseline disease activity scores confirmed that most
+CI: -22.4 to 19.5]); the OR was 0.99 (95% CI: 0.42-2.34;
+patients had mild-to-moderate UC and are presented in
+p = 0.98; Fig. 3). Sensitivity analyses were performed for
+Table 1. Particularly, in the DBA phase, the mean (SD)
+both the DBA and DBM phases on the following pa-
+partial UC-DAI score was 4.0 (1.5) in the low-dose group
+rameters: modified clinical response, complete case
+(n = 27) and 3.9 (1.7) in the high-dose group (n = 25).
+analysis, and last observation carried forward. The re-
+The mean (SD) partial UC-DAI score in the DBM phase
+sults were similar to those from the primary efficacy
+was 0.1 (0.3) and 0.2 (0.4) in the low-dose (n = 41) and
+outcome analysis.
+high-dose (n = 44) groups, respectively. In the OLA
+In the DBA phase, interpretation of the proportion of
+phase, the partial UC-DAI score was 2.8 (1.7) (n = 16).
+patients with a clinical and endoscopic response at Week
+The mean (SD) full UC-DAI score based on central
+8 was limited by the small number of patients with
+reading was 5.6 (1.7) in the low-dose group (n = 25) and
+endoscopic data available at both Week 0 and Week 8
+6.0 (1.9) in the high-dose group (n = 23) in the DBA
+(two of 27 patients for low-dose and three of 26 patients
+phase; 0.6 (0.7) in the low-dose group (n = 26) and 0.6
+for high-dose multimatrix mesalamine). In the DBM
+(0.6) in the high-dose group (n = 29) in the DBM phase;
+phase, based on central reading at Week 26, 13 (31.0%)
+and 1.7 (-) in the high-dose group (n = 1) in the OLA
+VS 11 (24.4%) patients receiving low-dose vs high-dose
+phase. In the DBA phase, no (0%) and two (7.7%) pa-
+mesalamine had a clinical and endoscopic response.
+tients in the low-dose and high-dose groups,
+The difference between treatment groups was -6.5%
+6
+www.thelancet.com Vol 65 November, 2023
+Articles
+DBA phase
+DBM phase
+OLA phase
+Total (N = 105)
+Low-dose MMX
+High-dose MMX
+Overall
+Low-dose MMX
+High-dose MMX
+Overall
+High-dose MMX
+(n 27)
+(n 26)
+(n 53)
+(n 42)
+(n 45)
+(n 87)
+(n 18)
+Age, years
+-
+-
+-
+-
+Mean (SD)
+13.6 (2.2)
+14.4 (2.3)
+14.0 (2.3)
+14.3 (2.2)
+14.2 (2.88)
+14.2 (2.6)
+13.4 (2.3)
+14.1 (2.6)
+Median (IQR)
+14.0 (12-15)
+15.0 (13-16)
+14.0 (13-15)
+15.0 (13-16)
+15.0 (13-16)
+15.0 (13-16)
+13.5 (13-15)
+15.0 (13-16)
+Age category
+-
+-
+-
+-
+5-10 years
+2 (7.4%)
+2 (7.7%)
+4 (7.5%)
+3 (7.1%)
+5 (11.1%)
+8 (9.2%)
+1 (5.6%)
+10 (9.5%)
+11-17 years
+25 (92.6%)
+24 (92.3%)
+49 (92.5%)
+39 (92.9%)
+40 (88.9%)
+79 (90.8%)
+17 (94.4%)
+95 (90.5%)
+Sex
+-
+-
+-
+-
+Male
+16 (59.3%)
+18 (69.2%)
+34 (64.2%)
+19 (45.2%)
+20 (44.4%)
+39 (44.8%)
+13 (72.2%)
+52 (49.5%)
+Female
+11 (40.7%)
+8 (30.8%)
+19 (35.8%)
+23 (54.8%)
+25 (55.6%)
+48 (55.2%)
+5 (27.8%)
+53 (50.5%)
+Raceᵇ
+-
+-
+-
+-
+White
+25 (92.6%)
+24 (92.3%)
+49 (92.5%)
+40 (95.2%)
+44 (97.8%)
+84 (96.6%)
+17 (94.4%)
+101 (96.2%)
+Black/African American
+1 (3.7%)
+0
+1 (1.9%)
+1 (2.4%)
+0
+1 (1.1%)
+0
+1 (1.0%)
+Asian
+1 (3.7%)
+2 (7.7%)
+3 (5.7%)
+1 (2.4%)
+1 (2.2%)
+2 (2.3%)
+1 (5.6%)
+3 (2.9%)
+Ethnicity
+-
+-
+-
+-
+Hispanic or Latino
+0
+0
+0
+1 (2.4%)
+0
+1 (1.1%)
+0
+1 (1.0%)
+Weight (kg)
+Mean (SD)
+52.8 (12.9)
+52.6 (13.1)
+52.7 (12.9)
+54.4 (11.9)
+53.7 (14.8)
+54.0 (13.4)
+54.3 (13.2)
+53.2 (13.8)
+Median (IQR)
+53.1 (41.0-65.2)
+53.4 (42.8-63.0)
+53.1
+54.90 (45.4-64.4)
+53.0 (45.6-64.2)
+54.7
+53.6 (48.7-63.0)
+53.5 (44-64)
+(42.8-63.0)
+(45.4-64.4)
+Weight group (kg)
+18 to ≤23
+0
+0
+0
+1 (2.4%)
+2 (4.4%)
+3 (3.4%)
+0
+3 (2.9%)
+>23 to ≤35
+4 (14.8%)
+3 (11.5%)
+7 (13.2%)
+2 (4.8%)
+2 (4.4%)
+4 (4.6%)
+2 (11.1%)
+9 (8.6%)
+>35 to ≤50
+7 (25.9%)
+7 (26.9%)
+14 (26.4%)
+11 (26.2%)
+13 (28.9%)
+24 (27.6%)
+4 (22.2%)
+28 (26.7%)
+>50 to ≤90
+16 (59.3%)
+16 (61.5%)
+32 (60.4%)
+28 (66.7%)
+28 (62.2%)
+56 (64.4%)
+12 (66.7%)
+65 (61.9%)
+Height (cm)
+Mean (SD)
+161.6 (12.35)
+164.4 (13.73)
+163.0 (13.00)
+162.7 (11.23)
+161.0 (15.82)
+161.8
+165.4 (14.84)
+161.7 (14.01)
+(13.74)
+Median (IQR)
+165.0
+164.5
+165.0
+163.4 (156-170.2)
+164.0 (157-173)
+164.0
+167.4 (161-176.4)
+164.0 (156.2-172.0)
+(155.0-169.7)
+(156.2-175.4)
+(156.2-173.0)
+(156-171.1)
+BMI, kg/m²
+-
+-
+-
+-
+Mean (SD)
+19.9 (2.9)
+19.2 (3.0)
+19.6 (2.9)
+20.3 (3.0)
+20.4 (4.2)
+20.4 (3.7)
+19.5 (2.2)
+20.0 (3.6)
+Median (IQR)
+20.7 (17.5-21.9)
+19.0 (17.1-21.0)
+19.2
+20.2 (18.6-21.7)
+20.1 (17.7-22.2)
+20.1 (18-22)
+19.7 (17.4-20.9)
+19.7 (17.5-21.9)
+(17.1-21.6)
+Time since diagnosisᶜ (months)
+1.7 (4.7)
+12.7 (38.3)
+7.1 (27.4)
+20.0 (32.3)
+16.6 (32.1)
+18.2 (32.0)
+17.1 (45.7)
+16.6 (31.5)
+Method of diagnosis
+Sigmoidoscopy
+5 (18.5%)
+7 (26.9%)
+12 (22.6%)
+6 (14.3%)
+8 (17.8%)
+14 (16.1%)
+3 (16.7%)
+19 (18.1%)
+Colonoscopy
+27 (100.0%)
+22 (84.6%)
+49 (92.5%)
+40 (95.2%)
+41 (91.1%)
+81 (93.1%)
+15 (83.3%)
+97 (92.4%)
+Compatible histology
+27 (100.0%)
+26 (100.0%)
+53 (100.0%)
+42 (100.0%)
+45 (100.0%)
+87 (100.0%)
+18 (100.0%)
+105 (100.0%)
+Number of newly diagnosed
+23 (85.2%)
+18 (69.2%)
+41 (77.4%)
+15 (35.7%)
+18 (40.0%)
+33 (37.9%)
+14 (77.8%)
+47 (44.8%)
+patients
+Number of acute UC episodes in
+1.8 (1.0) (n = 4)
+1.1 (0.6) (n = 8)
+1.3 (0.8)
+1.0
+(1.0)
+(n
+=
+26)
+0.9
+(0.8)
+(n
+=
+27)
+0.9 (0.9)
+1.0 (0.8) (n = 4)
+0.9 (0.9)
+the past yearᵉ
+(n 12)
+(n 53)
+Number of acute UC episodes since 2.7 (2.1) (n = 3)
+1.8 (1.0) (n = 8)
+2.0 (1.3)
+1.6 (1.3) (n = 26)
+1.4 (1.2) (n = 27)
+1.5 (1.2)
+2.7 (1.2) (n = 3)
+1.6 (1.3)
+diagnosis
+(n 11)
+(n 53)
+Classification of extent of disease -
+-
+-
+-
+-
+-
+-
+-
+Left-sided
+3 (11.1%)
+3 (11.5%)
+6 (11.3%)
+9 (21.4%)
+12 (26.7%)
+21 (24.1%)
+2 (11.1%)
+22 (21.0%)
+Transverse colon involvement
+0
+1 (3.8%)
+1 (1.9%)
+9 (21.4%)
+4 (8.9%)
+13 (14.9%)
+1 (5.6%)
+14 (13.3%)
+Pancolitis
+1 (3.7%)
+4 (15.4%)
+5 (9.4%)
+8 (19.0%)
+11 (24.4%)
+19 (21.8%)
+1 (5.6%)
+21 (20.0%)
+Rectal involvement
+3 (11.1%)
+5 (19.2%)
+8 (15.1%)
+22 (52.4%)
+19 (42.2%)
+41 (47.1%)
+3 (16.7%)
+44 (41.9%)
+Extraintestinal manifestations
+0
+3 (11.5%)
+3 (5.7%)
+6 (14.3%)
+5 (11.1%)
+11 (12.6%)
+2 (11.1%)
+12 (11.4%)
+History of significant GI surgery
+0
+0
+0
+0
+1 (2.2%)
+1 (1.1%)
+0
+1 (1.0%)
+Full extent of the disease (cm)
+-
+-
+-
+-
+-
+-
+-
+-
+≤15
+2 (7.4)
+1 (3.8)
+3 (5.7)
+5 (11.9)
+6 (13.3)
+11 (12.6)
+1 (5.6)
+12 (11.4)
+>15
+2 (7.4)
+7 (26.9)
+9 (17.0)
+21 (50.0)
+21 (46.7)
+42 (48.3)
+3 (16.7)
+45 (42.9)
+(Table 1 continues on next page)
+www.thelancet.com Vol 65 November, 2023
+7
+Articles
+DBA phase
+DBM phase
+OLA phase
+Total (N = 105)
+Low-dose MMX
+High-dose MMX
+Overall
+Low-dose MMX
+High-dose MMX
+Overall
+High-dose MMX
+(n 27)
+(n 26)
+(n 53)
+(n 42)
+(n 45)
+(n 87)
+(n 18)
+(Continued from previous page)
+Baseline disease activity
+Partial UC-DAI score
+4.0 (1.5)
+3.9 (1.7) (n = 25) -
+0.1 (0.3) (n = 41) 0.2 (0.4) (n = 44) -
+2.8 (1.7) (n = 16) -
+Full UC-DAI score (central
+5.6 (1.7) (n = 25) 6.0 (1.9) (n = 23) -
+0.6 (0.7) (n = 26) 0.6 (0.6) (n = 29) -
+1.7 (-) (n 1)
+-
+reading)
+PUCAI scores
+35.6 (14.2)
+31.9 (14.1)
+-
+1.3 (3.3)
+2.8 (5.0)
+-
+24.1 (19.4)
+-
+(n 17)
+Mild (10-34)
+10 (37.0%)
+10 (38.5%)
+-
+3 (7.1%)
+6 (13.3%)
+-
+7 (38.9%)
+-
+Moderate (35-64)
+15 (55.6%)
+14 (53.8%)
+-
+0
+0
+-
+6 (33.3%)
+-
+Severe (≥65)
+2 (7.4%)
+0 (0%)
+-
+0
+0
+-
+0
+-
+Remission (PUCAI score <10)
+0
+2 (7.7%)
+-
+39 (92.9%)
+39 (86.7%)
+-
+4 (22.2%)
+-
+Any prior medication
+22 (81.5%)
+17 (65.4%)
+39 (73.6%)
+36 (85.7%)
+38 (84.4%)
+74 (85.1%)
+-
+87 (82.9%)
+Aminosalicylic acid and similar
+6 (22.2%)
+6 (23.1%)
+12 (22.6%)
+25 (59.5%)
+27 (60.0%)
+52 (59.8%)
+-
+58 (55.2%)
+agents
+Local corticosteroids
+0
+1 (3.8%)
+1 (1.9%)
+4 (9.5%)
+3 (6.7%)
+7 (8.0%)
+-
+7 (6.7%)
+Local corticosteroids, oral
+2 (7.4%)
+1 (3.8%)
+3 (5.7%)
+0
+2 (4.4%)
+2 (2.3%)
+-
+4 (3.8%)
+Any concomitant medication
+27 (100.0%)
+24 (92.3%)
+51 (96.2%)
+41 (97.6%)
+43 (95.6%)
+84 (96.6%)
+18 (100.0%)
+102 (97.1%)
+Aminosalicylic acid and similar
+18 (66.7%)
+17 (65.4%)
+35 (66.0%)
+34 (81.0%)
+37 (82.2%)
+71 (81.6%)
+12 (66.7%)
+82 (78.1%)
+agents
+Local corticosteroids
+8 (29.6%)
+8 (30.8%)
+16 (30.2%)
+8 (19.0%)
+6 (13.3%)
+14 (16.1%)
+9 (50.0%)
+24 (22.9%)
+Local corticosteroids, oral
+3 (11.1%)
+1 (3.8%)
+4 (7.5%)
+1 (2.4%)
+3 (6.7%)
+4 (4.6%)
+1 (5.6%)
+7 (6.7%)
+Data are n (%), median (IQR), mean (SD). BMI = body mass index; DBA = double-blind acute; DBM = double-blind maintenance; GI = gastrointestinal; MMX = multimatrix mesalamine; OLA = open-label
+acute; SD = standard deviation; UC = ulcerative colitis. ᵃPatients who received one or more doses of multimatrix mesalamine. ᵇPercentages may not total to 100 due to rounding. Multiple methods may
+apply per participant. A minimum of two techniques must be selected and one of them must be compatible histology. Time since diagnosis (months) is calculated as (screening date diagnosis date + 1)/
+30. °Only for patients who were not newly diagnosed. *Measured from anal margin (cm) at the time of the most recent endoscopy.
+Table 1: Demographic and baseline clinical characteristics: overall safety analysis set (N = 105).ᵃ
+(95% CI: -25.3 to 12.3; p = 0.54; Fig. 4A). Based on local
+In the DBA phase, the least-squares (LS) mean
+reading at Week 26, 18 (42.9%) vs 12 (26.7%) patients
+(standard error of the mean [SEM]) change from base-
+receiving low-dose VS high-dose multimatrix mesal-
+line in DUCS score at Week 8 was -17.9 (2.83) vs -23.3
+amine had a clinical and endoscopic response. The
+(2.56) for patients in the low-dose vs high-dose groups.
+difference between treatment groups was -16.2% (95%
+The difference in LS mean between treatment groups
+CI: -36.0 to 3.6; p = 0.13; Fig. 4A).
+was -5.4 (95% CI: -13.1 to 2.4; p = 0.17; Fig. 4B). In the
+Baseline weight group
+DBA phase (n = 53)
+DBM phase (n = 87)
+n
+Average weight (kg)
+Dose per kg (mg)
+n
+Average weight (kg)
+Dose per kg (mg)
+18 to ≤23 kgᵃ
+I
+-
+I
+I
+-
+-
+Low dose
+-
+I
+-
+1
+23.0
+39.1
+High dose
+-
+-
+-
+2
+20.2
+89.3
+>23 to ≤35 kg
+-
+-
+-
+-
+-
+-
+Low dose
+4
+33.8
+35.6
+2
+32.1
+37.4
+High dose
+3
+31.0
+77.4
+2
+29.2
+82.3
+>35 to ≤50 kg
+I
+I
+-
+-
+-
+-
+Low dose
+7
+43.2
+41.6
+11
+44.3
+40.7
+High dose
+7
+42.5
+84.7
+13
+43.2
+83.3
+>50 to ≤90 kg
+-
+-
+-
+-
+-
+-
+Low dose
+16
+61.7
+38.9
+28
+61.1
+39.3
+High dose
+16
+61.1
+78.5
+28
+62.7
+76.6
+DBA = double-blind acute; DBM = double-blind maintenance. There were no patients in the 18 to ≤23-kg weight group in the DBA phase.
+Table 2: Multimatrix mesalamine dose per kg by baseline weight group.
+8
+www.thelancet.com Vol 65 November, 2023
+Articles
+Difference 28.3% (95% CI: 2.5 to 54.2)
+OR = 0.99 (95% CI: 0.4 to 2.3)
+p = 0.039*
+p = 0.98
+70
+65.4
+60
+54.8
+53.3
+50
+Patients, %
+40
+37.0
+30
+20
+10
+0
+(n = 27)
+(n = 26)
+(n = 42)
+(n = 45)
+DBA
+DBM
+Study phase
+Low dose
+High dose
+Fig. 3: Proportion of patients with clinical response to multimatrix mesalamine in the DBA (Week 8) and DBM (Week 26) phases
+(primary efficacy outcomes). CI = confidence interval; DBA = double-blind acute; DBM = double-blind maintenance; OR = odds ratio. *Dif-
+ference between the low-dose and high-dose multimatrix mesalamine treatment groups. Odds ratio was calculated between the high-dose and
+low-dose multimatrix mesalamine treatment groups.
+DBM phase, the LS mean (SEM) change from baseline
+33.3% of patients, and one patient (3.7%) had a single
+in DUCS score at Week 26 was 1.9 (1.90) VS 4.8 (1.67)
+TEAE of dizziness that was considered related to the
+for patients receiving low-dose VS high-dose multimatrix
+study drug. Among patients receiving high-dose multi-
+mesalamine. The difference in LS mean was 3.0 (95%
+matrix mesalamine, no serious TEAEs, TEAEs leading
+CI: -1.4 to 7.4; p = 0.18; Fig. 4B).
+to discontinuation, or TEAEs related to the study drug
+In the DBA phase, 10 (37.0%) vs 16 (61.5%) patients
+were reported (Table 3). In the OLA phase, TEAEs were
+in the low-dose VS high-dose groups had an improve-
+reported in 72.2% of patients who received high-dose
+ment in the PUCAI score of ≥20 points at Week 8. The
+multimatrix mesalamine (Table 3). Overall, 16.7% of
+difference between treatment groups was 24.5% (95%
+patients experienced serious TEAEs, and 11.1% of pa-
+CI: -1.6 to 50.6; p = 0.07; Fig. 4C). In the DBM phase,
+tients experienced TEAEs leading to study drug
+29 (69.0%) VS 27 (60.0%) patients in the low-dose vs
+discontinuation; no patient had TEAEs that were
+high-dose groups were in remission (PUCAI score <10
+considered related to the study drug (Table 3). In the
+points) at Week 26. The difference between treatment
+DBM phase, similar proportions of patients in the low-
+groups was -9.0% (95% CI: -29.1 to 11.0; p = 0.19;
+dose and high-dose groups reported any TEAEs
+Fig. 4C).
+(64.3% and 60.0%, respectively), serious TEAEs (7.1%
+Overall, 246 TEAEs were reported in 73 patients
+and 4.4%), TEAEs leading to discontinuation of the
+(69.5%); 23 TEAEs in 14 patients (13.3%) were consid-
+study drug (19.0% and 20.0%), and TEAEs considered
+ered related to the study drug (Table 3). Most patients
+related to the study drug (16.7% and 13.3%; Table 3).
+experienced TEAEs that were mild (n = 38; 36.2%) or
+Frequently occurring (≥5% for the DBA or DBM
+moderate (n = 28; 26.7%); severe TEAEs occurred in
+phases and ≥10% for the OLA phase) TEAEs are shown
+seven patients (6.7%). Eighteen serious TEAEs were
+in Table 4. The most common TEAEs by preferred term
+reported in 12 patients (11.4%), and 29 TEAEs leading
+overall were UC (22.9%), abdominal pain (9.5%), and
+to discontinuation of the study drug were reported in 28
+nasopharyngitis (8.6%).
+patients (26.7%; Table 3). Overall, more serious TEAEs
+(9/18) were reported as gastrointestinal disorders
+compared with those of other systems; the most com-
+Discussion
+mon serious TEAEs were progression and/or exacerba-
+This study demonstrated that once-daily dosing of
+tion or flare of UC (3.8%) and anaemia (1.9%). No
+multimatrix mesalamine was effective in inducing and
+serious TEAEs were considered related to the study
+maintaining clinical response in paediatric patients with
+drug, and no deaths occurred during the study.
+mild-to-moderate UC. A higher clinical response rate
+In the DBA phase, the proportions of patients with
+was observed in the high-dose (65.4%) compared with
+TEAEs were similar for the low-dose (63.0%) and high-
+the low-dose (37.0%) group after 8 weeks of the DBA
+dose (57.7%) groups (Table 3). Among patients
+phase, whereas maintenance of clinical response was
+receiving low-dose multimatrix mesalamine, serious
+similar between the high-dose (53.3%) and low-dose
+TEAEs were reported in 14.8% of patients. TEAEs
+(54.8%) groups after 26 weeks of double-blind treat-
+leading to study drug discontinuation were reported in
+ment. Additionally, central and local readings confirmed
+www.thelancet.com Vol 65 November, 2023
+9
+Articles
+A
+Difference -6.5% (95% CI: -25.3 to 12.3)
+Difference -16.2% (95% CI: -36.0 to 3.6)
+50
+p = 0.54*
+p = 0.13*
+45
+42.9
+40
+35
+31.0
+Patients, %
+30
+26.7
+24.4
+25
+20
+15
+10
+5
+0
+(n 42)
+(n 45)
+(n 42)
+(n 45)
+Central reading
+Local reading
+B
+Difference -5.4 (95% CI: -13.1 to 2.4)
+Difference 3.0 (95% CI: -1.4 to 7.4)
+p = 0.17*
+p = 0.18*
+10
+4.8
+1.9
+5
+T
+T
+0
+LS mean changes from
+baseline in DUCS score
+-5
+-10
+-15
+-20
+1
+-25
+-17.9
+1
+-23.3
+-30
+(n 27)
+(n 26)
+(n 42)
+(n 45)
+DBA (Week 8)
+DBM (Week 26)
+c
+Difference 24.5% (95% CI: -1.6 to 50.6)
+Difference -9.0% (95% CI: -29.1 to 11.0)
+80
+p = 0.07*
+p = 0.19*
+69.0
+70
+61.5
+60.0
+60
+50
+Patients, %
+40
+37.0
+30
+20
+10
+0
+(n = 27)
+(n = 26)
+(n = 42)
+(n = 45)
+PUCAI improvement ≥20
+PUCAI <10
+DBA (Week 8)
+DBM (Week 26)
+Study phase
+Low dose
+High dose
+Fig. 4: Secondary efficacy outcomes: (A) Proportion of patients with clinical and endoscopic response⁺ to multimatrix mesalamine at
+Week 26 in the DBM phase; (B) LS mean (SEM) change from baseline in DUCS score at Week 8 and Week 26*; and (C) Proportion of
+patients with PUCAI improvement (Week 8) and remission (Week 26)*. CI = confidence interval; DBA = double-blind acute; DBM = double-
+blind maintenance; DUCS = Daily Ulcerative Colitis Scale; LS = least-squares; PUCAI = Pediatric Ulcerative Colitis Activity Index; SEM = standard
+error of the mean. *Difference between the low-dose and high-dose multimatrix mesalamine treatment groups. Both central and local reading
+values in panel (A) are for the DBM phase. Patients who did not have an endoscopy performed were excluded from the analysis of endoscopic
+remission. At Week 26, 33 patients receiving low-dose and 33 patients receiving high-dose multimatrix mesalamine had an endoscopy
+performed.
+10
+www.thelancet.com Vol 65 November, 2023
+Articles
+DBA phase
+DBM phase
+OLA phase
+Total
+Low-dose (n = 27)
+High-dose (n = 26)
+Low-dose (n = 42)
+High-dose (n = 45)
+High-dose (n = 18)
+Overall (N = 105)
+Any TEAE, n (%)
+17 (63.0)
+15 (57.7)
+27 (64.3)
+27 (60.0)
+13 (72.2)
+73 (69.5)
+Serious TEAE, n (%)
+4 (14.8)
+0
+3 (7.1)
+2 (4.4)
+3 (16.7)
+12 (11.4)
+TEAEs related to the study drug, n (%)
+1 (3.7)
+0
+7 (16.7)
+6 (13.3)
+0
+14 (13.3)
+TEAEs leading to study drug discontinuation, n (%)
+9 (33.3)
+0
+8 (19.0)
+9 (20.0)
+2 (11.1)
+28 (26.7)
+TEAEs leading to death, n (%)
+0
+0
+0
+0
+0
+0
+DBA = double-blind acute; DBM = double-blind maintenance; OLA = open-label acute; TEAE = treatment-emergent adverse event. ᵃPatients who received one or more doses of multimatrix mesalamine.
+Table 3: TEAEs by dose and study phase: overall safety analysis set (N = 105).ᵃ
+TEAEs by MedDRA preferred term, n (%)
+DBA phase
+DBM phase
+OLA phaseᵃ
+Total
+Low-dose (n 27)
+High-dose (n = 26)
+Low-dose (n = 42)
+High-dose (n = 45)
+High-dose (n = 18)
+Overall (N = 105)
+UC
+8 (29.6)
+0
+6 (14.3)
+8 (17.8)
+2 (11.1)
+24 (22.9)
+Abdominal pain
+1 (3.7)
+2 (7.7)
+3 (7.1)
+5 (11.1)
+1 (5.6)
+10 (9.5)
+Nasopharyngitis
+0
+0
+3 (7.1)
+6 (13.3)
+0
+9 (8.6)
+Vomiting
+2 (7.4)
+1 (3.8)
+0
+3 (6.7)
+1 (5.6)
+7 (6.7)
+Headache
+2 (7.4)
+2 (7.7)
+2 (4.8)
+2 (4.4)
+0
+6 (5.7)
+Viral infection
+1 (3.7)
+2 (7.7)
+2 (4.8)
+1 (2.2)
+0
+6 (5.7)
+Anaemia
+1 (3.7)
+1 (3.8)
+1 (2.4)
+1 (2.2)
+2 (11.1)
+6 (5.7)
+Upper abdominal pain
+0
+1 (3.8)
+3 (7.1)
+2 (4.4)
+0
+6 (5.7)
+Dyspepsia
+1 (3.7)
+3 (11.5)
+0
+2 (4.4)
+0
+5 (4.8)
+Oropharyngeal pain
+2 (7.4)
+0
+1 (2.4)
+3 (6.7)
+1 (5.6)
+5 (4.8)
+Upper respiratory tract infection
+1 (3.7)
+0
+1 (2.4)
+1 (2.2)
+2 (11.1)
+5 (4.8)
+Pharyngitis
+1 (3.7)
+2 (7.7)
+0
+1 (2.2)
+0
+4 (3.8)
+Cough
+2 (7.4)
+0
+1 (2.4)
+1 (2.2)
+0
+4 (3.8)
+Pyrexia
+2 (7.4)
+1 (3.8)
+0
+1 (2.2)
+0
+3 (2.9)
+Arthralgia
+0
+1 (3.8)
+0
+0
+2 (11.1)
+3 (2.9)
+Rhinorrhoea
+0
+0
+0
+3 (6.7)
+0
+3 (2.9)
+DBA = double-blind acute; DBM = double-blind maintenance; MedDRA = Medical Dictionary for Regulatory Activities; OLA = open-label acute; TEAE = treatment-emergent adverse event; UC = ulcerative
+colitis. ᵃFrequently occurring (≥5%) TEAEs, except for the OLA phase, which showed TEAEs in ≥10% of patients.
+Table 4: Frequently occurring TEAEs : overall safety analysis set (N = 105).
+similar rates of clinical and endoscopic response in low-
+patients in each treatment group (high-dose, 60.0%; low-
+dose and high-dose groups at Week 26. Discordance in
+dose, 69.0%) had PUCAI scores indicating remission at
+results based on central VS local reading for the low-dose
+Week 26. As the psychometric properties of DUCS have
+group may have been due to inter-reader variability in
+not been established, DUCS results are for exploratory
+local reads.
+and illustrative purposes only.¹⁹ Furthermore, despite
+DUCS and PUCAI were utilised in this study to
+the subjective nature of PGA, its inclusion in the com-
+assess disease activity and symptom burden in paedi-
+posite scoring system was likely driven by the strong
+atric patients with mild-to-moderate UC. Although the
+correlation between PUCAI scores and PGA in evalu-
+DUCS instrument is similar to the PUCAI instrument,
+ating disease activity, as well as the PUCAI score's high
+PUCAI is reported by clinicians whereas DUCS is based
+predictability in determining the need for escalated
+on an electronic diary for daily signs and symptoms that
+medical therapy.2¹ It is also noteworthy that at the time
+is completed by paediatric patients or, for younger pa-
+of the study, there was limited evidence and expertise
+tients, their caregivers. 19,20 The LS mean change from
+regarding alternative scoring systems.
+baseline in DUCS showed similar responses for the low-
+Comparisons between clinical studies should be
+dose VS high-dose groups for both the DBA and DBM
+approached with caution owing to differences in patient
+phases. Similar to the clinical response rates, a numer-
+populations, study designs, and methods; however,
+ically higher proportion of patients in the high-dose
+similar efficacy results were also observed in previous
+group (61.5%) vs the low-dose group (37.0%) showed
+studies. In a randomised phase 4 study of once-daily VS
+an improvement in the PUCAI score at Week 8 in the
+twice-daily mesalamine induction in paediatric patients
+DBA phase; in the DBM phase, similar proportions of
+with mild-to-moderate UC, a response rate of 60% and a
+www.thelancet.com Vol 65 November, 2023
+11
+Articles
+remission rate of 30% were observed at Week 6 with
+companies involved in the study, the demanding
+once-daily dosing.¹⁴ In a pooled analysis of two phase 3
+schedules of the investigators, and disruptions caused
+studies of multimatrix mesalamine induction in adult
+by the COVID-19 pandemic.
+patients with mild-to-moderate UC, the remission rate
+In conclusion, high-dose multimatrix mesalamine
+at Week 8 was 37.2% in patients receiving a dose of
+achieved a higher clinical response rate than low-dose
+2.4 g/d and 35.1% in those receiving a dose of 4.8 g/d.¹⁸
+multimatrix mesalamine in the DBA phase of this
+Additionally, in a phase 4 study of clinical recurrence in
+study. In the DBM phase, similar proportions of pa-
+adult patients with quiescent UC treated with multi-
+tients in both treatment groups maintained clinical
+matrix mesalamine, 76.5% and 64.4% of patients
+response; however, the proportion of patients who
+remained recurrence free at Months 6 and 12, respec-
+maintained clinical response was slightly higher in the
+tively, of the maintenance phase. 16
+low-dose group. The benefit-risk profile of multimatrix
+The tolerability of multimatrix mesalamine in pae-
+mesalamine in paediatric patients was favourable and
+diatric patients with UC was first demonstrated in a
+comparable with that seen in the adult population in
+phase 1 study wherein 52 patients received once-daily
+clinical studies.
+multimatrix mesalamine for 7 days.² In that study, all
+TEAEs were mild-to-moderate; no serious or fatal
+Contributors
+TEAEs or TEAEs leading to treatment discontinuation
+NMC contributed to the design of the study and the collection and
+interpretation of the data. BK contributed to the collection, analysis, and
+were observed. In the current study, TEAEs were mostly
+interpretation of the data. JK contributed to the collection, analysis, and
+gastrointestinal disorders, which is expected in this
+interpretation of the data. BC contributed to the collection, analysis, and
+study population, and most TEAEs were of mild or
+interpretation of the data. MKT contributed to the conception and
+moderate severity. Most TEAEs that occurred in this
+design of the study and the analysis of the data. All authors drafted and
+study were consistent with the known safety profile for
+revised the article critically for important intellectual content and
+approved the final version of the article, including the authorship list. All
+multimatrix mesalamine.²
+authors had full access to all the data in the study and accept re-
+Compliance with 5-ASA therapy is an important
+sponsibility for the decision to submit for publication. Authors MKT and
+factor in the successful control of UC.24 Compliance
+NMC have verified the underlying data.
+rates in the DBA and DBM phases were high and
+comparable with those observed in previous studies of
+Data sharing statement
+The datasets, including the redacted study protocol, redacted statistical
+induction and maintenance with multimatrix mesal-
+analysis plan, and individual participant data supporting the results re-
+amine, 17,25 as well as with previous studies that used
+ported in this article, will be available to researchers who provide a
+once-daily and twice-daily oral mesalamine dosing in
+methodologically sound proposal. The data will be provided after de-
+paediatric patients. 14,26 The compliance rate in the OLA
+identification, in compliance with applicable privacy laws, data protec-
+phase of this study was lower than that of the DBA and
+tion, and requirements for consent and anonymisation. To request ac-
+cess to data, the corresponding author may be contacted.
+DBM phases, which may be due to the higher propor-
+tion of younger patients aged 5-13 years in the OLA
+Declaration of interests
+phase (50.0%) vs the DBA (37.7%) and DBM phases
+NMC (into employer's investigator accounts) received speaker fees,
+(29.9%).
+advisory board fees, and research funding from Eli Lilly, Takeda, Abb-
+Vie, Shire, Pfizer, Roche, Celgene, and 4D Pharma. BK received a grant
+The main limitation of this study was that it was not
+from Shire for the study research conducted. JK (into employer's
+powered to detect differences between treatment
+investigator accounts) received speaker fees, advisory board fees, and
+groups, as it was an estimation study with no formal
+research funding from Eli Lilly, Celltrion, and Nestlé. BC was an
+hypothesis testing. Instead, the objective of this study,
+employee of Takeda at the time the study was conducted. MKT is an
+conducted in collaboration with the US FDA, was to
+employee of Takeda and received no specific funding for this work.
+estimate clinical response of two doses (low and high) of
+Acknowledgements
+multimatrix mesalamine across a range of weight
+The authors thank all the children who participated in this study and
+groups in children and adolescents. The sample size
+their parents. This study was funded by Shire Development LLC, a
+was selected based on practical considerations and
+Takeda company. Medical writing and editorial support for an earlier
+draft of the manuscript were provided by Cello Health Communica-
+agreement with the US FDA, where more than 100
+tions/MedErgy and were funded by Shire Development LLC, a Takeda
+patients were to be screened and up to 80 patients were
+company. Medical writing and editorial support was provided by Neha
+to be enrolled in the DBA phase. However, the sample
+Shrestha, PhD, of Cactus Life Sciences (part of Cactus Communica-
+size for the DBA phase was reduced to 53 patients
+tions) and funded by Takeda Pharmaceuticals.
+owing to difficulties with recruitment. Because of these
+Appendix A. Supplementary data
+challenges, the study was terminated to meet regulatory
+Supplementary data related to this article can be found at https://doi.
+commitments to health agencies and to provide, in a
+org/10.1016/j.eclinm.2023.102232
+timely manner, important safety and efficacy data for
+this unmet need in paediatric patients with UC.
+Furthermore, the considerable delay in publishing the
+References
+1 da Silva BC, Lyra AC, Rocha R, Santana GO. Epidemiology, de-
+study outcomes may be attributed to several factors
+mographic characteristics and prognostic predictors of ulcerative
+including challenges in patient recruitment, takeover of
+colitis. World J Gastroenterol. 2014;20:9458-9467.
+12
+www.thelancet.com Vol 65 November, 2023
+Articles
+2
+Langholz E, Munkholm P, Davidsen M, Binder V. Course of ul-
+15 D'Haens G, Sandborn WJ, Barrett K, Hodgson I, Streck P. Once-
+cerative colitis: analysis of changes in disease activity over years.
+daily MMX® mesalamine for endoscopic maintenance of remis-
+Gastroenterology. 1994;107:3-11.
+sion of ulcerative colitis. Am J Gastroenterol. 2012;107:1064-1077.
+3
+Benchimol EI, Fortinsky KJ, Gozdyra P, Van den Heuvel M, Van
+16 Kane S, Katz S, Jamal MM, et al. Strategies in maintenance for
+Limbergen J, Griffiths AM. Epidemiology of pediatric inflammatory
+patients receiving long-term therapy (SIMPLE): a study of MMX
+bowel disease: a systematic review of international trends. Inflamm
+mesalamine for the long-term maintenance of quiescent ulcerative
+Bowel Dis. 2011;17:423-439.
+colitis. Inflamm Bowel Dis. 2012;18:1026-1033.
+4
+Turner D, Levine A, Escher JC, et al. Management of pediatric ul-
+17 Sandborn WJ, Kamm MA, Lichtenstein GR, Lyne A, Butler T,
+cerative colitis: joint ECCO and ESPGHAN evidence-based
+Joseph RE. MMX Multi Matrix System mesalazine for the in-
+consensus guidelines. J Pediatr Gastroenterol Nutr. 2012;55:340-361.
+duction of remission in patients with mild-to-moderate ulcerative
+5
+Jakobsen C, Bartek J Jr, Wewer V, et al. Differences in phenotype
+colitis: a combined analysis of two randomized, double-blind, pla-
+and disease course in adult and paediatric inflammatory bowel
+cebo-controlled trials. Aliment Pharmacol Ther. 2007;26:205-215.
+disease - a population-based study. Aliment Pharmacol Ther.
+18 Da Silva Sanchez S, Wan H, Streck P, Willshire D, Raskin JB.
+2011;34:1217-1224.
+Pooled safety analysis of long-term, once-daily multimatrix mesa-
+6
+Van Limbergen J, Russell RK, Drummond HE, et al. Definition of
+lazine use. J Crohns Colitis. 2015;9:S349. Abstract P538.
+phenotypic characteristics of childhood-onset inflammatory bowel
+19 Flood E, Silberg DG, Romero B, Beusterien K, Erder MH,
+disease. Gastroenterology. 2008;135:1114-1122.
+Cuffari C. Development of the pediatric daily ulcerative colitis signs
+7
+Turner D, Walsh CM, Benchimol EI, et al. Severe paediatric ul-
+and symptoms scale (DUCS): qualitative research findings. BMC
+cerative colitis: incidence, outcomes and optimal timing for second-
+Res Notes. 2017;10:491.
+line therapy. Gut. 2008;57:331-338.
+20 Turner D, Otley AR, Mack D, et al. Development, validation, and
+8
+Dinesen LC, Walsh AJ, Protic MN, et al. The pattern and outcome
+evaluation of a pediatric ulcerative colitis activity index: a prospec-
+of acute severe colitis. J Crohns Colitis. 2010;4:431-437.
+tive multicenter study. Gastroenterology. 2007;133:423-432.
+9
+Gower-Rousseau C, Dauchet L, Vernier-Massouille G, et al. The
+21 Turner D, Hyams J, Markowitz J, et al. Appraisal of the pediatric
+natural history of pediatric ulcerative colitis: a population-based
+ulcerative colitis activity index (PUCAI). Inflamm Bowel Dis.
+cohort study. Am J Gastroenterol. 2009;104:2080-2088.
+2009;15:1218-1223.
+10 Turner D, Ruemmele FM, Orlanski-Meyer E, et al. Management of
+22 Cuffari C, Pierce D, Korczowski B, et al. Randomized clinical trial:
+paediatric ulcerative colitis, part 1: ambulatory care-an evidence-
+pharmacokinetics and safety of multimatrix mesalamine for treat-
+based guideline from European Crohn's and Colitis Organization
+ment of pediatric ulcerative colitis. Drug Des Devel Ther.
+and European Society of Paediatric Gastroenterology, Hepatology
+2016;10:593-607.
+and Nutrition. J Pediatr Gastroenterol Nutr. 2018;67:257-291.
+23 LIALDA® (mesalamine) delayed-release tablets, for oral use [package
+11 Harbord M, Eliakim R, Bettenworth D, et al. Third European
+insert]. Wayne, PA: Shire US Inc.; 2021. Available from: https://
+evidence-based consensus on diagnosis and management of ul-
+www.accessdata.fda.gov/drugsatfda_docs/label/2021/
+cerative colitis. Part 2: current management. J Crohns Colitis.
+022000s023lbl.pd Accessed March 9, 2023.
+2017;11:769-784.
+24 Kane SV. Systematic review: adherence issues in the treatment of
+12 Rubin DT, Ananthakrishnan AN, Siegel CA, Sauer BG, Long MD.
+ulcerative colitis. Aliment Pharmacol Ther. 2006;23:577-585.
+ACG clinical guideline: ulcerative colitis in adults. Am J Gastro-
+25 Kamm MA, Lichtenstein GR, Sandborn WJ, et al. Randomised trial
+enterol. 2019;114:384-413.
+of once- or twice-daily MMX mesalazine for maintenance of
+13 Fell JM, Muhammed R, Spray C, Crook K, Russell RK. Manage-
+remission in ulcerative colitis. Gut. 2008;57:893-902.
+ment of ulcerative colitis. Arch Dis Child. 2016;101:469-474.
+26 Winter HS, Krzeski P, Heyman MB, et al. High- and low-dose oral
+14 Turner D, Yerushalmi B, Kori M, et al. Once- versus twice-daily
+delayed-release mesalamine in children with mild-to-moderately
+mesalazine to induce remission in paediatric ulcerative colitis: a
+active ulcerative colitis. J Pediatr Gastroenterol Nutr. 2014;59:767-
+randomised controlled trial. J Crohns Colitis. 2017;11:527-533.
+772.
+www.thelancet.com Vol 65 November, 2023
+13

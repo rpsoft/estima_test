@@ -1,12 +1,17 @@
 
 import ollama
+import os
+from dotenv import load_dotenv
+
+# Load variables from .env into environment
+load_dotenv()
 
 # Load variables from .env into environment
 
-def perform_rag(slr_field, filename, vectorstore):
+def perform_rag(slr_field, filename, vectorstore, k=1):
 	results = vectorstore.similarity_search(
 			    slr_field,
-			    k=10,
+			    k=k,
 			    filter={"filename": filename}
 			)
 
@@ -15,37 +20,43 @@ def perform_rag(slr_field, filename, vectorstore):
 
 	context = "\n\n".join(contents)
 
-	formatInstructions = """Extract the relevant information from the text and format it as a clean JSON object with the following rules:
+	formatInstructions = """
+		Extract the relevant information from the text and format it as a JSON object.
 
-							1. Structure related data using nested objects. Example:
-							   { "participants": { "placebo": 200, "treatment": 600 } }
+		Rules:
+		1. Use nested objects for related data. Example:
+		   { "participants": { "placebo": 200, "treatment": 600 } }
+		2. Respond ONLY with a JSON object. No explanations, no markdown, no ```json fences.
+		3. If nothing is found, return {}.
+		4. Always include an "explain" field describing what was extracted. Or why nothing was found.
+		5. Ensure the JSON is valid (double quotes, commas, colons).
+		6. JSON must start with { and end with }.
+		7. All numeric values must be numbers, not strings.
 
-							2. Always respond **only** with a JSON object. Do not include any extra text, explanation, or markdown.
+		Example output to follow exactly:
 
-							3. Include an "explain" field in the JSON object if you need to provide context or reasoning for the extracted values.
-
-							4. Ensure the JSON is valid and can be parsed by Python (use proper quotes, colons, commas, etc.).
-
-							5. If a piece of data is missing or not found, omit the field or use an empty object for that section. If no relevant data exists at all, respond with an empty JSON object: {}
-
-							6. The JSON output must **start with {** and **end with }**. Do not include ```json or any other formatting characters.
-
-							7. All numeric values should be numbers, not strings, unless explicitly textual.
-
-							"""
+		{
+		  "participants": {
+		    "high_dose": 27,
+		    "low_dose": 26,
+		    "placebo": 53
+		  },
+		  "explain": "The participant counts per arm were inferred from the disposition table row 'Did not complete the study/phase' in the provided excerpt. The table lists the number of patients who did not complete the study for each group along with percentages: 8 (29.6%), 4 (15.4%), 12 (22.6%). Solving 8/0.296 ≈ 27, 4/0.154 ≈ 26, and 12/0.226 ≈ 53 gives the size of each arm. These correspond to the high-dose, low-dose, and placebo arms, respectively, totaling 106 randomized participants."
+		}
+	"""
 
 	# print(formatInstructions)
 
-	query = f"Extract {slr_field} from the following text:\n{context}. \n {formatInstructions}"
+	query = f"Extract {slr_field} \n from the text:\n{context} following these instructions \n {formatInstructions} . "
 
-	client = ollama.Client(host="http://192.168.1.215:11434")
+	client = ollama.Client(host=os.getenv("OLLAMA_URL", "localhost:11434"))
 
 	response = client.chat(
-	    model="gpt-oss",
+	    model= os.getenv("GEN_MODEL", "gpt-oss" ),
 	    messages=[{"role": "user", "content": query}]
 	)
 
-	return(response)
+	return({"response": response, "context": context})
 
 
 ## class BaselineCharacteristics(BaseModel):

@@ -1,0 +1,4056 @@
+
+Supplemental Online Content
+Louis E, Schreiber S, Panaccione R, et al; INSPIRE and COMMAND Study Group. Risankizumab for ulcerative colitis: two
+randomized clinical trials. JAMA. Published online July 22, 2024. doi:10.1001/jama.2024.12414
+eMethods 1. Methods and Statistical Analysis for Phase 2b Induction Substudy
+eMethods 2. Full Patient Eligibility Criteria in the Final Protocol Amendment of the Phase 2b and Phase 3 INSPIRE Induction Study
+eMethods 3. Supplementary Methods for the Phase 3 Induction and Maintenance Studies
+eFigure 1. Key Study Design Features and Trial Profile of Induction and Maintenance Studies
+eFigure 2. Trial Profile of the Dose-Ranging Phase 2b Substudy
+eFigure 3. Key Clinical and Endoscopic Endpoints and Inflammatory Biomarkers for the Dose-Ranging Phase 2b Substudy
+eFigure 4. Graphical Multiple-Testing Procedure for the Phase 3 Induction Study
+eFigure 5. Graphical Multiple-Testing Procedure For the Phase 3 Maintenance Study
+eFigure 6. Clinical Remission per Adapted Mayo Score by Subgroup Analysis at Week 12 of Induction and Week 52 of Maintenance
+eFigure 7. Percent of Patients Who Achieved Histologic Remission at Week 12 of Induction and Week 52 of Maintenance
+eFigure 8. Percent of Patients that Achieved Clinical Response per Partial Adapted Mayo Score Through Week 12 of INSPIRE
+eFigure 9. Patient-Reported Outcomes Among Patients Who Reported Having Symptoms at Baseline of Phase 3 Induction
+eFigure 10. Discontinuation of Corticosteroids at Week 52 of Maintenance Among Patients Taking Corticosteroids at Baseline of Induction
+© 2024 American Medical Association. All rights reserved.
+eFigure 11. Change From Baseline in Biomarkers During the Phase 3 Induction and Maintenance Studies
+eTable 1. Baseline Characteristics for the Dose-Ranging Phase 2b Induction Substudy
+eTable 2. Treatment-Emergent Adverse Events From the Dose-Ranging Phase 2b Induction Substudy
+eTable 3. Additional Baseline Characteristics and Demographics
+eTable 4. Sensitivity Analysis for the Primary Endpoint Clinical Remission per Adapted Mayo Score for the Phase 3 Induction and Maintenance
+Studies
+eTable 5. Primary and Secondary Endpoints at Week 52 of Maintenance for All Patients Who Responded to 12-Week Risankizumab 1200 mg
+Induction Therapy and Were Randomized to Maintenance
+eTable 6. Prespecified Primary and Secondary Endpoints in Non-Advanced and Advanced Therapy-Inadequate Response Patients in the Phase 3
+Induction and Maintenance Studies
+eTable 7. Exposure-Adjusted Event Rates for Treatment-Emergent Adverse Events Through Week 12 of Induction and Week 52 of Maintenance
+eTable 8. Patients Meeting Criteria for Liver-Related Elevations During Induction and Maintenance
+eTable 9. Summary of Mean Change From Baseline in Key Chemistry Values During Induction and Maintenance
+eTable 10. Summary of Treatment-Emergent Adverse Events Through Week 52 of Maintenance for All Patients Who Responded to 12-Week
+Risankizumab 1200 mg Intravenous Induction Therapy and Were Randomized to Maintenance
+eResults 1. Results for the Dose-Ranging Phase 2b Induction Substudy
+eResults 2. Additional Safety and Efficacy Outcomes for the Phase 3 Induction and Maintenance Study
+eResults 3. Pharmacokinetics and Immunogenicity Results From Induction and Maintenance Studies
+eReferences
+This supplemental material has been provided by the authors to give readers additional information about their work.
+© 2024 American Medical Association. All rights reserved.
+eMethods 1. Methods and Statistical Analysis for Phase 2b Induction Substudy
+Study Design and Patients:
+The phase 2b substudy consisted of a dose-ranging, double-blind, placebo-controlled, multicenter 12-week induction substudy, an open-
+label period, and an extension period for patients that failed to achieve clinical response per Adapted Mayo score at week 12 (eFigure 1). The
+phase 2b induction substudy included a screening period of up to 35 days and an induction period of 12 weeks, with a 140-day follow-up period
+from the last dose of the study drug. The phase 2b/3 induction studies were operationally seamless, where patients could continue to enroll into an
+open-label risankizumab 1800 mg intravenous (IV) induction group during the analysis of the phase 2b dose-ranging study (eFigure 1).
+Patients aged between 18 and 80 years of age, with moderately to severely active ulcerative colitis, defined by an Adapted Mayo score of
+5 to 9 points, endoscopic subscore of 2 or 3 (confirmed by central review), and a confirmed diagnosis of ulcerative colitis for at least 3 months prior
+to baseline, were eligible for the study. For the phase 2b dose-ranging substudy, all patients were required to have previous intolerance or
+inadequate response to 1 or more prior approved advanced therapies for ulcerative colitis (including infliximab, adalimumab, golimumab,
+vedolizumab). Patients with prior exposure to p40 inhibitors (eg, ustekinumab) or p19 inhibitors (eg, risankizumab, mirikizumab, guselkumab) were
+excluded. Patients who achieved a clinical response to IV risankizumab (defined as a decrease from baseline in the Adapted Mayo score ≥ 2
+points and ≥ 30% from baseline, in addition to a decrease in rectal bleeding score [RBS] ≥ 1 or an absolute RBS ≤ 1) at week 12 or 24 of induction
+were eligible for randomization into the risankizumab phase 3 maintenance study (Figure 1). A full list of inclusion and exclusion criteria is
+included in eMethods 2.
+© 2024 American Medical Association. All rights reserved.
+Randomization and Masking:
+In the dose-ranging, phase 2b induction substudy, patients were randomized 1:1:1:1 via web-based Interactive Response Technologies
+(IRT) to receive a single dose of IV risankizumab (600 mg [n = 61], 1200 mg [n = 61], 1800 mg [n = 58]) or placebo (n = 60) at weeks 0, 4, and 8.
+Randomization was stratified by baseline corticosteroid use (yes, no) and baseline Adapted Mayo score (≤ 7, > 7).
+Additional patients were enrolled in the phase 2b study after enrollment completion of the dose-ranging substudy and received open-label
+risankizumab 1800 mg IV (n = 340). The randomization at baseline was stratified by baseline corticosteroid use (yes, no) and baseline Adapted
+Mayo score (≤ 7 VS. > 7). A ± 7-day window was permitted around all study visits. Nonresponding patients to risankizumab phase 2b induction
+therapy entered an extended treatment period for an additional 12 weeks of treatment and were randomized 1:1:1 to receive either risankizumab
+1800 mg IV (every 4 weeks), 180 mg subcutaneous (SC), or 360 mg SC ([every 8 weeks], not shown). Patients who achieved clinical response to
+risankizumab IV or SC were enrolled in maintenance to risankizumab 180 mg, risankizumab 360 mg, or placebo SC (risankizumab withdrawal
+group), every 8 weeks.
+Endpoints:
+The primary endpoint was clinical remission per Adapted Mayo score at week 12. Secondary endpoints were assessed at week 12 unless
+noted and included clinical response per Adapted Mayo score, clinical response per Partial Adapted Mayo (week 4), histologic endoscopic
+mucosal remission (HEMR), endoscopic improvement, and endoscopic remission.
+Sample Size Calculation:
+For the phase 2b substudy, assuming a clinical remission rate of 7% in the placebo group and a maximum of 25% in at least one of the
+risankizumab treatment groups at week 12, a sample size of 60 patients per treatment group was sufficient to test for the presence of a dose-
+© 2024 American Medical Association. All rights reserved.
+response signal with an average power of approximately 87% at 5% level of significance (one-sided), via modeling using the multiple comparison
+procedure - modeling (MCP-Mod) approach.
+Statistical Analysis:
+Efficacy and safety analyses were performed on all randomized patients who received at least 1 dose of study drug during the induction
+phase 2b substudy. For the primary endpoint, the dose-response relationships among the 3 risankizumab dose groups (600 mg, 1200 mg, and
+1800 mg IV) and placebo group were characterized at week 12 using the MCP-Mod approach based on the intention to treat (ITT) population. 1,2
+For categorical efficacy endpoints, pairwise comparisons between each risankizumab treatment group and placebo were performed using the 2-
+sided Cochran-Mantel-Haenszel test and stratified by baseline corticosteroid use (yes, no) and baseline Adapted Mayo score (≤ 7, > 7).
+Nonresponder imputation (NRI) was used as the primary imputation method, which categorized any patient who did not have an evaluation during
+a prespecified visit window (either due to missing assessment or due to early placebo (withdrawal) from the study) as a nonresponder for the visit.
+Continuous secondary efficacy endpoints were analyzed using a mixed-effect model repeated measures (MMRM) model which includes the
+categorical fixed effects of treatment, visit, and treatment-by-visit interaction, stratification factors at randomization, and the continuous fixed
+covariates of baseline measurement.
+© 2024 American Medical Association. All rights reserved.
+eMethods 2. Full Patient Eligibility Criteria in the Final Protocol Amendment of the Phase 2b and Phase 3 INSPIRE Induction Study
+1.
+Males or females ≥ 18 and ≤ 80 years of age, or minimum age of adult consent according to local regulations at the baseline visit.
+Phase 3 induction substudy only: Where locally permissible, subjects 16 to < 18 years of age who meet the definition of Tanner Stage
+5 for development at the baseline visit.
+2.
+Confirmed diagnosis of ulcerative colitis for at least 3 months prior to baseline. Appropriate documentation of biopsy results consistent with
+the diagnosis of ulcerative colitis or in the assessment of the investigator, must be available.
+3.
+Active ulcerative colitis with an Adapted Mayo score of 5 to 9 points and endoscopic subscore of 2 to 3 (confirmed by central review).
+4.
+Demonstrated intolerance or inadequate response to one or more of the following categories of drugs: aminosalicylates, oral locally acting
+steroids, systemic steroids (prednisone or equivalent), immunosuppressants, and/or biologic therapies.
+Demonstration of intolerance requires no minimum dose or duration of use.
+Inadequate response is defined as outlined below:
+Oral aminosalicylates (eg, mesalamine, sulfasalazine, olsalazine, balsalazide):
+Signs and symptoms of persistently active disease, in the opinion of the investigator, during a current or prior course of at
+least 4 weeks of treatment with 2.4 g/day mesalamine (2 g/day if controlled release), 4 g/day sulfasalazine, 1 g/day olsalazine,
+or 6.75 g/day balsalazide.
+Oral locally acting steroids (eg, budesonide, beclomethasone):
+Signs and symptoms of persistently active disease in the opinion of the investigator, during or after a course of at least 4
+weeks of treatment with 9 mg/day budesonide or 5 mg/day beclomethasone, or
+Inability to taper oral budesonide to at or below 6 mg/day without recurrent active disease,
+IV or oral systemic steroids (prednisone or equivalent):
+© 2024 American Medical Association. All rights reserved.
+Signs and symptoms of persistently active disease in the opinion of the investigator, during or after tapering of at least one
+regimen consisting of a dose equivalent to prednisone ≥ 40 mg/day orally for 3 weeks or IV for 1 week, or
+Inability to taper oral systemic steroids at or below a dose equivalent to prednisone 10 mg/day without recurrent active
+disease,
+Immunosuppressants:
+Signs and symptoms of persistently active disease in the opinion of the investigator, during a current or prior course of at least
+90 days of treatment with one or more of the following:
+Azathioprine (AZA): ≥ 2.0 mg/kg/day rounded to the nearest available tablet or half tablet formulation (≥ 1 mg/kg/day for
+subjects in Japan, Korea, Taiwan, Singapore, or China) (or a documented 6-TGN level of ≥ 230 pmol/8 X 10⁸ RBC)
+6-mercaptopurine (6-MP): ≥ 1 mg/kg/day rounded to the nearest available tablet or half tablet formulation (≥ 0.6
+mg/kg/day for subjects in Japan, Korea, Taiwan, Singapore, or China) (or a 6 TGN level of ≥ 230 pmol/8 X 10⁸ RBC)
+Methotrexate (MTX): ≥ 15 mg/week subcutaneous (SC) or intramuscular (IM)
+Note: Oral MTX use is allowed during the study, however prior or current use of oral MTX is not sufficient for inclusion
+into the study
+Tacrolimus: (for Japan, Taiwan and other countries in Asia with local treatment guidelines that include tacrolimus)
+documented trough level 5 - 10 ng/mL
+Biologic therapies and tofacitinib for ulcerative colitis
+Signs and symptoms of persistently active disease despite a history of one or more of the following:
+At least one 6-week induction regimen of infliximab (≥ 5 mg/kg IV at weeks 0, 2, and 6),
+© 2024 American Medical Association. All rights reserved.
+At least one 4-week induction regimen of adalimumab (one 160 mg SC dose at week 0, followed by one 80 mg SC dose at
+week 2 [or one 80 mg SC dose at week 0, followed by one 40 mg SC dose at week 2, in countries where this dosing regimen
+is approved]),
+At least one 4-week induction regimen of golimumab (200 mg SC at week 0 and 100 mg SC at week 2),
+At least one 6-week induction regimen of vedolizumab (300 mg IV at weeks 0, 2, and 6),
+At least one 8-week induction regimen of tofacitinib (10 mg per os [PO] twice daily).
+Recurrence of symptoms during scheduled maintenance dosing following prior clinical benefit of the above biologics
+Note: Subjects who discontinued biologics or tofacitinib for reasons other than inadequate response as defined above or
+intolerance (eg, change of insurance) must meet the criteria for intolerance or inadequate response to aminosalicylates, oral
+locally acting steroids, systemic steroids (prednisone or equivalent), and/or immunosuppressants as defined above.
+5.
+If female, subject must meet the criteria as stated in this protocol
+Contraception Recommendations Females of childbearing potential must have a negative serum pregnancy test result during
+screening, and a negative urine pregnancy at baseline. Females of nonchildbearing potential (either postmenopausal or
+permanently surgically sterile) during screening do not require pregnancy testing at baseline.
+Note: Subjects with borderline serum pregnancy test at screening must have a serum pregnancy test ≥ 3 days later to document
+continued lack of a positive result.
+6.
+Subject must be able and willing to give written informed consent and to comply with the requirements of this study protocol. In Japan, if
+the subject is under the legal age of adulthood, a subject's parent or legal guardian must be willing to give written informed consent.
+© 2024 American Medical Association. All rights reserved.
+Exclusion Criteria
+1.
+Subject with a current diagnosis of Crohn's disease (CD) or IBD-unclassified (IBD-U) or a history of radiation colitis or ischemic colitis.
+Concomitant Medications and Treatments
+2.
+Subject on oral ulcerative colitis-related antibiotics who have not been on stable doses for greater than, or discontinued within, 14 days
+prior to baseline.
+3.
+Subject on oral aminosalicylates who have not been on stable doses for greater than, or discontinued within, at least 14 days prior to
+baseline.
+4.
+Subject taking oral corticosteroids:
+Budesonide > 9 mg/day
+Beclomethasone > 5 mg/day
+Prednisone or equivalent > 20 mg/day
+Or has not been on the current course for ≥ 14 days prior to baseline and on a stable dose for ≥ 7 days prior to baseline
+5.
+Subject on immunosuppressants (AZA, 6-MP, MTX) who:
+Has not been on the course for ≥ 42 days prior to baseline, and
+Has not been on a stable dose for ≥ 35 days prior to baseline
+Medications and Treatments During the Screening Period
+6.
+Subject who received IV anti-infectives within 35 days prior to baseline visit or oral anti-infectives (nonulcerative colitis-related) within 14
+days prior to the baseline visit. This does not apply to TB prophylaxis.
+7.
+Subject who received any parenteral nutrition within 35 days prior to baseline.
+© 2024 American Medical Association. All rights reserved.
+8.
+Subject who received any live bacterial or viral vaccination within 35 days (8 weeks for Japan) prior to baseline.
+9.
+Subject who received cyclosporine, tacrolimus, or mycophenolate mofetil within 35 days prior to baseline.
+10.
+Subject who received fecal microbial transplantation within 35 days prior to baseline.
+Prior Medications and Treatments
+11.
+Subject who received any:
+Approved biologic agent (eg, infliximab, adalimumab, golimumab, vedolizumab) within 8 weeks prior to baseline,
+Tofacitinib within 35 days prior to baseline,
+Any investigational agent or procedure within 35 days or 5 half-lives prior to the baseline, whichever is longer, or
+Subject who is currently enrolled in another interventional clinical study.
+12.
+Subject with prior exposure to p40 inhibitors (eg, ustekinumab) or p19 inhibitors (eg, risankizumab).
+13.
+Subject has been taking combination of 2 or more of the following oral budesonides, oral beclomethasone, and/or oral prednisone (or
+equivalent) simultaneously, with the exception of inhalers, within 14 days prior to screening or during the screening period.
+14.
+Subject who received IV/intramuscular corticosteroids within 14 days prior to screening or during the screening period.
+15.
+Subject who received therapeutic enema or suppository (ie, rectal aminosalicylates/corticosteroids), other than required for endoscopy,
+within 14 days prior to screening or during the screening period.
+16.
+Subject who received apheresis (eg Adacolumn apheresis) ≤ 60 days prior to screening or during the screening period.
+17.
+Subject who has concomitant cannabis use either for recreational or medical reasons within 14 days prior to baseline or any history of
+clinically significant drug, or alcohol abuse in the last 12 months.
+© 2024 American Medical Association. All rights reserved.
+Ulcerative colitis-related
+18.
+Extent of inflammatory disease limited to the rectum as assessed by screening endoscopy.
+19.
+Subject with currently known complications of ulcerative colitis such as:
+Fulminant colitis,
+Toxic megacolon,
+Previous colectomy (total or subtotal),
+Or any other manifestation that might require surgery while enrolled in the study.
+20.
+Subject with ostomy or ileoanal pouch.
+Safety
+21.
+Subject who has a known hypersensitivity to risankizumab or the excipients of any of the study drugs or the ingredients of Chinese
+hamster ovary (CHO).
+22.
+Subjects with the following chronic or active infections:
+Active, chronic, or recurrent infection that based on the investigator's clinical assessment makes the subject an unsuitable candidate
+for the study,
+Infection with C. difficile toxin as identified during screening,
+Known infection with an intestinal pathogen,
+Are infected with human immunodeficiency virus (HIV),
+Have active hepatitis B or hepatitis c defined as:
+© 2024 American Medical Association. All rights reserved.
+HBV: hepatitis B surface antigen (HBs Ag) positive (+), or detected sensitivity on the HBV deoxyribonucleic acid (DNA)
+polymerase chain reaction (PCR) qualitative test for hepatitis B core antibody (HBc Ab) positive subjects;
+Hepatitis C Virus (HCV): HCV ribonucleic acid (RNA) detectable in any subject with anti-HCV antibody (HCV Ab).
+Note: QuantiFERON®-TB test or Purified Protein Derivative (PPD) skin test, or both, according to local guidelines, will be performed
+during screening. QuantiFERON-TB test is preferred for subjects who received BCG vaccination or were exposed to other Mycobacteria
+species. Subjects with a positive test result (or indeterminate results that have been repeated) may participate in the study if further work
+up (according to local practice/guidelines) establishes conclusively that the subject has no evidence of active tuberculosis. Subjects with a
+history of active TB who have documented completion of a full course of anti-TB therapy may be allowed to enter the study after
+consultation with the AbbVie TA MD. If latent TB is established, TB prophylaxis/treatment should be initiated and maintained according to
+local country guidelines.
+23.
+Subject with a previous history of dysplasia of the gastrointestinal tract or found to have dysplasia, other than completely removed low-
+grade dysplastic lesions, in any biopsy performed during the screening endoscopy.
+24.
+Subject with a known history of lymphoproliferative disease, including lymphoma, or signs and symptoms suggestive of possible
+lymphoproliferative disease, such as lymphadenopathy and/or splenomegaly.
+25.
+Subject with history of malignancy other than a successfully treated nonmetastatic cutaneous squamous cell or basal cell carcinoma or
+localized carcinoma in situ of the cervix.
+26.
+Subject who has severe, progressive, or uncontrolled renal, hepatic, hematological, endocrine, disorder or symptoms thereof.
+27.
+Female subjects who are pregnant, breastfeeding, or is considering becoming pregnant during the study or for approximately 140 days
+after the last dose of study drug.
+© 2024 American Medical Association. All rights reserved.
+28.
+Subject who has any condition, including any physical, psychological, or psychiatric condition, which in the opinion of the investigator,
+would compromise the safety of the subject or the quality of the data and renders the subject an unsuitable candidate for the study.
+29.
+Screening laboratory and other analyses show any of the following abnormal results:
+Aspartate transaminase (AST), alanine transaminase (ALT) > 2 X upper limit of the reference range;
+White blood cell (WBC) count < 3.0 X 10⁹/L;
+Total bilirubin ≥ 2 mg/dL; except for subjects with isolated elevation of indirect bilirubin relating to Gilbert's syndrome;
+Estimated glomerular filtration rate by simplified 4-variable Modification of Diet in Renal Disease (MDRD) formula < 30 mL/min/1.73
+m²;
+Hemoglobin < 8 g/dL;
+Platelets < 100,000/µL;
+Positive serum pregnancy test at the screening visit or positive urine pregnancy test at the baseline visit;
+Laboratory values can be re-tested once during the screening period. If the retested lab value(s) remain(s) exclusionary, the subject
+will be considered a screen failure. Redrawing samples if previous samples were unable to be analyzed would not count as a retest
+since the previous result was never obtained.
+30.
+No known active COVID-19 infection. If a subject has signs/symptoms suggestive of COVID-19, they should undergo molecular (ie, PCR)
+testing to rule out SARS-CoV-2 infection.
+Subjects who do not meet COVID-19 eligibility criteria must be screen failed and may only rescreen after they meet the following COVID-
+19 criteria:
+Symptomatic subjects: At least 14 days have passed since recovery, defined as resolution of fever without use of antipyretics and
+improvement in symptoms
+© 2024 American Medical Association. All rights reserved.
+Asymptomatic subjects: At least 14 days have passed since the first positive molecular (ie, PCR) test result
+© 2024 American Medical Association. All rights reserved.
+eMethods 3. Supplementary Methods for the Phase 3 Induction and Maintenance Studies
+Concomitant Therapy
+Patients taking conventional therapies, such as aminosalicylates, immunosuppressants, and/or ulcerative colitis-related antibiotics at
+baseline continued their concomitant treatment for the duration of the phase 3 induction study.
+Decreasing doses were prohibited during the study, except in the event of moderately to severely active treatment-related toxicities.
+Patients taking corticosteroids at baseline were required to continue their concomitant treatment at the baseline dose for the duration of induction.
+Patients who entered the 12-week blinded extended treatment period of induction were permitted to taper corticosteroids at the discretion of the
+investigator. While stopping the taper was permitted, dose increases above the baseline dose was prohibited.
+At week 0 of maintenance, patients on corticosteroid therapy were required to taper their dose to completion by maintenance week 8, with
+the recommended tapering schedule provided on the next page. All efficacy measurements at or after initiating and/or increasing doses of any
+corticosteroids were excluded. Starting at week 16, patients who demonstrated inadequate response (based upon increased symptom activity
+and/or endoscopic confirmation of inflammation) could receive open-label risankizumab rescue therapy (ie, one single dose of risankizumab 1200
+mg followed by 360 mg SC maintenance regimen, which was delivered as 4 injections [90 mg SC] every 8 weeks thereafter). Patients could
+receive up to 2 rescue doses. Patients taking corticosteroids at week 0 who had a loss of satisfactory clinical response per the investigator's
+judgment after the steroid taper had been initiated could have their corticosteroid dose increased up to the dose used at baseline of maintenance
+per the investigator's discretion. Patients taking oral budesonide multi-matrix system formulation or oral beclomethasone were required to
+discontinue medication without a taper.
+© 2024 American Medical Association. All rights reserved.
+Recommended Tapering Schedule for the Maintenance Study
+Dose
+Rate
+Prednisone (or equivalent)
+> 10 mg/day
+5 mg/day per week
+≤ 10 mg/day
+2.5 mg/day per week
+Budesonide
+≤ 9 mg/day
+3 mg/day per week
+Endpoint Definitions for Primary and Secondary Outcomes for Phase 3 Induction and Maintenance
+Clinical Endpoints
+Adapted Mayo score (score range 0-9): RBS, 0-3; stool frequency score (SFS, 0-3); endoscopy score (0-3). Higher scores indicate
+more severe disease.
+Partial Adapted Mayo score (score range 0-6): RBS (0-3); SFS (0-3). Higher scores indicate more severe disease.
+Patient-Reported Outcomes
+Abdominal pain score: Abdominal pain was assessed using a 4-point scale (0 = none, 1 = mild, 2 = moderate, 3 = severe) to evaluate
+symptom frequency and severity over time. The mean of the scores from the most recent 3 days, and up to 10 days, prior to each study
+visit was calculated.
+Bowel urgency, nocturnal bowel movements, or tenesmus: Each of these symptoms were scored independently as categorical
+(dichotomous) variables with 2 response options, where the response option "Yes" meant the respondent did experience the symptom
+within the past 24 hours and the response option "No" meant the respondent did not experience the symptom within the past 24 hours. For
+computing affected days with symptom, daily responses of "No" were coded as 0 and "Yes" were coded as 1. Scores were determined by
+© 2024 American Medical Association. All rights reserved.
+calculating the sum of the numeric values over the 3 days, and up to 10 days, prior to each study visit. If scores for fewer than 3 days in
+the 10 days prior to the study visit were available, then score was set to missing for that visit.
+Sleep interruption: Sleep interruption scoring quantified the number of nights with sleep interruption due to ulcerative colitis symptoms in
+the most recent week (i.e., 7 days) prior to each study visit. If patients answered "Yes" and "due to ulcerative colitis symptoms", they
+received a score of 1 for that day; otherwise, patients received a score of 0. Scores were determined by calculating the mean of the
+numeric values (0 for no sleep interruption due to ulcerative colitis symptoms, and 1 for sleep interruption due to ulcerative colitis
+symptoms) over the most recent week (i.e., 7 days) and then multiplying the result by 7; therefore, scores ranged between 0 and 7 for
+each study visit.
+Fecal incontinence: Fecal incontinence scoring quantified the number of weekly episodes of accidental bowel leakage (e.g. accidental
+soiling of underwear) prior to each study visit. Scores were determined by calculating the mean of the number of fecal incontinence
+episodes over the most recent week (i.e., 7 days) prior to a study visit and then multiplying by 7.
+Definitions for Study Endpoints in Both Induction and Maintenance
+Clinical remission per Adapted Mayo score: SFS ≤ 1, and not greater than baseline, RBS of 0, and endoscopic subscore ≤ 1.
+Clinical response per Adapted Mayo score: Decrease from baseline ≥ 2 points and ≥ 30%, in addition to a decrease in RBS ≥ 1 or an
+absolute RBS ≤ 1.
+Clinical response per Partial Adapted Mayo score: Decrease from baseline ≥ 1 point and ≥ 30%, in addition to a decrease in RBS ≥ 1
+or an absolute RBS ≤ 1.
+Endoscopic improvement: Endoscopic subscore ≤ 1 without the evidence of friability.
+Endoscopic remission: Endoscopic subscore of 0.
+© 2024 American Medical Association. All rights reserved.
+Histological endoscopic mucosal improvement (HEMI): Endoscopic subscore of 0 or 1 without evidence of friability and Geboes score
+≤ 3.1.
+HEMR: Endoscopic subscore of 0 and Geboes score < 2.0.
+Histologic remission: Geboes score of < 2.0.
+No bowel urgency: A mean score of 0 denoting the absence of symptoms for the 3 most recent days prior to each study visit.
+No abdominal pain: A mean score of 0 denoting the absence of symptoms for the 3 most recent days prior to each study visit.
+No nocturnal bowel movements: A mean score of 0 denoting the absence of symptoms for the 3 most recent days prior to each study
+visit.
+No tenesmus: A mean score of 0 denoting the absence of symptoms for the 3 most recent days prior to each study visit.
+For all patient-reported outcomes (no bowel urgency, no abdominal pain, no nocturnal bowel movements, no tenesmus), the 3
+most recent days should not include the day prior to endoscopy, the day the subject underwent endoscopy, and 2 days following
+the endoscopy. Earlier diary entries will be used accordingly in order to provide the most recent data for 3 days prior to the
+respective study visit.
+Health-Related Quality of Life (HRQOL) Endpoints
+Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F): A 13-item assessment of fatigue associated with disease and
+how it impacts daily activities and function. Lower scores indicate greater fatigue.
+Inflammatory Bowel Disease Questionnaire (IBDQ): This questionnaire consists of 32 questions divided into 4 dimensions: bowel
+symptoms, systemic symptoms, emotional function, and social function. The total score ranges from 32 to 224, with higher scores
+representing better quality of life.
+© 2024 American Medical Association. All rights reserved.
+Definitions for Study Endpoints in Maintenance Only
+Corticosteroid-free clinical remission: Clinical remission per Adapted Mayo score at week 52 in patients who abstained from
+corticosteroid use for 90 days.
+Maintenance of clinical remission: Achievement of clinical remission per Adapted Mayo score at week 52 in patients with clinical
+remission at baseline of maintenance.
+Maintenance of endoscopic improvement: Achievement of endoscopic improvement at week 52 in patients with endoscopic
+improvement at baseline of maintenance.
+Statistical Analysis for IL-22
+An MMRM analysis was conducted on the log2 transformed biomarker values. In the mixed model, the outcome variable was the change
+from baseline of the log2 transformed values. Baseline biomarker values were adjusted by including log2 (baseline) as a covariate. Treatment,
+time, and treatment by time were fixed effects; and patient was a random effect. Least square mean estimates for treatment by time combinations
+from the mixed model were used for reporting and comparisons. The least-square means of the change in the log scale were back-transformed to
+the original scale, which gave a percent change from the baseline. Change from baseline comparisons within the treatment group were made at
+weeks 4, 12, and 52, and Bonferroni adjusted P values were calculated.
+Pharmacokinetics and Immunogenicity Assessments
+Risankizumab serum levels were measured every 4 weeks, from week 4 through week 12 during induction, and for maintenance every 16
+weeks through week 48, with a final measurement 4 weeks later at week 52; serum anti-drug antibodies including neutralizing antibodies were
+measured according to the same schedule as risankizumab but also included induction baseline prior to risankizumab treatment. Assay methods
+have been previously described.³
+© 2024 American Medical Association. All rights reserved.
+Safety Outcomes
+Adverse events were coded with the Medical Dictionary for Regulatory Activities (MedDRA), version 25.1. The severity of adverse events
+and laboratory abnormalities was graded with the Common Terminology Criteria for Adverse Events, version 4.03. Major adverse cardiovascular
+events (MACE) and anaphylactic reactions were adjudicated by external independent adjudication committees. An external data monitoring
+committee (DMC), independent of the sponsor and with relevant expertise in their field, reviewed unblinded safety data from the studies according
+to the DMC Charter.
+Additional Statistical Analysis For Induction and Maintenance
+Overall Type I Error Control
+The overall type I error rate for the primary and secondary endpoints for the double-blind, phase 3 induction period was controlled using a
+graphical multiple-testing procedure (eFigure 4). The primary endpoint was tested at the prespecified significance level of 0.05 (2-sided). The
+secondary efficacy endpoints were divided into 2 groups (eFigure 4). The first group included the first 10 secondary endpoints. The second group
+included all the remaining 5 secondary endpoints which were tested using the Holm procedure. If the primary endpoint achieved statistical
+significance, continued testing followed a prespecified weight of a allocation (eFigure 4). In the graph, the arrows specify the weight of a allocation
+between nodes. Once a hypothesis was rejected (ie, deemed the endpoint is significant) at its assigned significance level, its significance level
+was allocated to the subsequent node. If more than one arrow originates from a node, the significance level was split between multiple subsequent
+nodes following the prespecified weight. The numbers on the arrows denote the weights. For example, weight 1 denotes 100% transfer of
+significance level to the next node, and the weight ε denotes 0.02% of the overall significance level (corresponding to a of 0.02% X 0.05 =
+0.00001) to be transferred.
+© 2024 American Medical Association. All rights reserved.
+For maintenance, the graphical testing procedure was similar to that performed for induction, with testing for the primary endpoint
+beginning at the prespecified significance level of 0.025 (2-sided) for each risankizumab dose group compared with placebo. If the primary
+endpoint achieved statistical significance, testing was continued following a prespecified weight of a allocation.
+In eFigure 5, the arrows specify weight of a allocation between nodes. Once a hypothesis was rejected (ie, deemed the endpoint
+significant) at its assigned significance level, the significance was allocated to the subsequent node. If more than one arrow originates from a
+node, the significance level will be split between multiple subsequent nodes following the prespecified weight. The numbers on the arrows denote
+the weights. For example, weight 1 denotes 100% transfer of significance level to the next node, and the weight ε denotes 0.04% of the overall
+significance level each dose starts with (corresponding to a of 0.04% X 0.025=0.00001) to be transferred.
+No type I error control was applied to the additional nonranked efficacy endpoints. The analysis for additional efficacy endpoints was
+performed at the nominal a level of 0.05 (two-sided) for each dose.
+© 2024 American Medical Association. All rights reserved.
+eFigure 1. Key Study Design Features and Trial Profile of Induction and Maintenance Studies
+Phase 2b Induction Substudy 1
+COMMAND
+UC
+Double-blind dose-ranging
+M16-066
+Phase 2b Induction Substudy 1
+INSPIRE
+Randomizationᵈ (1:1:1)
+Phase 3 Maintenance Substudy 1ᵉ
+Double-blind
+Open-label
+Clinical responders
+RZB 180 mg SC, n = 179
+to RZB IV therapyᶜ
+OC
+RZB 360 mg SC, n = 186
+Randomizationᵃ
+Phase 3 Induction Substudy 2ᵇ
+Double-blind
+(2:1)
+PBO (WD) SC, n = 183
+RZB 1200 mg IV, n = 650
+PBO IV, n = 325
+Steroid
+taper
+RZB Open-Label Rescue
+Week 0
+4
+8
+12/24
+RZB dosing
+Week 0
+8
+16
+24
+32
+40
+48
+52
+RZB dosing
+Primary endpoint:
+Clinical remission per
+Primary endpoint:
+Adapted Mayo score
+Clinical remission per
+Adapted Mayo score
+The phase 3 induction and maintenance studies lasted up to 81 weeks and included a screening period that lasted up to 5 weeks, a 12-week
+double-blind induction period (substudy 2), and a 52-week maintenance period.
+ᵃRandomization for induction was stratified by the presence of baseline corticosteroid use (yes, no), baseline Adapted Mayo score (≤7, >7), and
+number of prior failed advanced therapies (0, 1, > 1).
+ᵇThe primary efficacy analysis population for phase 3 induction substudy 2 included all randomized patients who received at least one dose of
+study drug during the first 12-week, double-blind induction period.
+© 2024 American Medical Association. All rights reserved.
+ᶜClinical responders after 12 weeks of risankizumab IV were randomized to the primary efficacy population of maintenance. Patients who did not
+achieve a clinical response could receive an additional 12 weeks of risankizumab therapy during the induction extended treatment period (not
+shown). Patients who were placebo nonresponders after 12 weeks who then received and responded to risankizumab 1200 mg or 1800 mg at 24
+weeks were included in the rerandomization into maintenance (not shown).
+Randomization was stratified by history of advanced therapy failure (yes, no), last risankizumab induction dose (600 mg, 1200 mg, 1800 mg), and
+clinical remission status (per local evaluation) at the last visit of induction (yes, no).
+eThe primary efficacy analysis population for maintenance included patients who achieved a clinical response per Adapted Mayo score after 12
+weeks of risankizumab IV during the phase 2b dose-ranging substudy (600 mg, 1200 mg, 1800 mg), phase 2b open-label period (1800 mg), or
+phase 3 induction (1200 mg).
+Patients who experienced inadequate response were eligible for risankizumab rescue therapy starting at week 16 of maintenance (one dose of
+1200 mg or 1800 mg followed by 360 mg every 8 weeks). Loss of response or inadequate response was based on clinical and endoscopic
+symptoms (RBS at least 1 point greater than the week 0 value or endoscopic subscore of 2 or 3).
+IV, intravenous; PBO, placebo; RBS, rectal bleeding score; RZB, risankizumab; SC, subcutaneous; WD, placebo (withdrawal)
+© 2024 American Medical Association. All rights reserved.
+eFigure 2. Trial Profile of the Dose-Ranging Phase 2b Substudy
+1034 patients screened
+453 patients excluded from randomizationᵃ
+341 patients enrolled to open-label period
+240 randomized
+61 allocated risankizumab 600 mg IV
+61 allocated risankizumab 1200 mg IV
+58 allocated risankizumab 1800 mg IV
+60 allocated placebo IV
+6 discontinued treatment
+3 discontinued treatment
+1 discontinued treatment
+7 discontinued treatment
+1 adverse event
+2 adverse event
+1 adverse event
+5 adverse event
+1 withdrew consent
+1 lack of efficacy
+1 withdrew consent
+1 lack of efficacy
+1 other
+3 other reasons
+55 completed week 12
+58 completed week 12
+57 completed week 12
+53 completed week 12
+The primary analysis populations for the phase 2b substudy included all randomized patients who received at least one dose of study drug during
+the 12-week, double-blind, dose-ranging substudy.
+Patients who attained a clinical response at week 12 of phase 2b open-label induction treatment were randomized into the maintenance study,
+and patients with clinical response to 12-week risankizumab IV therapy were included in the primary efficacy analysis.
+aFailed to meet inclusion criteria or met exclusion criteria.
+IV, intravenous.
+© 2024 American Medical Association. All rights reserved.
+eFigure 3. Key Clinical and Endoscopic Endpoints and Inflammatory Biomarkers for the Dose-Ranging
+Phase 2b Substudy
+Clinical Remission
+Clinical Response
+Clinical Response
+B)
+per Adapted Mayo Score
+C)
+A)
+per Adapted Mayo Score
+per Partial Adapted
+A23.9
+Mayo Score (Week 4)
+100
+(11.0-36.7)
+100
+100
+A10.2
+A28.4
+(-2.4-22.9)
+(15.7-41.1)
+80
+80
+80
+A23.2
+A33.8
+(9.9-36.4)
+Percent of patients
+49.6
+(20.7-46.9)
+60
+(2.2-17.0)
+(1.5-15.3)
+Percent of patients
+60
+53.4
+A8.4
+45.9
+42.6
+Percent of patients
+60
+A13.1
+(-0.4-26.6)
+45.9
+40
+40
+40
+37.9
+32.8
+48.7
+(1.7-15.6)
+25.0
+20
+20.0
+11.5
+20
+20
+9.8
+10.3
+1.7
+0
+0
+0
+Number of patients:
+61
+61
+58
+60
+61
+61
+58
+60
+61
+61
+58
+60
+D)
+Change from Baseline in
+E)
+Partial Adapted Mayo Score
+Endoscopic Improvement
+F)
+Endoscopic Remission
+100
+100
+0
+80
+A18.7
+80
+Change from baseline
+in Partial Adapted Mayo Score
+(8.4-29.0)
+Percent of patients
+Д8.3
+-1
+60
+A8.4
+Percent of patients
+(2.5-14.1)
+60
+(0.1-16.7)
+A4.8
+40
+(0.4-9.1)
+A10.5
+40
+-2
+(1.6-19.3)
+24.6
+48.7
+(2.7-14.6)
+20
+13.1
+15.5
+20
+###
+5.0
+8.2
+8.6
+###
+4.9
+-3
+0
+0
+0
+4
+8
+12
+0
+Number of patients:
+61
+61
+58
+60
+61
+61
+58
+60
+Mean change from baseline:
+Risankizumab 600 mg IV
+-1.0
+-1.5
+-1.7
+Risankizumab 1200 mg IV
+-1.4 -1.8 -2.1
+Risankizumab 1800 mg IV
+-1.3 -2.1 -2.3
+Placebo IV
+-0.7
+-0.8
+-0.9
+Week of Induction
+G)
+Change From Baseline in
+H)
+Change From Baseline in
+I)
+Change From Baseline in
+High-Sensitivity C-reactive Protein
+Fecal Calprotectin
+Percent of IL-22
+2
+0
+2000
+0
+Mean change from baseline
+in high sensitivity-CRP
+Mean change from baseline
+1000
+in fecal calprotectin
+Mean percent change in
+-20
+-2
+0
+-4
+#
+IL-22 from week 0
+-40
+**
+-6
+-1000
+###
+#
+#
+###
+###
+-8
+-2000
+-60
+0
+4
+8
+12
+0
+4
+12
+0
+4
+12
+Mean change
+-1.0 -3.4-1.4
+-626.9 -1454.1
+from baseline:
+-19.5
+-39.1
+Risankizumab 600 mg IV
+-2.5 -4.7 -3.6
+-595.7 -1392.4
+-35.5 -49.2
+Risankizumab 1200 mg IV
+-4.5 -5.7 -4.4
+-470.4 -969.9
+-41.0 -54.8
+Risankizumab 1800 mg IV
+-1.1 1.1 1.6
+1071.4 -14.5
+-22.4 -2.3
+Placebo IV
+Week of induction
+Week of induction
+Week of induction
+Risankizumab 600 mg
+Risankizumab 1200 mg
+Risankizumab 1800 mg
+Placebo IV
+© 2024 American Medical Association. All rights reserved.
+For eFigure 3A-C and E-F, all data shown is at week 12 of induction, with adjusted treatment differences
+versus placebo (90% CI) denoted by the deltas shown above treatment groups. For eFigures 3G and 3H,
+data shown is LS mean change from baseline. Analysis was based on the CMH test stratified by baseline
+corticosteroid use (yes, no) and baseline Adapted Mayo score (≤ 7, > 7). Significance was determined using
+Chi-square test or Fisher's exact test if ≥ 20% of the cells have expected cell count < 5. 90% confidence
+intervals for risk difference were calculated based on normal approximation using PROC FREQ. + P≤. 1; P
+≤ .05; ** P ≤ .01; *** .001 versus placebo. For eFigure 3D, P ≤ .05 RZB 1800 mg VS. PBO at week 4;
+P ≤ 01 RZB 1200 mg VS. PBO at week 4; P ≤ .001 RZB 1200 mg VS. PBO at week 8; ### P ≤ .001 RZB
+1800 mg VS. PBO at week 8; .01 RZB 600 mg VS. PBO at week 12; *** P ≤ .001 RZB 1200 mg VS. PBO
+at week 12; ### P≤.001 RZB 1800 mg VS. PBO at week 12; eFigure 3G, + P≤.1 RZB 1800 mg vs. PBO at
+week 4; P ≤ ≤ .05 RZB 600 mg VS. PBO at week 8; *** P ≤ .001 RZB 1200 mg VS. PBO at week 8; ### P ≤ .001
+RZB 1200 mg VS. PBO at week 8; # ≤ .05 RZB 1200 mg VS. PBO at week 12; P ≤ .05 RZB 1800 mg VS.
+PBO at week 12; eFigure 3H, + P≤.1 RZB 1800 mg vs. PBO at week 4; *P≤.1RZB 1800 mg VS. PBO at
+week 4; * .05 RZB 600 mg vs. PBO at week 4; .05 RZB 600 mg VS. PBO at week 4; *P≤.1 RZB
+1200 mg VS. PBO at week 4; *P≤.1 RZB 1800 mg VS. PBO at week 4; P ≤ .05 RZB 600 mg VS. PBO at
+week 12; P .05 RZB 1200 mg VS. PBO at week 12; eFigure 3I, *** P ≤ .001 RZB 1200 mg VS. baseline at
+week 4; ### P ≤ .001 RZB 1800 mg VS. baseline at week 4; ** P≤ .05 RZB 600 mg vs. baseline at week 12; ***
+P .001 RZB 1200 mg VS. baseline at week 12; ### P ≤ .001 RZB 1800 mg VS. baseline at week 12. CI,
+confidence intervals; CMH, Cochran-Mantel-Haenszel IV, intravenous. LS, least-square.
+© 2024 American Medical Association. All rights reserved.
+eFigure 4. Graphical Multiple-Testing Procedure for the Phase 3 Induction Study
+Clinical remission per Adapted Mayo score at Week 12
+(Alpha = 0.05000)
+1-10ε
+Clinical response per Adapted Mayo score at Week 12
+1
+ε
+Endoscopic improvement at Week 12
+1
+ε
+Histological-endoscopic mucosal improvement at Week 12
+1
+ε
+Endoscopic remission at Week 12
+1
+ε
+Clinical response per Partial Adapted Mayo score at Week 4
+1
+ε
+No bowel urgency at Week 12
+1
+ε
+No abdominal pain at Week 12
+1
+ε
+Histological-endoscopic mucosal remission at Week 12
+1
+ε
+Change from baseline in FACIT-Fatigue at Week 12
+1
+ε
+Change from baseline in IBDQ total score at Week 12
+1
+ε
+UC-related hospitalizations through Week 12
+No nocturnal bowel movements at Week 12
+No tenesmus at Week12
+Change from baseline in number of fecal incontinence
+Holm Procedure
+episodes per week at Week 12
+Change from baseline in number of days per week with
+sleep interrupted due to UC symptoms
+© 2024 American Medical Association. All rights reserved.
+Weight ε denotes 0.02% of the overall significance level (corresponding to a of 0.02%*0.05=of 0.00001).
+FACIT-F, Functional Assessment of Chronic Illness Therapy-Fatigue; IBDQ, Inflammatory Bowel Disease
+Questionnaire; IV, intravenous; Q8, every 8 weeks; SC, subcutaneous; UC, ulcerative colitis
+© 2024 American Medical Association. All rights reserved.
+eFigure 5. Graphical Multiple-Testing Procedure For the Phase 3 Maintenance Study
+360 mg SC Q8W vs Placebo
+180 mg SC Q8W vs Placebo
+Clinical remission per Adapted Mayo Score
+Clinical remission per Adapted Mayo Score
+a = 0.025 (2-sided)
+a = 0.025 (2-sided)
+1-12Γ
+1-12Γ
+Endoscopic improvement
+Endoscopic improvement
+1
+1
+E
+Histologic-endoscopic mucosal improvement
+Histologic-endoscopic mucosal improvement
+1
+1
+8
+Endoscopic remission
+Endoscopic remission
+8
+1
+1
+/
+Clinical remission per Adapted Mayo score
+Clinical remission per Adapted Mayo score
+with no corticosteroid use for 90 days
+with no corticosteroid use for 90 days
+1
+1
+E
+clinical remission per Adapted Mayo score in
+clinical remission per Adapted Mayo score in
+E
+subjects with clinical remission at Week 0
+subjects with clinical remission at Week 0
+1
+1
+E
+E
+No bowel urgency
+No bowel urgency
+1
+1
+8
+E
+No abdominal pain
+No abdominal pain
+1
+1
+E
+E
+Mucosal healing
+Mucosal healing
+1
+1
+E
+Endoscopic improvement in subjects with
+Endoscopic improvement in subjects with
+E
+endoscopic improvement at Week 0
+endoscopic improvement at Week 0
+1
+1
+&
+Clinical response per Adapted Mayo score
+Clinical response per Adapted Mayo score
+8
+1
+1
+/
+E
+Change from Baseline in Facit-F
+Change from Baseline in Facit-F
+1
+1
+8
+Change from Baseline in IBDQ
+Change from Baseline in IBDQ
+1
+1
+1
+1
+N nocturnal bowel movements
+N nocturnal bowel movements
+No tenesmus
+No tenesmus
+Change from Baseline in number of
+Change from Baseline in number of
+fecal incontinence episodes per week
+fecal incontinence episodes per week
+&
+Change from Baseline in number of
+Change from Baseline in number of
+8
+days over a week with sleep
+Holm Procedure
+days over a week with sleep
+interrupted due to UC symptoms
+interrupted due to UC symptoms
+UC-related hospitalizations
+UC-related hospitalizations
+Weight ε denotes 0.04% of the overall significance level that each dose starts with (corresponding to a of
+0.04%*0.025=0.00001).
+FACIT-F, Functional Assessment of Chronic Illness Therapy-Fatigue; IBDQ, Inflammatory Bowel Disease
+Questionnaire; IV, intravenous; Q8, every 8 weeks; SC, subcutaneous; UC, ulcerative colitis
+© 2024 American Medical Association. All rights reserved.
+For each study, the subgroup analyses were conducted for prespecified subgroups for the primary efficacy endpoint.
+No post hoc subgroups are shown. Point estimate and 95% CI for treatment difference between each risankizumab
+group and placebo group were calculated using normal approximation to the binomial distribution. 95% CI for
+difference were calculated using normal approximation to the binomial distribution. The calculations were based on
+NRI incorporating multiple imputation to handle missing data due to logistic restrictions (COVID-19 or the geopolitical
+conflict in Ukraine and surrounding impacted regions) or NRI only if there were no missing data due to logistic
+restrictions (COVID-19 or the geopolitical conflict in Ukraine and surrounding impacted regions). If any of the resulting
+subgroups except for age, sex and race had fewer than 10% of the planned study size, the subgroup analyses for that
+category were not presented. Type I error was not controlled in this analysis. CI, confidence interval; COVID-19,
+coronavirus disease 2019.
+IV, intravenous; IR, inadequate response, TNF, tumor necrosis factor; SC, subcutaneous; UC, ulcerative colitis; hs-CRP,
+high sensitivity C-reactive protein.
+© 2024 American Medical Association. All rights reserved.
+eFigure 7. Percent of Patients Who Achieved Histologic Remission at Week 12 of Induction and Week 52 of
+Maintenance
+100
+Induction
+6.6
+(-1.8-14.9)
+Risankizumab 1200 mg IV
+80
+*
+Placebo IV
+Percent of patients
+60
+Д8.7
+***
+(0.4-17.0)
+Maintenance
+A12.8
+40
+(9.3-16.2)
+27.0
+28.2
+Risankizumab 180 mg SC
+20.8
+16.5
+20
+Risankizumab 360 mg SC
+3.7
+Placebo (Withdrawal) SC
+0
+Number of patients:
+650
+325
+179
+186
+183
+Induction
+Maintenance
+Histologic remission was defined as Geboes score of < 2.0. 95% Cls for the response rates were the
+synthetic result based on Student's t-distribution from PROC MIANALYZE procedure if there were missing
+data due to logistic restrictions (COVID-19 or geopolitical restrictions) or is based on the normal
+approximation to the binomial distribution. Significance was calculated according to the CMH test adjusted
+for strata for the comparison of treatment groups. Adjusted risk difference and 95% CI for adjusted difference
+were calculated based on Mantel-Haenszel common rate difference. 95% Cls for difference were calculated
+using normal approximation to the binomial distribution. * P ≤ .05; *** P ≤ .001 versus placebo IV or versus
+placebo (withdrawal) SC.
+CMH, Cochran-Mantel-Haenszel; CI, confidence interval; COVID-19, coronavirus disease 2019; IV,
+intravenous; SC, subcutaneous.
+© 2024 American Medical Association. All rights reserved.
+eFigure 8. Percent of Patients that Achieved Clinical Response per Partial Adapted Mayo Score Through Week
+12 of INSPIRE
+100
+Risankizumab 1200 mg IV
+***
+80
+Placebo IV
+***
+69.3%
+65.0%
+(65.8-72.9)
+(61.4-68.7)
+***
+I
+Percent of patients
+52.2%
+60
+(48.3-56.0)
+40
+43.7%
+40.6%
+(38.3-49.1)
+(35.3-46.0)
+30.5%
+20
+(25.5-35.5)
+0
+0
+4
+8
+12
+Week of Induction
+95% Cls for response rates were the synthetic result based on Student's t-distribution from PROC MIANALYZE
+procedure if there were missing data due to logistic restrictions (COVID-19 or geopolitical restrictions). P value
+was calculated according to the CMH test adjusted for strata. Within each stratum, 95% CI for difference were
+calculated using normal approximation to the binomial distribution. The calculations were based on
+nonresponder imputation incorporating multiple imputation to handle missing data due to logistic restrictions. ***
+P ≤ .001 versus placebo IV.
+CMH, Cochran-Mantel-Haenszel COVID-19, coronavirus disease 2019; IV, intravenous.
+© 2024 American Medical Association. All rights reserved.
+eFigure 9. Patient-Reported Outcomes Among Patients Who Reported Having Symptoms at Baseline of Phase
+3 Induction
+A)
+Week 12 of Induction
+100
+Risankizumab 1200 mg IV
+***
+Placebo IV
+Д21.8
+80
+(14.3-29.4)
+***
+***
+Д20.7
+18.9
+(14.2-27.2)
+59.2
+Percent of patients
+60
+(12.8-25.0)
+***
+10.8
+(4.9-16.8)
+45.1
+41.8
+37.7
+40
+32.4
+22.9
+24.6
+21.6
+20
+0
+Number of patients:
+597
+293
+597
+291
+552
+276
+445
+236
+No bowel
+No abdominal
+No tenesmus
+No nocturnal
+urgency
+pain
+bowel movements
+B)
+Week 52 of Maintenance
+*
+Д20.4
+100
+[3.0-37.7]
+Risankizumab 180 mg SC
+10.5
+*
+Risankizumab 360 mg SC
+***
+(-6.0-26.9)
+Д22.3
+Placebo (Withdrawal) SC
+A24.8
+[4.6-39.9]
+(15.2-34.4)
+11.5
+80
+***
+(-5.1-28.1)
+61.2
+***
+17.1
+58.2
+17.2
+(7.2-27.0)
+(7.4-27.1)
+53.1
+54.8
+Percent of patients
+52.8
+60
+7.9
+45.9
+46.0 (-1.9-17.7)
+43.1
+42.9
+36.2
+40
+28.3
+28.4
+20
+0
+Number of patients:
+176 174 173
+174 172 169
+64 67 65
+55 49 49
+No bowel
+No abdominal
+No tenesmus
+No nocturnal
+urgency
+pain
+bowel movements
+© 2024 American Medical Association. All rights reserved.
+95% Cls for response rate were the synthetic result based on Student's t-distribution from PROC MIANALYZE
+procedure if there were missing data due to logistic restrictions (COVID-19 or the geopolitical conflict in Ukraine
+and surrounding impacted regions), with all calculations performed among patients that reported having bowel
+urgency, abdominal pain, tenesmus, or nocturnal bowel movements at baseline of phase 3 induction (for
+baseline values for these endpoints, see eTable 3). Across the strata, statistical significance was calculated
+according to the Cochran-Mantel-Haenszel test. Adjusted risk difference and 95% CI were calculated based on
+Mantel-Haenszel common rate difference. The calculations were based on nonresponder imputation
+incorporating multiple imputation to handle missing data due to logistic restrictions (COVID-19 or the geopolitical
+conflict in Ukraine and surrounding impacted regions). * P ≤ .05; ** ≤ .01; *** P ≤ .001 versus placebo or
+placebo (withdrawal).
+CMH, Cochran-Mantel-Haenszel; COVID-19, coronavirus disease 2019; CI, confidence interval; IV, intravenous;
+MMRM, mixed-effect model repeated measures; SC, subcutaneous.
+© 2024 American Medical Association. All rights reserved.
+eFigure 10. Discontinuation of Corticosteroids at Week 52 of Maintenance Among Patients Taking
+Corticosteroids at Baseline of Induction
+***
+Д28.4
+(14.0-42.8)
+*
+100
+Д20.7
+Risankizumab 180 mg SC
+(4.9-36.6)
+Risankizumab 360 mg SC
+80
+64.9
+54.2
+Placebo (Withdrawal) SC
+Percent of patients
+60
+36.8
+40
+20
+0
+Number of patients:
+74
+59
+68
+Shown is the achievement of the discontinuation of corticosteroids at week 52 for the entire 52-week
+maintenance period in patients taking corticosteroids at baseline of the induction study. Baseline refers to week
+0 of maintenance (week 12 or 24 of induction). 95% Cls for the response rates were based on the normal
+approximation to the binomial distribution. Significance was calculated according to the CMH test adjusted for
+stratification factors. Adjusted risk difference and 95% Cls were calculated based on Mantel-Haenszel common
+rate difference. * ≤ .05; *** P ≤ .001 versus placebo (withdrawal).
+CMH, Cochran-Mantel-Haenszel; CI, confidence interval; SC, subcutaneous.
+© 2024 American Medical Association. All rights reserved.
+eFigure 11. Change From Baseline in Biomarkers During the Phase 3 Induction and Maintenance Studies
+Induction
+A)
+High-sensitivity C-reactive protein
+B)
+High-sensitivity C-reactive protein
+Mean change from baseline
+Median change from baseline
+4
+0.0
+0
+2
+-0.2
+-0.2
+-0.3
+Mean change from
+baseline in hs-CRP
+-1.4
+-1.6
+0
+-2
+***
+***
+4.2
+-4.4
+Median change from
+baseline in hs-CRP
+-0.5
+***
+-1.0-
+-0.8
+***
+***
+-4.9
+-0.9
+-4
+-1.0
+-6
+-1.5
+0
+4
+8
+12
+0
+4
+8
+12
+Number of patients:
+650
+619
+611
+611
+Risankizumab 1200 mg IV
+325
+300
+291
+273
+Placebo IV
+325
+306
+304
+293
+Placebo IV
+650
+615
+605
+605
+Risankizumab 1200 mg IV
+Week of Induction
+Week of Induction
+C)
+Fecal calprotectin
+D)
+Fecal calprotectin
+Mean change from baseline
+Median change from baseline
+200
+1000
+26.0
+Mean change from baseline
+in fecal calprotectin
+-1000
+***
+Median change from baseline
+0
+306.3
+0
+***
+-927.6
+in fecal calprotection
+-200
+1105.9
+-400
+***
+-355.0
+-415.0
+-600
+-1803.7
+***
+m-703.0
+-2000
+-800
+0
+4
+12
+0
+4
+12
+Number of patients:
+650
+564
+549
+Risankizumab 1200 mg IV
+325
+275
+244
+Placebo IV
+325
+281
+265
+Placebo IV
+650
+560
+544
+Risankizumab 1200 mg IV
+Week of Induction
+Week of Induction
+Risankizumab 1200 mg IV
+Placebo IV
+Maintenance
+E)
+High-sensitivity C-reactive protein
+F)
+High-sensitivity C-reactive protein
+Mean change from baseline
+Median change from baseline
+4
+2.1
+0.4
+0.350
+2
+0.3
+0.3
+Mean change from
+baseline in hs-CRP
+0.2
+0
+-2
+-0.5
+**
+-0.5
+-0.2
+Median change from
+baseline in hs-CRP
+0.2
+0.1
+0.065
+***
+-0.015
+-4
+0.0
+***
+-0.045**
+-0.040
+-6
+-0.1
+0
+24
+52
+0
+24
+52
+Number of patients:
+179
+175
+172
+Risankizumab 180 mg SC
+179
+160
+140
+Risankizumab 180 mg SC
+186
+174
+161
+Risankizumab 360 mg SC
+186
+150
+116
+Risankizumab 360 mg SC
+183
+170
+170
+Placebo (Withdrawal) SC
+183
+154
+109
+Placebo (Withdrawal) SC
+Week of Maintenance
+Week of Maintenance
+G)
+Fecal calprotectin
+H)
+Fecal calprotectin
+Mean change from baseline
+Median change from baseline
+100
+1000
+Mean change from baseline
+in fecal calprotectin
+0
+-358.3
+-208.2
+-1000
+**
+-179.8
+-120.2
+Median change from baseline
+58.0
+-463.2
+500.3
+in fecal calprotectin
+50
+0
+-11.5
+0
+***
+-31.0
+-16.0
+***
+-44.5
+-50
+-2000
+0
+8
+52
+0
+8
+52
+179
+150
+123
+Number of patients:
+Risankizumab 180 mg SC
+179
+152
+153
+Risankizumab 180 mg SC
+186
+164
+110
+Risankizumab 360 mg SC
+186
+166
+155
+Risankizumab 360 mg SC
+183
+165
+91
+Placebo (Withdrawal) SC
+183
+166
+152
+Placebo (Withdrawal) SC
+Week of Maintenance
+Week of Maintenance
+Risankizumab 180 mg SC
+Risankizumab 360 mg SC
+Placebo (Withdrawal) SC
+© 2024 American Medical Association. All rights reserved.
+eFigure 11. Change From Baseline in Biomarkers During Phase 3 Induction and Maintenance Studies
+(continued)
+Maintenance
+I)
+0
+Mean percent change
+from baseline in IL-22
+-20
+-40
+-60
+*
+-80
+0
+4
+12
+52
+Mean percent change
+from baseline in IL-22:
+-51.7 -62.3 -62.1
+Risankizumab 1200 mg IV/Placebo SC
+-47.5 -54.0 -66.3
+Risankizumab 1200 mg IV/Risankizumab 180 mg SC
+-30.2 -51.7 -57.0
+Risankizumab 1200 mg IV/Risankizumab 360 mg SC
+-29.7 -2.2 -31.9
+Placebo IV/Placebo SC
+Week of Maintenance
+The LS mean and 95% Cls for the synthetic results were based on MMRM, with week 0, treatment, visit,
+treatment-by-visit interaction, and stratification factors. Median change from baseline and 95% CI were based
+on nonparametric analysis. Nonparametric analysis was performed, with P values for the treatment comparisons
+of each risankizumab dose versus placebo provided based on the Wilcoxon Rank Sum test. C-reactive protein
+and fecal calprotectin values were considered as observed before censoring. Week 0 was the last nonmissing
+measurement before the first dose of study drug in maintenance. Patients with only nonmissing change from
+week 0 values were included in this analysis. For eFigures 11A-D, *** P ≤ .001 RZB 1200 mg VS. PBO; eFigure
+11E, * P ≤ .05 RZB 180 mg VS. PBO (withdrawal) at week 52; ** P ≤ .01 RZB 180 mg or 360 mg vs. PBO (WD)
+at week 52; eFigure 11F, ** P≤.01 RZB 180 mg VS. PBO (WD) at week 24; * P ≤ .05 RZB 360 mg VS. PBO
+(WD) at week 24; *** P ≤ .001 RZB 180 or 360 mg VS. PBO (WD) at week 52; eFigure 11G, ** P .01 RZB 360
+mg VS. baseline at week 52; figure H, * P ≤ .05 RZB 180 mg VS. PBO (withdrawal) at week 8; *** P≤.001 ≤ RZB
+180 mg or 360 mg vs. PBO (WD) at week 52; eFigure 11I,*** P≤.001 VS. baseline for all groups except PBO
+IV/PBO SC. * P ≤ .05 RZB 360 mg VS. baseline at week 4. CI, confidence interval; IL-22, interleukin-22; IV,
+intravenous; least square; MMRM, mixed-effect model repeated measures; RTB-MI; return-to-baseline multiple
+imputation; RZB, risankizumab; SC, subcutaneous.
+© 2024 American Medical Association. All rights reserved.
+eFigure 6. Clinical Remission per Adapted Mayo Score by Subgroup Analysis at Week 12 of
+Induction and Week 52 of Maintenance
+A) Clinical Remission per Adapted Mayo Score at Week 12 of INSPIRE
+Risankizumab 1200 mg IV versus Placebo IV
+Percentage of Patients
+Risankizumab
+Placebo IV
+1200 mg IV
+Age (18-40)
+6.3
+20.8
+Age (40-65)
+5.2
+20.4
+Age ≥ 65
+12.0
+15.8
+Sex: male
+5.6
+17.9
+Sex: female
+7.3
+23.8
+Baseline weight < 60 kg
+4.8
+24.0
+Baseline weight ≥ 60 kg
+6.6
+19.0
+Race: white
+6.4
+19.8
+Race: non-white
+5.8
+21.2
+Geographic region: North America
+5.9
+12.9
+Geographic region: Western Europe
+4.9
+16.1
+Geographic region: Eastern Europe
+8.3
+27.3
+Geographic region: Asia
+5.8
+21.6
+Baseline Adapted Mayo score ≤ 7
+8.0
+22.6
+Baseline Adapted Mayo score > 7
+3.7
+17.2
+Baseline Partial Adapted Mayo score ≤ 4
+7.9
+20.4
+Baseline Partial Adapted Mayo score > 4
+4.5
+20.3
+Presence of pancolitis at baseline: Yes
+6.5
+15.6
+Presence of pancolitis at baseline: No
+6.0
+25.3
+Disease duration at baseline ≤ median (5.9)
+7.2
+21.0
+Disease duration at baseline > median (5.9)
+5.3
+19.6
+Disease duration at baseline ≤ 3 years
+9.5
+25.0
+Disease duration at baseline > 3 years
+5.1
+18.6
+Baseline hs-CRP ≤ median (3.6)
+5.6
+24.5
+Baseline hs-CRP > median (3.6)
+6.1
+15.2
+Baseline hs-CRP ≤ 5 mg/L
+7.1
+23.6
+Baseline hs-CRP > 5 mg/L
+4.3
+14.5
+Baseline albumin ≤ median (43.0)
+5.2
+16.6
+Baseline albumin > median (43.0)
+7.1
+24.3
+Baseline fecal calprotectin ≤ median (1537.0)
+9.2
+21.8
+Baseline fecal calprotectin ≤ median (1537.0)
+3.3
+18.9
+Baseline fecal calprotectin ≤ 250 mg/kg
+9.2
+27.8
+Baseline fecal calprotectin > 250 mg/kg
+5.8
+19.2
+-100
+-50
+0
+50
+100
+Adjusted treatment difference (%, 95% CI)
+© 2024 American Medical Association. All rights reserved.
+A) Clinical Remission per Adapted Mayo Score at Week 12 of INSPIRE (continued)
+Risankizumab 1200 mg IV versus Placebo IV
+Percentage of Patients
+Risankizumab
+Placebo IV
+1200 mg IV
+Baseline corticosteroid use: Yes
+7.4
+16.9
+Baseline corticosteroid use: No
+5.6
+22.2
+Baseline immunosuppressant use: Yes
+6.1
+14.8
+Baseline immunosuppressant use: No
+6.3
+21.4
+Prior exposure to advanced therapy: 0
+8.8
+30.0
+Prior exposure to advanced therapy: 1
+2.5
+14.7
+Prior exposure to advanced therapy > 1
+5.4
+10.3
+Number of prior failed advanced therapies 0 (Nonadvanced therapy-IR)
+8.4
+29.7
+Number of prior failed advanced therapies ≥ 1 (Advanced therapy-IR)
+4.3
+11.4
+Number of prior failed advanced therapies 1
+3.8
+12.4
+Number of prior failed advanced therapies 2
+7.7
+8.0
+Number of prior failed advanced therapies > 2
+0.0
+14.7
+Prior exposure to anti-TNF for UC in nonadvanced therapy-IR: No
+8.7
+29.8
+Number of prior failed anti-TNF for UC in advanced therapy-IR: 1
+3.6
+12.0
+-100
+-50
+0
+50
+100
+Adjusted treatment difference (%, 95% CI)
+© 2024 American Medical Association. All rights reserved.
+B) Clinical Remission per Adapted Mayo Score at Week 52 of COMMAND
+Risankizumab 180 mg SC versus Placebo (Withdrawal) SC
+Percentage of Patients
+Risankizumab
+Withdrawal
+180 mg SC
+Age (18-40)
+26.0
+37.9
+Age (40-65)
+23.5
+40.1
+Age ≥ 65
+27.3
+58.3
+Sex: male
+24.8
+42.8
+Sex: female
+25.6
+36.5
+Baseline weight < 60 kg
+12.5
+25.6
+Baseline weight ≥ 60 kg
+30.7
+44.8
+Race: White
+24.4
+40.3
+Race: Non-white
+27.1
+39.8
+Geographic region: North America
+25.0
+39.4
+Geographic region: Western Europe
+21.3
+39.0
+Geographic region: Eastern Europe
+26.7
+48.6
+Geographic region: Asia
+26.7
+36.9
+Baseline Adapted Mayo score ≤7
+29.3
+41.1
+Baseline Adapted Mayo score > 7
+20.9
+39.0
+Baseline Partial Adapted Mayo score ≤4
+27.8
+40.8
+Baseline Partial Adapted Mayo score > 4
+23.1
+39.5
+Presence of pancolitis at baseline: Yes
+19.4
+40.4
+Presence of pancolitis at baseline: No
+31.8
+39.9
+Disease duration at baseline ≤ median (6.9)
+23.8
+46.0
+Disease duration at baseline > median (6.9)
+26.8
+34.4
+Disease duration at baseline ≤ 3 years
+26.2
+47.5
+Disease duration at baseline > 3 years
+24.8
+37.8
+Baseline hs-CRP ≤ median (3.8)
+30.5
+44.4
+Baseline hs-CRP > median (3.8)
+21.6
+36.4
+Baseline albumin ≤ median (43.0)
+20.8
+38.9
+Baseline albumin > median (43.0)
+31.2
+41.8
+Baseline hs-CRP ≤ 5 mg/L
+28.7
+42.2
+Baseline hs-CRP > 5 mg/L
+22.4
+37.8
+Baseline fecal calprotectin ≤ median (1577.0)
+28.4
+38.0
+Baseline fecal calprotectin > median (1577.0)
+20.3
+42.5
+Baseline fecal calprotectin ≤ 250 mg/kg
+56.3
+47.1
+Baseline fecal calprotectin > 250 mg/kg
+21.2
+39.6
+Week 0 clinical remission status per Adapted Mayo score: No
+19.5
+29.9
+Week 0 clinical remission status per Adapted Mayo score: Yes
+39.6
+70.2
+-100
+-50
+0
+50
+100
+Adjusted treatment difference (%, 95% CI)
+© 2024 American Medical Association. All rights reserved.
+B) Clinical Remission per Adapted Mayo Score at Week 52 of COMMAND (continued)
+Risankizumab 180 mg SC versus Placebo (Withdrawal) SC
+Percentage of Patients
+Risankizumab
+Withdrawal
+180 mg SC
+Baseline corticosteroid use: Yes
+17.6
+26.9
+Baseline corticosteroid use: No
+29.6
+49.5
+Baseline immunosuppressant use: Yes
+35.1
+31.4
+Baseline immunosuppressant use: No
+22.6
+42.3
+Prior exposure to advanced therapy: Yes
+24.7
+37.0
+Prior exposure to advanced therapy: No
+27.0
+51.0
+Prior exposure to advanced therapy: 0
+27.0
+51.0
+Prior exposure to advanced therapy: 1
+34.5
+40.7
+Prior exposure to advanced therapy: > 1
+18.2
+34.5
+Number of prior failed advanced therapies: 0 (Nonadvanced Therapy-IR)
+31.1
+50.9
+Number of prior failed advanced therapies: ≥ 1 (Advanced Therapy-IR)
+23.2
+36.6
+Number of prior failed advanced therapies: 1
+32.3
+40.4
+Number of prior failed advanced therapies: 2
+17.5
+34.1
+Number of prior failed advanced therapies: > 2
+13.9
+34.2
+Prior exposure to anti-TNF for UC in non-Advanced Therapy-IR: No
+27.0
+51.0
+Number of prior failed anti-TNF for UC in Advanced Therapy-IR: 1
+22.8
+42.3
+Number of prior failed anti-TNF for UC in Advanced Therapy-IR: 2
+22.9
+38.0
+Last IV risankizumab induction dose: 1200 mg IV
+27.8
+38.8
+Last IV risankizumab induction dose: 1800 mg IV
+22.9
+38.8
+-100
+-50
+0
+50
+100
+Adjusted treatment difference (%, 95% CI)
+© 2024 American Medical Association. All rights reserved.
+C) Clinical Remission per Adapted Mayo Score at Week 52 of COMMAND
+Risankizumab 360 mg SC versus Placebo (Withdrawal) SC
+Percentage of Patients
+Risankizumab
+Withdrawal
+360 mg SC
+Age (18-40)
+26.0
+33.0
+Age (40-65)
+23.5
+43.5
+Age ≥ 65
+27.3
+30.8
+Sex: male
+24.8
+35.5
+Sex: female
+25.6
+40.5
+Baseline weight < 60 kg
+12.5
+40.0
+Baseline weight ≥ 60 kg
+30.7
+36.8
+Race: white
+24.4
+29.3
+Race: non-white
+27.1
+58.5
+Geographic region: North America
+25.0
+25.8
+Geographic region: Western Europe
+21.3
+29.8
+Geographic region: Eastern Europe
+26.7
+42.9
+Geographic region: Asia
+26.7
+58.0
+Baseline Adapted Mayo score ≤7
+29.3
+36.7
+Baseline Adapted Mayo score > 7
+20.9
+39.0
+Baseline Partial Adapted Mayo score ≤4
+27.8
+37.5
+Baseline Partial Adapted Mayo score > 4
+23.1
+37.8
+Week 0 clinical remission status per Adapted Mayo score: Yes
+39.6
+50.0
+Week 0 clinical remission status per Adapted Mayo score: No
+19.5
+34.5
+Presence of pancolitis at baseline: Yes
+19.4
+36.2
+Presence of pancolitis at baseline: No
+31.8
+39.1
+Disease duration at baseline ≤ median (6.9)
+23.8
+36.9
+Disease duration at baseline > median (6.9)
+26.8
+38.2
+Disease duration at baseline ≤ 3 years
+26.2
+43.3
+Disease duration at baseline > 3 years
+24.8
+36.5
+Baseline hs-CRP ≤ median (3.8)
+30.5
+42.6
+Baseline hs-CRP > median (3.8)
+21.6
+31.6
+Baseline hs-CRP ≤ 5 mg/L
+28.7
+41.9
+Baseline hs-CRP > 5 mg/L
+22.4
+31.3
+Baseline albumin ≤ median (43.0)
+20.8
+38.8
+Baseline albumin > median (43.0)
+31.2
+36.1
+Baseline fecal calprotectin ≤ median (1577.0)
+28.4
+36.9
+Baseline fecal calprotectin ≤ median (1577.0)
+20.3
+42.7
+Baseline fecal calprotectin ≤ 250 mg/kg
+56.3
+37.5
+Baseline fecal calprotectin > 250 mg/kg
+21.2
+40.1
+-100
+-50
+0
+50
+100
+Adjusted treatment difference (%, 95% CI)
+© 2024 American Medical Association. All rights reserved.
+C) Clinical Remission per Adapted Mayo Score at Week 52 of COMMAND (continued)
+Risankizumab 360 mg SC versus Placebo (Withdrawal) SC
+Percentage of Patients
+Risankizumab
+Withdrawal
+360 mg
+Baseline corticosteroid use: Yes
+17.6
+28.8
+Baseline corticosteroid use: No
+29.6
+41.7
+Baseline immunosuppressant use: Yes
+35.1
+46.9
+Baseline immunosuppressant use: No
+22.6
+35.7
+Prior exposure to advanced therapy: Yes
+24.7
+31.0
+Prior exposure to advanced therapy: No
+27.0
+61.0
+Prior exposure to advanced therapy: 0
+27.0
+61.0
+Prior exposure to advanced therapy: 1
+34.5
+38.9
+Prior exposure to advanced therapy: > 1
+18.2
+26.4
+Number of prior failed advanced therapies 0 (Nonadvanced Therapy-IR)
+31.1
+61.7
+Number of prior failed advanced therapies ≥ 1 (Advanced Therapy-IR)
+23.2
+29.5
+Number of prior failed advanced therapies: 1
+32.3
+38.2
+Number of prior failed advanced therapies: 2
+17.5
+29.7
+Number of prior failed advanced therapies: > 2
+13.9
+19.1
+Prior exposure to anti-TNF for UC in Nonadvanced Therapy-IR: No
+27.0
+62.8
+Number of prior failed anti-TNF for UC in Advanced Therapy-IR: 1
+22.8
+32.9
+Number of prior failed anti-TNF for UC in Advanced Therapy-IR: 2
+22.9
+20.5
+Last IV risankizumab induction dose: 1200 mg IV
+27.8
+44.6
+Last IV risankizumab induction dose: 1800 mg IV
+22.9
+31.8
+-100
+-50
+0
+50
+100
+Adjusted treatment difference (%, 95% CI)
+© 2024 American Medical Association. All rights reserved.
+eTable 1. Baseline Characteristics for the Dose-Ranging Phase 2b Induction Substudy
+Risankizumab
+Variable
+600 mg IV
+1200 mg IV
+1800 mg IV
+Placebo IV
+n 61
+n 61
+n = 58
+n = 60
+Sex
+Females
+21 (34.4)
+26 (42.6)
+27 (46.6)
+24 (40.0)
+Males
+40 (65.6)
+35 (57.4)
+31 (53.4)
+36 (60.0)
+Age, years, mean (SD)
+43.0 (14.9)
+41.8 (13.8)
+40.9 (13.7)
+44.4 (14.1)
+Race
+White
+49 (80.3)
+45 (73.8)
+45 (77.6)
+44 (73.3)
+Other
+12 (19.6)
+16 (26.2)
+13 (22.4)
+16 (26.6)
+Body mass index, kg/m²,
+n = 60
+n = 61
+n = 58
+n = 60
+mean (SD)
+24.2 (5.0)
+25.6 (6.3)
+24.0 (5.5)
+24.9 (5.1)
+Disease duration, years,
+mean (SD)
+10.0 (6.9)
+9.8 (8.3)
+8.5 (5.5)
+10.4 (6.8)
+Disease extent
+Left-sided colitis
+29 (47.5)
+22 (36.1)
+23 (39.7)
+30 (50.0)
+Extensive colitis/pancolitis
+32 (52.5)
+39 (63.9)
+35 (60.3)
+30 (50.0)
+Adapted Mayo score, mean (SD)
+6.9 (1.2)
+7.0 (1.1)
+7.2 (1.4)
+7.0 (1.2)
+Endoscopy score, mean (SD)
+2.7 (0.5)
+2.7 (0.5)
+2.8 (0.4)
+2.8 (0.4)
+High sensitivity-CRP (mg/L),
+n = 57
+n 60
+n = 58
+n = 59
+median (range)
+3.3 (0.2, 112.0)
+6.4 (0.2, 46.7)
+4.7 (0.2, 167.0)
+3.4 (0.2, 57.8)
+Fecal calprotectin, mg/kg,
+n = 53
+n = 50
+n = 52
+n = 53
+median (range)
+1792 (40, 19839)
+1436 (30, 17 820)
+1467 (75, 24 505)
+1750 (30, 28800)
+Medications at baseline
+Corticosteroids
+27 (44.3)
+30 (49.2)
+25 (43.1)
+25 (41.7)
+Immunosuppressants
+14 (23.0)
+15 (24.6)
+11 (19.0)
+10 (16.7)
+Aminosalicylates
+33 (54.1)
+40 (65.6)
+42 (72.4)
+38 (63.3)
+Prior exposure to advanced
+therapies
+1
+15 (24.6)
+18 (29.5)
+24 (41.4)
+20 (33.3)
+2
+26 (42.6)
+16 (26.2)
+16 (27.6)
+18 (30.0)
+>2
+20 (32.8)
+27 (44.3)
+18 (31.0)
+22 (36.7)
+Prior exposure to Anti-TNF
+58 (95.1)
+58 (95.1)
+56 (96.6)
+55 (91.7)
+Patients who failed to respond to respond to advanced therapies
+Any biologic
+60 (98.4)
+61 (100)
+55 (94.8)
+59 (98.3)
+Anti-integrin inhibitor
+35 (57.4)
+33 (54.1)
+27 (46.6)
+34 (56.7)
+Janus kinase inhibitors
+10 (16.4)
+16 (26.2)
+8 (13.8)
+12 (20.0)
+a For race, the Other category included patients who were Asian or Black/African American. No identified as
+being American Indian/Alaska Native, Native Hawaiian/Other Pacific Islander, or multiple races.
+CRP, C-reactive protein; IV, intravenous; SD, standard deviation; TNF, tumor necrosis factor.
+© 2024 American Medical Association. All rights reserved.
+eTable 2. Treatment-Emergent Adverse Events From the Dose-Ranging Phase 2b Induction Substudy
+Risankizumab
+600 mg IV
+1200 mg IV
+1800 mg IV
+Placebo IV
+AE, n (%)
+n = 64
+n = 61
+n = 56
+n = 59
+Overview of Treatment-Emergent Adverse Events
+Any AE
+37 (57.8)
+27 (44.3)
+27 (48.2)
+37 (62.7)
+AE possibly related to
+study drugᵃ
+10 (15.6)
+9 (14.8)
+10 (17.9)
+13 (22.0)
+Severe AE
+3 (4.7)
+3 (4.9)
+3 (5.4)
+6 (10.2)
+Serious AE
+6 (9.4)
+4 (6.6)
+3 (5.4)
+6 (10.2)
+AE leading to
+discontinuation of study
+drug
+2 (3.1)
+2 (3.3)
+1 (1.8)
+5 (8.5)
+All deaths
+0
+0
+0
+0
+Most Frequently Occurring Adverse Events (≥ 5% in any treatment group)
+Nasopharyngitis
+5 (7.8)
+3 (4.9)
+5 (8.9)
+4 (6.8)
+Headache
+2 (3.1)
+3 (4.9)
+4 (7.1)
+3 (5.1)
+Colitis ulcerative
+2 (3.1)
+3 (4.9)
+1 (1.8)
+7 (11.9)
+Anemia
+0
+4 (6.6)
+1 (1.8)
+2 (3.4)
+Bronchitis
+4 (6.3)
+1 (1.6)
+0
+0
+Treatment-Emergent Adverse of Special Interestᵇ
+Serious infections
+2 (3.1)
+1 (1.6)
+2 (3.6)
+0
+Opportunistic infection
+excluding tuberculosis
+and herpes zoster
+1 (1.6)
+0
+0
+0
+Malignancies
+0
+0
+0
+1 (1.7)
+Malignancies excluding
+nonmelanoma skin
+cancer
+0
+0
+0
+1 (1.7)
+Serious hypersensitivity
+0
+0
+0
+1 (1.7)
+a As assessed by study investigator.
+b No active tuberculosis, serious anaphylactic reactions, adjudicated anaphylactic reactions, or adjudicated MACE
+were reported in any treatment group.
+AE, adverse event; IV, intravenous; MACE, major adverse cardiovascular event; NMSC, nonmelanoma skin
+cancer.
+© 2024 American Medical Association. All rights reserved.
+eTable 3. Additional Baseline Characteristics and Demographics
+Endpoint, n/N (%)
+Induction - 12 weeks
+Maintenance - 52 weeks
+Risankizumab
+Placebo IV
+Risankizumab
+Risankizumab
+Placebo
+1200 mg IV
+180 mg SC
+360 mg SC
+(Withdrawal) SC
+Additional Baseline Characteristics and Demographics for Phase 3 Induction and Maintenance Studies
+Baseline of Induction (Week 0)a
+No bowel urgency
+47/650 (7.3)
+30/325 (9.3)
+97/176 (55.1)
+83/174 (47.7)
+79/173 (45.7)
+No abdominal pain
+47/650 (7.3)
+32/325 (9.9)
+87/174 (50.0)
+77/172 (44.8)
+74/169 (43.8)
+No tenesmus
+84/650 (13.2)
+42/325 (13.2)
+37/64 (57.8)
+40/67 (59.7)
+42/65 (64.6)
+No nocturnal bowel
+191/650 (30.0)
+82/325 (25.8)
+43/55 (78.2)
+36/49 (73.5)
+41/49 (83.7)
+movements
+Baseline of Maintenance (Week 0)
+Endpoint, n (%)
+Induction - 12 weeks
+Maintenance - 52 weeks
+Risankizumab
+Placebo IV
+Risankizumab
+Risankizumab 360
+Placebo
+1200 mg IV
+180 mg SC
+mg SC
+(Withdrawal) SC
+n 179
+n = 186
+n = 183
+Adapted Mayo score, mean
+--
+--
+n 177
+n 185
+n =180
+(SD)
+3.1 (1.6)
+3.1 (1.5)
+3.0 (1.6)
+Endoscopy score, mean
+--
+--
+n =177
+n =185
+n =180
+(SD)
+1.9 (1.0)
+1.9 (1.0)
+1.7 (1.1)
+Clinical remission status,
+--
+--
+44 (24.7)
+40 (21.6)
+53 (29.3)
+yes
+Endoscopic improvement
+--
+--
+61 (34.1)
+68 (36.6)
+78 (42.6)
+status, yes
+C-reactive protein (mg/L),
+--
+--
+2.3 (0.2, 40.4)
+1.2 (0.2, 41.0)
+1.4 (0.2, 66.7)
+median (range)
+Fecal calprotectin (µg/g),
+--
+--
+366 (30, 8466)
+279 (30, 16 182)
+324 (30, 24505)
+median (range)
+Corticosteroid use, yes
+--
+--
+67 (37.4)
+52 (28.0)
+61 (33.3)
+© 2024 American Medical Association. All rights reserved.
+eTable 3. Additional Baseline Characteristics and Demographics (continued)
+Patients Who Received Risankizumab 1200 mg IV During Induction
+Characteristic
+Risankizumab 1200 mg/
+Risankizumab 1200 mg IV/
+Risankizumab 1200 mg/
+Placebo IV/
+Placebo M
+Risankizumab 180 mg SC
+Risankizumab 360 mg
+Placebo SC
+n=90
+И 90
+M 92
+n 70
+Sex
+Females
+36(40.0)
+37 (41.1)
+39 (42.4)
+24 (34.3)
+Males
+54(60.0)
+53 (58.9)
+53 (57.6)
+46 (65.7)
+Age, years, mean (SD)
+40.7 (14.7)
+42.9 (14.3)
+42.3 (13.4)
+45.4 (14.4)
+Body mass index,ᵇ kg/m², mean
+n. 90
+n 89
+M 92
+n 70
+(SD)
+24.9 (5.9)
+25.2 (5.1)
+23.8 (5.2)
+24.9 (4.6)
+Race°
+American Indian or Alaska
+Native
+0
+0
+0
+0
+Asian
+31 (34.4)
+24 (26.7)
+33 (35.9)
+27 (38.6)
+Black or African American
+0
+2 (2.2)
+0
+3 (4.3)
+Native Hawaiian or Other Pacific
+Islander
+0
+0
+0
+0
+Multiple
+0
+0
+1 (1.1)
+2(2.9)
+White
+59 (65.6)
+64 (71.1)
+58 (63.0)
+38 (54.3)
+Ethnicity
+Hispanic/Latino
+2(2.2)
+11 (12.2)
+6 (6.5)
+3(4.3)
+Not Hispanic/Latino
+88 (97.8)
+79 (87.8)
+86 (93.5)
+67 (95.7)
+Disease duration, years,
+mean (SD)
+8.3 (7.9)
+7.8 (6.7)
+8.4 (7.3)
+8.0 (6.5)
+Disease extent
+Left-sided
+48 (53.3)
+49 (54.4)
+45 (48.9)
+37 (52.9)
+Extensive or pancolitis
+42 (46.7)
+41 1 (45.6)
+47 (51.1)
+33 (47.1)
+Limited to rectum
+0
+0
+0
+0
+Adapted Mayo score⁴
+≤7
+50 (55.6)
+58 (64.4)
+52 (56.5)
+34 (48.6)
+>7
+40 (44.4)
+32 (35.6)
+40 (43.5)
+36 (51.4)
+Mean (SD)
+7.1 (1.2)
+7.1 (1.2)
+7.0 (1.3)
+7.2 (1.3)
+Endoscopic subscore*
+2
+28(31.1)
+28 (31.1)
+35 (38.0)
+18 (25.7)
+3
+62 (68.9)
+62 (68.9)
+57 (62.0)
+52 (74.3)
+Mean (SD)
+2.7 (0.5)
+2.7 (0.5)
+2.6 (0.5)
+2.7 (0.4)
+C-reactive protein (mg/L),"
+n 86
+n 90
+M 92
+in 68
+median (range)
+3.5 (0.2, 40.8)
+4.5 (0.2, 82.2)
+2.0 (0.2, 113.0)
+2.9 (0.2, 59.3)
+Fecal calprotectin (Mg/g),º
+n. = 83
+И 82
+M 84
+n 67
+median (range)
+1508 (30, 20,202)
+1533 (30, 28,800)
+1381 (30, 28,800)
+1495 (30, 28,800)
+Immunosuppressants
+16 (17.8)
+14 (15.6)
+13 (14.1)
+15 (21.4)
+Aminosalicylates
+65 (72.2)
+65 (72.2)
+75 (81.5)
+48 (68.6)
+Corticosteroids
+29 (32.2)
+38 (42.2)
+26 (28.3)
+20 (28.6)
+Advanced therapy
+Inadequate response"
+Advanced therapy inadequate
+response
+48(53.3)
+48 (53.3)
+48 (52.2)
+36(51.4)
+Non-advanced therapy
+inadequate response
+42(46.7)
+42 (46.7)
+44 (47.8)
+34 (48.6)
+Nonresponse to advanced
+therapies
+0
+42(46.7)
+42 (46.7)
+44 (47.8)
+34 (48.6)
+1
+26(28.9)
+20 (22.2)
+20 (21.7)
+21 (30.0)
+2
+11 (12.2)
+18 (20.0)
+11 (12.0)
+8(11.4)
+>2
+11(12.2)
+10 (11.1)
+17 (18.5)
+7(10.0)
+Nonresponse to anti-TNF therapy
+for advanced therapy inadequate
+response patients
+0
+4(8.3)
+7(14.6)
+5(10.4)
+7(19.4)
+1
+34 (70.8)
+26 (54.2)
+29 (60.4)
+18(50.0)
+2
+8 (16.7)
+15 (31.3)
+13 (27.1)
+9 (25.0)
+>2
+2(4.2)
+0
+1(2.1)
+2(5.6)
+© 2024 American Medical Association. All rights reserved.
+Data are presented are reported on nonmissing data and reported as n (%) unless stated otherwise. Reported here
+are baseline demographics and disease characteristics at week 0 of induction and maintenance for the primary
+efficacy populations of each study, which included all randomized patients who received at least one dose of study
+drug during the 12-week induction or 52-week maintenance studies after receiving risankizumab IV for one period
+of 12 weeks in the induction study. Additional baseline demographics and disease characteristics are presented in
+Table 1.
+Also included are baseline characteristics and disease demographics for all patients who received risankizumab
+1200 mg or placebo IV during induction and were randomized to maintenance. Treatment groups were named
+according to treatments received during induction/maintenance.
+For the patient-reported outcomes, the baseline disease characteristics were assessed in patients with disease
+symptoms at baseline of induction.
+ᵇThe body mass index is the weight in kilograms divided by the square of the height in meters.
+°The multiple race category includes participants who responded to 2 or more categories. For reporting race,
+patients were asked to respond to closed category questions, with the option of multiple selection.
+ᵈAdapted Mayo score (score range 0-9): RBS, 0-3; SFS, 0-3; endoscopy score (0-3).
+Endoscopy score was evaluated for each observed segment of the colon (rectum, sigmoid, descending colon,
+transverse colon, ascending colon/cecum) using a 4-point scale, with a higher score indicating more severe
+disease.
+The reference range for C-reactive protein is 0 to 10 mg per liter.
+⁹The reference value for fecal calprotectin is less than 50 µg per gram.
+hAdvanced therapies included infliximab, adalimumab, golimumab, vedolizumab, tofacitinib, filgotinib, upadacitinib,
+and/or ozanimod. Inadequate response was defined as an inability to respond or unacceptable side effects to
+therapy.
+IV, intravenous; SC, subcutaneous; SD, standard deviation; TNF, tumor necrosis factor.
+© 2024 American Medical Association. All rights reserved.
+eTable 4. Primary and Secondary Endpoints at Week 52 of Maintenance for All Patients Who Responded to 12-Week Risankizumab 1200 mg
+Induction Therapy and Were Randomized to Maintenance
+Endpoint,
+Risankizumab 1200 mg IV/
+Risankizumab 1200 mg IV/
+Risankizumab 1200 mg IV/
+% (95% CI)ᵃ
+Placebo SC
+Risankizumab 180 mg SC
+Adjusted Treatment
+Risankizumab 360 mg SC
+Adjusted Treatment
+Placebo IV/Placebo SC
+unless otherwise specified
+n 90
+n 90
+Difference
+n 92
+Difference
+n 70
+Clinical remission per
+Adapted Mayo score
+27.8 (18.5, 37.0)
+38.8 (28.7, 48.9)
+12.3 (-0.4, 25.0)
+44.6 (34.4, 54.7)
+18.3 (5.3, 31.3)**
+17.1 (8.3, 26.0)
+Clinical response per
+Adapted Mayo score
+58.9 (48.7, 69.1)
+72.2 (63.0, 81.5)
+13.3 (0.0, 26.7)*
+68.5 (59.0, 78.0)
+9.2 (-4.4,22.8)
+38.6 (27.2, 50.0)
+Endoscopic improvement
+36.7 (26.7, 46.6)
+52.1 (41.8, 62.5)
+16.6 (2.9, 30.2)*
+57.5 (47.4, 67.7)
+21.8 (8.2, 35.3)**
+18.6 (9.5, 27.7)
+Histologic-endoscopic
+mucosal improvement
+27.8 (18.5, 37.0)
+47.6 (37.2, 57.9)
+20.9 (7.7, 34.1)**
+53.0 (42.8, 63.3)
+26.7 (13.6, 39.8)***
+12.9 (5.0, 20.7)
+Endoscopic remission
+15.6 (8.1, 23.0)
+25.9 (16.8, 35.0)
+11.5 (0.5, 22.5)*
+35.3 (25.5, 45.1)
+19.6 (8.0, 31.2)***
+5.7 (0.3, 11.2)
+No bowel urgency
+38.9 (28.8, 49.0)
+55.6 (45.3, 65.8)
+17.0 (3.0, 30.9)*
+52.0 (41.7, 62.2)
+13.0 (-1.0, 27.1)
+37.1 (25.8, 48.5)
+No abdominal pain
+35.6 (25.7, 45.4)
+51.1 (40.8, 61.4)
+15.6 (1.5, 29.7)*
+43.6 (33.5, 53.8)
+7.9 (-6.3, 22.1)
+31.4 (20.6, 42.3)
+Histologic endoscopic
+mucosal remission
+11.1 (4.6, 17.6)
+18.0 (10.0, 25.9)
+7.6 (-2.3, 17.4)
+20.9 (12.5, 29.2)
+10.2 (0.2, 20.2)*
+2.9 (0.0,6.8)
+Change from induction
+baseline in FACIT-F total
+n 84
+n 82
+n 86
+n 62
+score
+(6.0) (3.3, 8.6)
+(9.4) (7.1, 11.6)
+3.4 (-0.03, 6.9)
+(8.4) (5.9, 10.8)
+2.4 (-1.1, 5.8)
+(8.5) (4.8, 12.3)
+Change from induction
+n 84
+n 82
+n 88
+n 62
+baseline in IBDQ total score
+37.2 (28.4, 46.0)
+52.5 (44.0, 61.0)
+15.3 (3.2, 27.4)*
+46.8 (38.1, 55.5)
+9.6 (-2.8, 22.0)
+36.9 (23.6, 50.2)
+Occurrence of UC-related
+hospitalizations, n/100 PYs
+3.6
+0
+-3.6 (-7.6, 0.5)
+0
+-3.6 (-7.6, 0.5)
+3.7
+No nocturnal bowel
+movements
+46.7 (36.4, 57.0)
+54.4 (44.2, 64.7)
+8.1 (-5.2,21.4)
+57.4 (47.3, 67.6)
+10.8 (-2.8, 24.5)
+35.7 (24.5, 46.9)
+No tenesmus
+37.8 (27.8, 47.8)
+48.9 (38.6, 59.2)
+11.2 (-2.4, 24.8)
+49.7 (39.4, 59.9)
+12.0 (-2.2, 26.1)
+27.1 (16.7, 37.6)
+Change from baseline in
+number of fecal incontinence
+n = 69
+n = 66
+n = 70
+n = 48
+episodes per week
+-2.8 (-4.3, -1.4)
+-3.4 (-4.7, -2.2)
+-0.6 (-2.4, 1.3)
+-2.9 (-4.2, -1.5)
+-0.02 (-2.0, 1.9)
+-1.8 (-3.6,0.0)
+Change from baseline in
+number of days per week
+with sleep interrupted due to
+n 69
+n 66
+n = 70
+UC symptoms
+-1.8 (-2.3, -1.2)
+-2.6 (-3.1, -2.0)
+-0.8 (-1.6, -0.01)*
+-2.5 (-3.0, -1.9)
+-0.7 (-1.5,0.1)
+-2.0 (-2.9, -1.0)
+Maintenance of clinical
+n 30
+n 26
+n = 21
+n 13
+remission
+40.0 (22.5, 57.5)
+72.8 (55.6, 90.0)
+32.3 (7.7, 56.8)**
+61.9 (41.1, 82.7)
+21.6 (-5.2, 48.5)
+38.5 (12.0, 64.9)
+Corticosteroid-free clinical
+remission
+27.8 (18.5, 37.0)
+37.7 (27.7, 47.7)
+11.3 (-1.3, 23.9)
+43.5 (33.3, 53.6)
+17.3 (4.3, 30.3)**
+17.1 (8.3, 26.0)
+Maintenance of endoscopic
+n = 43
+n 36
+n = 42
+n 19
+improvement
+51.2 (36.2, 66.1)
+74.8 (60.6, 89.1)
+21.4 (1.6, 41.3)*
+59.4 (44.5, 74.3)
+6.4 (-14.4, 27.2)
+26.3 (6.5, 46.1)
+© 2024 American Medical Association. All rights reserved.
+Reported here are maintenance efficacy outcomes at week 52 for all patients who received risankizumab 1200 mg or placebo during induction and
+were randomized to maintenance. Treatment groups were named according to treatments received during induction/maintenance. Analyses for
+placebo IV/placebo SC were not adjusted for multiplicity. Results for categorical endpoints (except occurrence of ulcerative colitis-related
+hospitalization) were based on nonresponder imputation incorporating multiple imputation to handle missing data due to logistic restrictions (COVID-
+19 or the geopolitical conflict in Ukraine and surrounding impacted regions) (NRI-MI). Results for continuous endpoints were based on RTB-MI.
+Between-group difference and 95% Cls were calculated using Mantel-Haenszel common rate difference with NRI-MI for categorical endpoints
+(Normal approximation to binomial distribution for occurrence of hospitalization) and ANCOVA/MMRM with RTB-MI for continuous endpoints.* P≤
+.05; ** P ≤ .01; *** P ≤ .001 versus risankizumab 1200 mg IV/placebo SC.
+ᵃAdjusted treatment differences refer to the difference between risankizumab 1200 mg IV/risankizumab 180 mg or risankizumab 360 mg VS.
+risankizumab 1200 mg IV/placebo SC.
+ANCOVA, analysis of covariance; CI, confidence interval; COVID-19, coronavirus disease 2019; FACIT-F, Functional Assessment of Chronic Illness
+Therapy-Fatigue; LS, least-square; IBDQ, Inflammatory Bowel Disease Questionnaire; IV, intravenous; MMRM, mixed-effect model repeated
+measures; NRI-MI, nonresponder multiple imputation; PY, patient-years; RTB-MI, return-to-baseline multiple imputation; SC, subcutaneous; UC,
+ulcerative colitis.
+© 2024 American Medical Association. All rights reserved.
+eTable 5. Prespecified Primary and Secondary Endpoints in Non-Advanced and Advanced Therapy-Inadequate Response Patients in the Phase 3
+Induction and Maintenance Studies
+Induction, Week 12
+Non-Advanced Therapy Inadequate Response Patients
+Advanced Therapy-Inadequate Response Patients
+Risankizumab
+Adjusted treatment
+Risankizumab
+Adjusted treatment
+1200 mg IV
+Placebo IV
+difference versus
+1200 mg IV
+Placebo IV
+difference versus
+Endpoint, % (95% CI)
+n = 317
+n = 155
+placebo
+n = 333
+n = 170
+placebo
+Primary Outcome
+Clinical remission per Adapted
+Mayo Score
+29.7 (24.6, 34.7)
+8.4 (4.0, 12.8)
+21.3 (14.6, 27.9)
+11.4 (8.0, 14.8)
+4.3 (1.2, 7.3)
+7.2 (2.6, 11.8)
+Secondary Outcomes
+Clinical response per Adapted
+Mayo score
+73.8 (69.0, 78.7)
+40.6 (32.9, 48.4)
+33.2 (24.0, 42.3)
+55.2 (49.8, 60.5)
+31.2 (24.2, 38.1)
+24.0 (15.2, 32.8)
+Endoscopic improvement
+47.6 (42.1, 53.1)
+14.2 (8.7, 19.7)
+33.4 (25.7, 41.2)
+25.9 (21.2, 30.6)
+10.1 (5.6, 14.7)
+15.8 (9.2, 22.3)
+Histologic-endoscopic mucosal
+improvement
+33.4 (28.2, 38.6)
+8.4 (4.0, 12.8)
+25.1 (18.3, 31.8)
+16.0 (12.0, 19.9)
+7.1 (3.2, 11.0)
+8.9 (3.3, 14.4)
+Endoscopic remission
+16.7 (12.6, 20.8)
+3.9 (0.8, 6.9)
+12.8 (7.7, 18.0)
+4.8 (2.5, 7.1)
+3.0 (0.4, 5.5)
+1.8 (-1.6, 5.3)
+Clinical response per Partial
+Adapted Mayo score at week 4
+57.7 (52.3, 63.2)
+32.3 (24.9, 39.6)
+25.5 (16.3, 34.6)
+46.9 (41.5, 52.3)
+28.9 (22.1, 35.8)
+18.0 (9.3, 26.7)
+No bowel urgency
+53.0 (47.5, 58.5)
+29.7 (22.5, 36.9)
+23.3 (14.3, 32.4)
+35.6 (30.4, 40.8)
+25.9 (19.3, 32.5)
+9.7 (1.4, 18.1)
+No abdominal pain
+39.4 (34.1, 44.8)
+25.2 (18.3, 32.0)
+14.3 (5.6, 23.0)
+32.3 (27.2, 37.3)
+27.6 (20.9, 34.4)
+4.6 (-3.8, 13.0)
+Histologic-endoscopic mucosal
+remission
+10.7 (7.3, 14.1)
+0
+10.7 (7.3, 14.1)
+2.1 (0.6, 3.6)
+1.2 (0.0, 2.8)
+0.9 (-1.3, 3.2)
+Change from baseline in mean
+n. = 302
+n = 147
+n = 312
+n = 161
+FACIT-F
+8.7 (7.5, 9.9)
+4.1 (2.4, 5.8)
+4.6 (2.6, 6.5)
+6.9 (5.8, 8.1)
+2.4 (0.7, 4.1)
+4.6 (2.5, 6.6)
+Change from baseline in mean
+n = 305
+n = 148
+n 314
+n 162
+IBDQ total score
+48.5 (44.3, 52.6)
+28.3 (22.5, 34.2)
+20.1 (13.3, 27.0)
+36.8 (32.6, 41.0)
+19.9 (14.0, 25.8)
+16.9 (9.7, 24.1)
+UC-related hospitalizations
+through week 12
+0.9 (0.0, 2.0)
+3.2 (0.4, 6.0)
+-2.3 (-5.3, 0.7)
+0.6 (0.0, 1.4)
+7.6 (3.7, 11.6)
+-7.0 (-11.1, -3.0)
+No nocturnal bowel movements
+73.5 (68.6, 78.4)
+49.0 (41.2, 56.9)
+24.5 (15.2, 33.7)
+61.4 (56.1, 66.6)
+37.6 (30.4, 44.9)
+23.7 (14.7, 32.7)
+No tenesmus
+55.8 (50.4, 61.3)
+27.1 (20.1, 34.1)
+28.7 (19.9, 37.6)
+42.0 (36.6, 47.3)
+32.9 (25.9, 40.0)
+9.0 (0.2, 17.9)
+Change from baseline in number
+of fecal incontinence episodes per
+n = 303
+n = 136
+n 299
+n 152
+week
+-3.9 (-4.5, -3.4)
+-2.2 (-3.1, -1.3)
+-1.7 (-2.8, -0.7)
+-3.7 (-4.3, -3.1)
+-2.1 (-3.1, -1.2)
+-1.5 (-2.7, -0.4)
+Change from baseline to induction
+week 12 number of days per week
+with sleep interrupted due to UC
+n = 303
+n = 136
+n = 299
+n = 152
+symptoms
+-2.5 (-2.8, -2.2)
+-1.6 (-2.0, -1.2)
+-0.9 (-1.4, -0.4)
+-2.4 (-2.7, -2.1)
+-1.4 (-1.8, -0.9)
+-1.1 (-1.6, -0.6)
+© 2024 American Medical Association. All rights reserved.
+eTable 5. Prespecified Primary and Secondary Endpoints in Non-Advanced and Advanced Therapy-Inadequate Response Patents in the Phase 3
+Induction and Maintenance Studies (continued)
+Nonadvanced Therapy-Inadequate Response Patients, Week 52 of Maintenance
+Endpoint, % (95% CI) unless
+Risankizumab 180 mg SC
+Adjusted treatment difference
+Risankizumab 360 mg SC
+Adjusted treatment difference
+Placebo (Withdrawal) SC
+otherwise specified
+n = 45
+versus placebo (withdrawal)
+n 47
+versus placebo (withdrawal)
+n = 45
+Primary Outcome
+Clinical remission per Adapted Mayo
+50.9 (36.2, 65.6)
+19.8 (-0.2, 39.7)
+61.7 (47.8, 75.6)
+30.6 (11.2, 50.0)
+31.1 (17.6, 44.6)
+Score
+Secondary Outcomes
+Clinical response per Adapted Mayo
+82.2 (71.1, 93.4)
+11.1 (-6.2, 28.4)
+78.7 (66.9, 90.4)
+7.5 (-10.2, 25.2)
+71.1 (57.9, 84.4)
+score
+Endoscopic improvement
+59.8 (45.4, 74.2)
+24.2 (4.2, 44.3)
+76.2 (63.9, 88.5)
+40.6 (22.0, 59.2)
+35.6 (21.6, 49.5)
+Histologic-endoscopic mucosal
+54.8 (40.1, 69.5)
+25.9 (6.1, 45.7)
+69.3 (55.9, 82.6)
+40.4 (21.6, 59.2)
+28.9 (15.6, 42.1)
+improvement
+Endoscopic remission
+36.6 (22.3, 50.8)
+16.6 (-1.8, 35.0)
+51.6 (37.2, 66.0)
+31.6 (13.1, 50.2)
+20.0 (8.3, 31.7)
+No bowel urgency
+66.7 (52.9, 80.4)
+24.4 (4.5, 44.4)
+67.8 (54.4, 81.2)
+25.6 (5.9, 45.3)
+42.2 (27.8, 56.7)
+No abdominal pain
+55.6 (41.0, 70.1)
+22.2 (2.2, 42.2)
+49.5 (35.1, 63.9)
+16.2 (-3.8, 36.1)
+33.3 (19.6, 47.1)
+Histologic-endoscopic mucosal
+27.0 (14.0, 40.1)
+9.3 (-7.9, 26.5)
+32.1 (18.7, 45.5)
+14.3 (-3.1, 31.8)
+17.8 (6.6, 28.9)
+remission
+Change from baseline of induction in
+n =43
+3.4 (-1.0, 7.7)
+n =44
+2.6 (-1.8, 6.9)
+n =44
+FACIT-F
+8.7 (4.0, 13.4)
+7.9 (2.9, 12.9)
+5.3 (0.2, 10.5)
+Change from baseline of induction in
+n =43
+18.0 (2.7, 33.3)
+n =45
+11.0 (-3.8, 25.7)
+n =44
+IBDQ total score
+54.9 (37.8, 72.1)
+47.9 (29.4, 66.5)
+37.0 (17.9, 56.0)
+Exposure-adjusted occurrence of UC-
+0
+0
+0
+0
+0
+related hospitalizations from week 0
+through week 52 of maintenance
+(n/100 PYs)
+No nocturnal bowel movements
+77.8 (65.6, 89.9)
+15.6 (-3.1, 34.2)
+74.4 (61.9, 86.9)
+12.2 (-6.7, 31.1)
+62.2 (48.1, 76.4)
+No tenesmus
+68.9 (55.4, 82.4)
+24.4 (4.6, 44.3)
+59.0 (44.8, 73.2)
+14.6 (-5.7, 34.9)
+44.4 (29.9, 59.0)
+Change from baseline of the induction
+n 37
+-1.4 (-3.2, 0.4)
+n 41
+-0.8 (-2.8, 1.2)
+n 38
+in the number of fecal incontinence
+-3.9 (-5.0, -2.9)
+-3.3 (-4.6, -2.1)
+-2.6 (-4.1, -1.0)
+episodes per week
+Change from baseline of the induction
+n 37
+-1.0 (-1.7, -0.2)
+n = 41
+-0.8 (-1.5, 0.0)
+n. = 38
+number of days per week with sleep
+-2.9 (-3.4, -2.4)
+-2.7 (-3.3, -2.2)
+-2.0 (-2.5, -1.4)
+interrupted due to UC symptoms
+Maintenance of clinical remission
+n = 18
+32.8 (2.6, 63.0)
+n 15
+15.6 (-18.2, 49.3)
+n = 18
+77.2 (57.6, 96.9)
+60.0 (35.2, 84.8)
+44.4 (21.5, 67.4)
+Corticosteroid-free clinical remission
+50.9 (36.2, 65.6)
+19.8 (-0.2, 39.7)
+59.6 (45.5, 73.6)
+28.5 (9.0, 48.0)
+31.1 (17.6, 44.6)
+Maintenance of endoscopic
+n 21
+30.7 (4.8, 56.6)
+n 27
+11.4 (-16.2, 39.0)
+n = 22
+improvement
+85.2 (69.8, 100.0)
+65.9 (47.8, 84.0)
+54.5 (33.7, 75.4)
+© 2024 American Medical Association. All rights reserved.
+eTable 5. Prespecified Primary and Secondary Endpoints in Non-Advanced and Advanced Therapy-Inadequate Response Patients in the Phase 3
+Induction and Maintenance Studies (continued)
+Advanced Therapy-Inadequate Response Patients, Week 52 of Maintenance
+Risankizumab
+Adjusted treatment
+Risankizumab
+Adjusted treatment
+Endpoint, % (95% CI) unless
+180 mg SC
+difference versus placebo
+360 mg SC
+difference versus placebo
+Placebo (Withdrawal) SC
+otherwise specified
+n = 134
+(withdrawal)
+n = 139
+(withdrawal)
+n = 138
+Primary Outcome
+Clinical remission per Adapted Mayo
+Score
+36.6 (28.4, 44.7)
+13.4 (2.6, 24.2)
+29.5 (21.9, 37.1)
+6.3 (-4.0, 16.7)
+23.2 (16.1, 30.2)
+Secondary Outcomes
+Clinical response per Adapted Mayo
+score
+63.4 (55.3, 71.6)
+17.8 (6.1, 29.4)
+56.8 (48.6,65.1)
+11.2 (-0.5, 22.9)
+45.7 (37.3, 54.0)
+Endoscopic improvement
+47.8 (39.3, 56.2)
+17.3 (5.9, 28.7)
+38.8 (30.7, 47.0)
+8.4 (-2.7, 19.6)
+30.4 (22.8, 38.1)
+Histologic-endoscopic mucosal
+improvement
+38.8 (30.6, 47.1)
+17.1 (6.3, 27.8)
+33.1 (25.3, 40.9)
+11.4 (0.9, 21.8)
+21.7 (14.9, 28.6)
+Endoscopic remission
+18.7 (12.1, 25.3)
+5.6 (-3.1, 14.3)
+15.1 (9.2, 21.1)
+2.1 (-6.1, 10.3)
+13.0 (7.4, 18.7)
+No bowel urgency
+49.3 (40.8, 57.7)
+21.7 (10.4, 33.0)
+43.2 (34.9, 51.4)
+15.6 (4.5, 26.7)
+27.5 (20.1, 35.0)
+No abdominal pain
+44.0 (35.6, 52.4)
+15.8 (4.5, 27.0)
+33.8 (25.9, 41.7)
+5.6 (-5.3, 16.4)
+28.3 (20.7, 35.8)
+Histologic-endoscopic mucosal
+remission
+8.2 (3.6, 12.9)
+1.0 (-5.4,7.3)
+10.1 (5.1,15.1)
+2.8 (-3.8,9.4)
+7.2 (2.9, 11.6)
+Change from baseline of induction in
+n 123
+n 119
+n 127
+FACIT-F
+10.4 (7.8, 13.0)
+4.1 (0.8, 7.4)
+9.8 (7.3, 12.4)
+3.5 (0.3, 6.8)
+6.3 (3.8, 8.8)
+Change from baseline of induction in
+n 125
+n 123
+n 128
+IBDQ total score
+47.9 (38.8, 57.0)
+17.5 (6.0, 29.1)
+47.3 (37.8, 56.8)
+16.9 29.7)
+30.4 (21.2, 39.6)
+Exposure-adjusted occurrence of UC-
+related hospitalizations from week 0
+through week 52 of maintenance (n/100
+PYs)
+0.8
+-3.4 (-7.4, 0.6)
+1.7
+-2.5 (-6.9, 1.8)
+4.2
+No nocturnal bowel movements
+29.9 (22.1, 37.6)
+10.3 (0.1, 20.5)
+33.0 (25.2, 40.9)
+13.5 (3.2, 23.7)
+19.6 (12.9, 26.2)
+No tenesmus
+26.1 (18.7,33.6)
+9.5 (-0.2, 19.1)
+29.3 (21.7, 36.9)
+12.6 (2.8, 22.4)
+16.7 (10.4, 22.9)
+Change from baseline of the induction in
+the number of fecal incontinence
+n = 29
+n 29
+n = 31
+episodes per week
+-2.9 (-5.5, -0.4)
+0.1 (-3.4, 3.6)
+-2.3 (-5.1, 0.6)
+0.8 (-3.0, 4.6)
+-3.0 (-5.4, -0.6)
+Change from baseline of the induction
+number of days per week with sleep
+n 29
+n 29
+n 31
+interrupted due to UC symptoms
+-2.3 (-3.4, -1.2)
+-0.7 (-2.1, 0.8)
+-2.2 (-3.3, -1.1)
+-0.6 (-2.0, 0.9)
+-1.7 (-2.7, -0.7)
+n =26
+n =25
+n =35
+Maintenance of clinical remission
+65.4 (47.1, 83.7)
+28.2 (3.9, 52.5)
+44.0 (24.5, 63.5)
+6.9 (-18.3, 32.1)
+37.1 (21.1, 53.2)
+Corticosteroid-free clinical remission
+35.8 (27.7, 43.9)
+12.6 (1.9, 23.4)
+29.5 (21.9, 37.1)
+6.3 (-4.0, 16.7)
+23.2 (16.1, 30.2)
+Maintenance of endoscopic
+n 40
+n 41
+n = 56
+improvement
+67.5 (53.0, 82.0)
+22.9 (3.4, 42.4)
+46.3 (31.1, 61.6)
+1.7(-18.4,21.8)
+44.6 (31.6, 57.7)
+© 2024 American Medical Association. All rights reserved.
+For induction, the patient population included all randomized patients who received at least one dose of study drug during the first 12-week study
+period. For maintenance, the patient population included all randomized patients who received at least one dose of study drug after receiving IV
+risankizumab (either 600 mg, 1200 mg, or 1800 mg) for 12 weeks in the phase 2b/3 induction studies, including those that went through the extended
+treatment period. Results for categorical endpoints were based on NRI-MI to handle missing data due to logistic restrictions (COVID-19 or the
+geopolitical conflict in Ukraine and surrounding impacted regions), apart from UC-related hospitalizations. Results for continuous endpoints were
+based on RTB-MI. Point estimate and 95% CI for treatment differences were based on normal approximation to binomial distribution with NRI-MI for
+categorical endpoints (normal approximation to Poisson distribution for UC-related hospitalization) and ANCOVA/MMRM with RTB-MI for continuous
+endpoints. Type I error was not controlled for in this analysis.
+ANCOVA, analysis of covariance; CI, confidence interval; COVID-19, coronavirus 2019; MMRM, mixed-effect model repeated measures; NRI-MI,
+nonresponder multiple imputation; RTB-MI, return-to-baseline-multiple imputation; UC, ulcerative colitis.
+© 2024 American Medical Association. All rights reserved.
+eTable 6. Sensitivity Analysis for the Primary Endpoint Clinical Remission per Adapted Mayo Score for the
+Phase 3 Induction and Maintenance Studies
+Week 12 of Induction
+Clinical remission per
+Risankizumab 1200 mg IV
+Placebo IV
+Adjusted Treatment
+Adapted Mayo score,
+Difference
+NRI-MI analysis,
+% (n/N) (95% CI)
+17.4 (113/650) (14.5, 20.3)
+5.0 (16/325) (2.6, 7.4)
+12.3 (8.6, 16.0)***
+Clinical remission per
+Adapted Mayo score, as
+observed analysis,
+% (n/N) (95% CI)
+20.8 (132/635) (17.6, 23.9)
+6.5 (20/307) (3.8, 9.3)
+14.4 (10.3, 18.6)***
+Week 52 of Maintenance
+Clinical remission
+Adjusted
+Adjusted
+per Adapted Mayo
+Risankizumab
+Treatment
+Risankizumab
+Treatment
+Placebo
+score, NRI-MI
+180 mg SC
+Difference
+360 mg SC
+Difference
+(Withdrawal) SC
+analysis,
+34.1 (61/179)
+34.4 (64/186)
+21.3 (39/183)
+% (n/N) (95% CI)
+(27.1, 41.0)
+13.5 (4.7, 22.2)**
+(27.6, 41.2)
+14.5 (6.0, 23.0)***
+(15.4, 27.2)
+Clinical remission
+per Adapted Mayo
+score, as observed
+analysis,
+48.4 (78/161)
+51.6 (83/161)
+36.9 (59/160)
+% (n/N) (95% CI)
+(40.7, 56.2)
+14.3 (4.5, 24.1)**
+(43.8, 59.3)
+16.6 (6.5, 26.8)**
+(29.4, 44.4)
+Clinical remission per Adapted Mayo score was defined as SFS ≤ 1, and not greater than baseline, RBS = 0,
+and endoscopic subscore ≤ 1 without the evidence of friability.
+95% Cls for response rates were the synthetic result based on Student's t-distribution from PROC
+MIANALYZE procedure if there was missing data due to logistic restrictions (COVID-19 or the geopolitical
+conflict in Ukraine and surrounding impacted regions) or is based on the normal approximation to the
+binomial distribution if there was no missing data due to logistic restrictions. Across the strata, P values were
+calculated according to the Cochran-Mantel-Haenszel test adjusted for strata. 95% Cls for response rates
+were on the normal approximation to the binomial distribution. ** .01; *** ≤ .001 versus placebo IV or
+placebo (withdrawal) SC.
+CI, confidence interval; COVID-19, coronavirus disease 2019; IV, intravenous; NRI-MI, nonresponder
+multiple imputation; RBS, rectal bleeding score; SC, subcutaneous.
+© 2024 American Medical Association. All rights reserved.
+eTable 7. Exposure-Adjusted Event Rates for Treatment-Emergent Adverse Events Through Week 12 of
+Induction and Week 52 of Maintenance
+Induction E (E/100 PY) at 12 Weeks
+Maintenance E (E/100) PY at 52 Weeks
+Adverse Event
+Risankizumab 1200 mg IV
+Placebo IV
+Risankizumab 180 mg SC
+Risankizumab 360 mg SC
+Placebo
+n = 651; PY=157.8ᵃ
+n = 324; PY = 82.7ª
+n = 193; PY = 185.4
+n = 195; PY = 173.5
+(Withdrawal) SC
+n = 196; PY = 174.9
+Treatment-Emergent Adverse Events
+Any AE
+523 (331.4)
+351 (424.2)
+399 (215.2)
+406 (234.0)
+399 (228.1)
+AE possibly related to
+98 (62.1)
+32 (38.7)
+85 (45.9)
+61 (35.2)
+75 (42.9)
+study drug
+AE leading to
+4(2.5)
+14 (16.9)
+5(2.7)
+5(2.9)
+4(2.3)
+discontinuation of
+study drug
+AE related to COVID-
+36 (22.8)
+20 (24.2)
+21 (11.3)
+29 (16.7)
+28 (16.0)
+19
+Severe AEc
+22 (13.9)
+40 (48.3)
+3(1.6)
+7 (4.0)
+14 (8.0)
+Serious AEc
+18(11.4)
+39 (47.1)
+11 (5.9)
+11 (6.3)
+20 (11.4)
+All deaths
+1(0.6)
+0
+0
+1(0.6)
+0
+Most Frequent Adverse Events (2 10 E/100 PY in any risankizumab group)
+Colitis ulcerative
+11 (7.0)
+36 (43.5)
+27 (14.6)
+30 (17.3)
+32 (18.3)
+COVID-19
+32 (20.3)
+19 (23.0)
+18 (9.7)
+28 (16.1)
+23 (13.2)
+Headache
+25 (15.8)
+8 (9.7)
+9(4.9)
+15 (8.6)
+18 (10.3)
+Anemia
+23 (14.6)
+24 (29.0)
+1 (0.5)
+1(0.6)
+2(1.1)
+Arthralgia
+20 (12.7)
+5 (6.0)
+12 (6.5)
+20 (11.5)
+10 (5.7)
+Nasopharyngitis
+18 (11.4)
+9 (10.9)
+25 (13.5)
+12 (6.9)
+24 (13.7)
+Treatment-Emergent Adverse Events of Special Interest
+Hypersensitivity
+27 (17.1)
+6 (7.3)
+23 (12.4)
+15 (8.6)
+10 (5.7)
+Hepatic events'
+14 (8.9)
+16 (19.3)
+3 (1.6)
+19 (10.9)
+3(1.7)
+Serious infection
+4(2.5)
+5 (6.0)
+2(1.1)
+1(0.6)
+4(2.3)
+Injection site reactions
+4(2.5)
+5 (6.0)
+14 (7.6)
+10 (5.8)
+3(1.7)
+Herpes zoster
+2(1.3)
+0
+2(1.1)
+1(0.6)
+3(1.7)
+Opportunistic infection
+0
+0
+0
+1(0.6)
+0
+(excluding tuberculosis
+and herpes zoster)
+Active tuberculosis
+0
+0
+0
+0
+0
+Serious
+0
+0
+0
+0
+0
+hypersensitivity
+Adjudicated
+0
+0
+0
+0
+0
+anaphylactic reactions
+Adjudicated major
+0
+0
+0
+0
+0
+cardiovascular events
+Malignancies (all
+0
+2(2.4)
+0
+2(1.2)
+1(0.6)
+types)
+Nonmelanoma skin
+0
+0
+0
+0
+1 (0.6)
+cancer
+ᵃOne patient was randomized to risankizumab 1200 mg and treated with placebo. Patients are reported here
+according to the treatment they received.
+ᵇAs assessed by study investigator.
+ᶜSerious AEs were defined as an AE that met any of the following criteria: death of patient, life-threatening,
+hospitalization or prolongation of hospitalization, congenital anomaly, persistent or significant
+disability/incapacity, important medical event requiring medical or surgical intervention to prevent serious
+outcome. Severe AEs were classified as an AE of Grade 3 or above based on CTCAE V 4.03 guidelines.
+© 2024 American Medical Association. All rights reserved.
+ᵈThe most frequent adverse events were ordered by decreasing frequency in the risankizumab 1200 mg
+group.
+events identified with Hypersensitivity SMQ, a broader medical concept than injection and infusion site
+reactions, includes injection and infusion site-related terms, ie, injection site rash, which overlap with the term
+injection site reaction CMQ. Hypersensitivity includes both nonserious and serious hypersensitivity reaction
+events.
+Hepatic events were identified with search criteria covering the standardized MedDRA Queries of hepatic
+failure, fibrosis and cirrhosis and other liver damage-related conditions, hepatitis, noninfectious, cholestasis
+and jaundice of hepatic origin, liver-related investigations, signs and symptoms, and liver-related coagulation
+and bleeding disturbances.
+CMQ, customized MedDRA Queries; COVID-19, coronavirus 2019; customized MedDRA Queries; IV,
+intravenous; SMQ, standardized MedDRA Queries; TEAE, treatment-emergent adverse event.
+© 2024 American Medical Association. All rights reserved.
+eTable 8. Patients Meeting Criteria for Liver-Related Elevations During Induction and Maintenance
+Risankizumab 1200 mg IV
+Placebo IV
+Endpoint, n/N_Obs (%)
+n = 651
+n=324
+ALT ≥ 3 X ULN
+3/646 (0.5)
+7/319 (2.2)
+ALT ≥ 5 X ULN
+1/646 (0.2)
+0/319
+ALT ≥ 10 X ULN
+1/646 (0.2)
+0/319
+ALT ≥ 20 X ULN
+0/646
+0/319
+AST ≥ 3 X ULN
+4/648 (0.6)
+3/319 (0.9)
+AST ≥ 5 X ULN
+1/648 (0.2)
+0/319
+AST ≥ 10 X ULN
+1/648 (0.2)
+0/319
+AST ≥ 20 X ULN
+0/648
+0/319
+TBL ≥ 2 X ULN
+6/648 (0.9)
+1/320 (0.3)
+Risankizumab 180 mg SC
+Risankizumab 360 mg SC
+Placebo (Withdrawal) SC
+Endpoint, n/N_Obs (%)
+n = 193
+n = 195
+n = 196
+ALT ≥ 3 X ULN
+1/174 (0.6)
+4/159 (2.5)
+1/177 (0.6)
+ALT ≥ 5 X ULN
+0/174
+1/159 (0.6)
+1/177 (0.6)
+ALT ≥ 10 X ULN
+0/174
+1/159 (0.6)
+0/177
+ALT ≥ 20 X ULN
+0/174
+0/159
+0/177
+ULN < AST <3 X ULN
+12/175 (6.9)
+16/159 (10.1)
+6/178 (3.4)
+AST ≥ 3 X ULN
+2/175 (1.1)
+5/159 (3.1)
+1/178 (0.6)
+AST ≥ 5 X ULN
+0/175
+2/159 (1.3)
+0/178
+AST ≥ 10 X ULN
+0/175
+0/159
+0/178
+AST ≥ 20 X ULN
+0/175
+0/159
+0/178
+ALT, alanine aminotransferase; AST, aspartate aminotransferase; TBL, total bilirubin; ULN, upper limit of
+normal.
+© 2024 American Medical Association. All rights reserved.
+eTable 9. Summary of Mean Change From Baseline in Key Chemistry Values During Induction and
+Maintenance
+Induction Study, Week 12 of Induction
+Endpoint, Week 12
+Between Group Difference
+Risankizumab 1200 mg IV
+Placebo IV
+LS Mean (95% CI)
+Alanine Aminotransferase (U/L)
+Number of patients
+n = 593
+n = 279
+LS Mean (95% CI)
+1.6 (0.3, 3.0)
+0.5 (-1.4, 2.5)
+1.1 (-1.2, 3.5)
+Aspartate aminotransferase (U/L)
+Number of patients
+n = 599
+n = 277
+LS Mean (95% CI)
+2.1 (1.0, 3.2)
+1.6 (0.0, 3.1)
+0.6 (-1.4, 2.5)
+Gamma-glutamyl transferase (U/L)
+Number of patients
+n = 607
+n = 287
+LS Mean (95% CI)
+-0.2 (-4.4, 4.0)
+2.7 (-3.4, 8.8)
+-2.9 (-10.3, 4.5)
+Total cholesterol (mmol/L)
+Number of patients
+n = 608
+n = 288
+LS Mean (95% CI)
+0.2 (0.2, 0.3)
+0.05 (0.0, 0.1)
+0.2 (0.1,0.3)
+Maintenance Study, Week 52 of Maintenance
+Between Group
+Between Group
+Risankizumab
+Difference
+Risankizumab
+Difference
+Placebo
+Endpoint, Week 52
+180 mg SC
+LS mean (95% CI)
+360 mg SC
+LS mean (95% CI)
+(Withdrawal) SC
+Alanine
+Aminotransferase (U/L)
+Number of patients
+n 148
+n 128
+n 110
+LS mean (95 % CI)
+5.3 (2.7, 7.9)
+1.1 (-2.9, 5.1)
+6.5 (3.6, 9.3)
+2.3 (-1.9, 6.4)
+4.2 (1.1,7.2)
+Aspartate
+Aminotransferase (U/L)
+Number of patients
+n. = 147
+n = 129
+n = 110
+LS mean (95 % CI)
+5.0 (2.9, 7.1)
+0.4 (-2.8, 3.6)
+6.0 (3.8, 8.2)
+1.4 (-1.9, 4.7)
+4.6 (2.2, 7.0)
+Gamma Glutamyl
+Transferase (U/L)
+Number of patients
+n = 150
+n = 131
+n = 112
+LS mean (95 % CI)
+1.7 (-2.3, 5.7)
+-1.0 (-7.1, 5.1)
+5.5 (1.3, 9.8)
+2.9 (-3.4, 9.1)
+2.7 (-1.9, 7.3)
+Total Cholesterol (U/L)
+Number of patients
+n = 147
+n 129
+n 112
+LS mean (95% CI)
+0.5 (0.3, 0.6)
+0.3(0.1,0.5)
+0.3(0.1,0.4)
+0.1 (-0.1, 0.3)
+0.2(0.0,0.4)
+CI, confidence interval; IV, intravenous; LS, least squares; Obs, observed.
+© 2024 American Medical Association. All rights reserved.
+eTable 10. Summary of Treatment-Emergent Adverse Events Through Week 52 of Maintenance for All
+Patients Who Responded to 12-Week Risankizumab 1200 mg Intravenous Induction Therapy and Were
+Randomized to Maintenance
+Risankizumab 1200 mg IV/
+Risankizumab 1200 mg IV/
+Risankizumab 1200 mg IV/
+Placebo IV/
+Placebo SC
+Risankizumab 180 mg SC
+Risankizumab 360 mg SC
+Placebo SC
+AE, n (%)
+n 90
+n = 90
+n = 92
+n 70
+Treatment-Emergent Adverse Events
+Any AE
+71 (78.9)
+60 (66.7)
+66 (71.7)
+47 (67.1)
+AE possibly
+13 (14.4)
+9 (10.0)
+13 (14.1)
+11 (15.7)
+related to
+study drug
+AE leading to
+0
+1 (1.1)
+0
+4 (5.7)
+discontinuation
+of study drug
+AE related to
+20 (22.2)
+16 (17.8)
+18 (19.6)
+4 (5.7)
+COVID-19
+Severe AE
+6 (6.7)
+1 (1.1)
+0
+6 (8.6)
+Serious AE
+8 (8.9)
+5 (5.6)
+0
+8 (11.4)
+All deaths
+0
+0
+0
+0
+Most Frequent Adverse Events (≥ 10% in any treatment group)
+COVID-19
+16 (17.8)
+13 (14.4)
+18 (19.6)
+3 (4.3)
+Colitis
+9 (10.0)
+9 (10.0)
+11 (12.0)
+13 (18.6)
+ulcerative
+Treatment-Emergent Adverse Events of Special Interestb
+Hypersensitivity
+4 (4.4)
+7 (7.8)
+7 (7.6)
+4 (5.7)
+Hepatic events
+1 (1.1)
+2 (2.2)
+7 (7.6)
+2 (2.9)
+Serious
+2 (2.2)
+1 (1.1)
+0
+1 (1.4)
+infections
+Herpes zoster
+1 (1.1)
+1 (1.1)
+0
+0
+Injection site
+2 (2.2)
+1 (1.1)
+4 (4.3)
+1 (1.4)
+reactions
+Opportunistic
+0
+0
+1 (1.1)
+0
+infection
+excluding
+tuberculosis
+and herpes
+zoster
+Reported here are maintenance safety outcomes at week 52 for all patients who received risankizumab 1200
+mg or placebo during induction and were randomized to maintenance. Treatment groups were named
+according to treatments received during induction/maintenance.
+As assessed by study investigator.
+ᵇNo active tuberculosis, malignancies, adjudicated MACE, serious hypersensitivity, or adjudicated
+anaphylactic reactions occurred in any treatment group.
+AE, Adverse event; COVID-19, coronavirus disease 2019; E, event; IV, intravenous; MACE, major adverse
+cardiovascular event; PY, patient year; SC, subcutaneous.
+© 2024 American Medical Association. All rights reserved.
+eResults 1. Results for the Dose-Ranging Phase 2b Induction Substudy
+Patient Characteristics
+For the dose-ranging, placebo-controlled phase 2b induction substudy, 240 patients were enrolled
+and randomized to receive risankizumab 600 mg (n = 61), 1200 mg (n = 61), 1800 mg (n = 58), or placebo (n
+= 60) IV at weeks 0, 4, or 8. High completion rates across treatment groups (risankizumab 600 mg, 90.2%;
+1200 mg, 95.1%; 1800 mg, 98.3%; placebo, 88.3%) were seen for the 12-week induction substudy (eFigure
+2). A total of 17 patients discontinued (10 patients in the risankizumab treatment groups and 7 patients
+treated with placebo) prior to week 12. Baseline characteristics and patient demographics were similar
+across treatment groups (eTable 1). Mean duration of disease was 9.7 ± 6.9 years across all treatments,
+with 100% of the patients being advanced therapy-inadequate response.
+Efficacy Outcomes
+Following the prespecified MCP-Mod analysis, no prespecified dose-response models were
+statistically significant. However, in the pairwise comparisons, patients treated with risankizumab achieved
+numerically higher rates of clinical remission per Adapted Mayo score at week 12 compared with placebo,
+with all risankizumab groups achieving nominal significance (pairwise P ≤ .1) (eFigure 3A). Clinical
+remission was achieved by 7 patients (11.5%) treated with 600 mg; 6 patients (9.8%) treated with 1200 mg,
+and 6 patients (10.3%) treated with 1800 mg, compared with 1 patient (1.7%) treated with placebo IV
+(eFigure 3A).
+Numerical improvements compared with placebo were observed for clinically relevant secondary
+endpoints with nominal P≤.1 (eFigure 3B-F). Patients receiving any risankizumab dose had improved
+clinical response (per Adapted Mayo score and Partial Adapted Mayo score) by week 4 compared to placebo
+and maintained these improvements through week 12 (eFigure 3B-D).
+Endoscopic improvement in patients treated with risankizumab 600 mg (24.6%), 1200 mg (13.1%),
+and 1800 mg (15.5%) were numerically higher compared with placebo-treated patients
+(5.0%, nominal P ≤ .1), (eFigure 3E). A numerically higher proportion of patients were observed in
+endoscopic remission with risankizumab 600 mg (8.2%), 1200 mg (4.9%), and 1800 mg (8.6%) compared
+with placebo (0%, P .1), (eFigure 3F).
+© 2024 American Medical Association. All rights reserved.
+Reductions in inflammatory biomarkers, hs-CRP and FCP, were observed by week 4 and maintained
+to week 12, in patients treated with any risankizumab dose compared to placebo (eFigure 3G-H). Serum IL-
+22 levels were significantly decreased from baseline in all dose groups compared with placebo at week 12 (P
+≤ .001, all comparisons), (eFigure 31).
+Patients enrolled in the open-label phase 2b period (n = 340) were treated with risankizumab 1800
+mg, with 46.2% achieving clinical response per Adapted Mayo score at induction week 12 and randomized to
+the maintenance primary efficacy analysis.
+Safety Outcomes
+Total adverse events and serious adverse events were reported at comparable rates among patients
+treated with risankizumab 600 mg (57.8% and 9.4%, respectively), 1200 mg (44.3% and 6.6%), 1800 mg
+(48.2% and 5.4%), and placebo (62.7% and 10.2%) (eTable 2). In the risankizumab groups, lower
+proportions of patients reported severe adverse events and adverse events leading to study drug
+discontinuation compared with placebo-treated patients. There were no dose-dependent patterns across the
+risankizumab groups in any adverse event categories. The most frequently reported adverse events were
+worsening of ulcerative colitis, nasopharyngitis, and headache. No patients in the risankizumab groups
+reported malignancy, serious hypersensitivity, adjudicated anaphylactic reaction, adjudicated MACE, or
+active tuberculosis. No serious hepatic events were reported or resulted in study drug discontinuation. The
+majority of hepatic events represented laboratory abnormalities and were found to have no reasonable
+possibility of being related to study drug, as assessed by the investigator. There were no deaths reported.
+© 2024 American Medical Association. All rights reserved.
+eResults 2. Additional Safety and Efficacy Outcomes for the Phase 3 Induction and Maintenance Study
+Changes in Liver Enzymes for the 12-Week Induction and 52-Week Maintenance Periods
+Rates for hepatic events were numerically higher in the risankizumab 360 mg group in comparison
+with the risankizumab 180 mg and withdrawal treatment groups with no serious hepatic events across
+treatment groups (Table 4, eTable 7). The majority of hepatic events were liver test increases. No elevations
+in liver chemistry met the criteria for Hy's Law without other cause to explain the hepatic laboratory
+abnormalities in either the induction or maintenance studies (eTable 8). Changes in liver enzymes and
+chemistry were assessed as not clinically meaningful for either trial (eTables 8-9).
+Efficacy and Safety Outcomes for All Patients Who Responded to 12-Week Risankizumab 1200 mg
+Induction Therapy and Were Randomized to Maintenance
+Efficacy analysis was performed for all patients who received risankizumab 1200 mg for only one
+period of 12 weeks during the phase 2b/3 induction substudies who achieved clinical response and then
+were randomized to the 52-week maintenance period. Despite there being a smaller sample size, patients
+treated with risankizumab 360 mg achieved significantly higher rates of clinical remission compared with
+patients in the placebo SC group (44.6% vs. 27.8%, adjusted treatment difference: 18.3%; P ≤ .001) at week
+52 of maintenance (eTable 4). No difference was found for clinical remission in patients treated with the
+risankizumab 180 mg dose compared with placebo SC treatment. Patients treated with either risankizumab
+180 mg or 360 mg achieved significance versus placebo for several clinical, endoscopic, and patient-
+reported outcomes.
+Analysis for safety outcomes was performed for all patients who received risankizumab 1200 mg for
+only one period of 12 weeks during the phase 3 induction substudy 2 and were randomized to maintenance.
+Total adverse events were similar for all treatment groups. Higher rates of serious and severe adverse
+events were observed in patients treated with placebo SC (8.9%, 6.7%), compared with risankizumab 180
+mg (5.6%, 1.1%) or 360 mg (0%, 0%) (eTable 10). The most frequent adverse events with ≥ 10% in any
+treatment group were COVID-19 and colitis ulcerative. Serious infections occurred at generally similar rates
+in patients who received risankizumab 180 mg or placebo SC. No serious infections were observed in
+© 2024 American Medical Association. All rights reserved.
+patients treated with risankizumab 360 mg. No deaths, active tuberculosis, opportunistic infections (excluding
+tuberculosis and herpes zoster), malignancies, adjudicated MACE, serious hypersensitivity, or adjudicated
+hypersensitivity occurred in any of the treatment groups.
+Patient Narratives
+One Nontreatment-Emergent Death Due to Adenocarcinoma of the Colon (Risankizumab 360 mg SC Group)
+A 62-year-old female was diagnosed with adenocarcinoma of the colon based on histopathology
+from the screening endoscopy for the induction study, which was noted later by the central reader.
+The patient was a clinical responder to the 12-week risankizumab IV induction treatment and rolled
+over into the maintenance trial. During the maintenance study, the results from the screening biopsy were
+received from the blinded central reader, and a serious adverse event of adenocarcinoma was documented
+on day 36, with discontinuation of the study drug. The patient died due to adenocarcinoma on day 539, more
+than a year after the 140-day follow-up call. The investigator assessed the event of adenocarcinoma as not
+related to the study drug because the histopathology finding was from the screening endoscopy.
+One Invasive Ductal Breast Carcinoma (Risankizumab 360 mg SC Group)
+A 48-year-old female with a history of a breast lump and prior exposure to infliximab, adalimumab,
+and vedolizumab experienced a serious event of invasive ductal breast carcinoma of the left breast on day
+187. The diagnosis was confirmed by PET CT and MRI. The study drug was discontinued and a lumpectomy
+and sentinel lymph node biopsy were performed. The investigator assessed the event as having no
+reasonable possibility of being related to the study drug.
+© 2024 American Medical Association. All rights reserved.
+eResults 3. Pharmacokinetics and Immunogenicity Results From Induction and Maintenance Studies
+Following dosing of IV risankizumab 1200 mg at weeks 0, 4, and 8 during induction, risankizumab
+exposures reached a geometric mean trough concentration of 101 µg/mL at week 12. During maintenance,
+generally, dose-proportional risankizumab exposures were observed between the 180 mg and 360 mg doses
+across the time course of the studies, reaching geometric mean concentrations of 9.6 µg/mL and 23.6 µg/mL
+at week 52, respectively.
+In evaluable patients who received 12-weeks of IV risankizumab induction therapy, the incidence of
+treatment-emergent anti-drug antibodies and neutralizing antibodies to risankizumab was 1.7% (n = 11/642)
+and 0.8% (n = 5/642), respectively. In evaluable patients who received 12 weeks of risankizumab 1200 mg
+induction followed by the maintenance regimen of 180 or 360 mg for up to 64 weeks of exposure, treatment-
+emergent anti-drug and neutralizing antibodies were detected in 8.9% (n = 8/90) and 6.7% (n=6/90) for the
+180 mg dose, or 4.4% (n = 4/91) and 2.2% (n = 2/91) for the 360 mg dose, of evaluated patients,
+respectively.
+The time to the first appearance of treatment-emergent anti-drug antibodies ranged from 4.0 to 42.0
+weeks following the first risankizumab treatment during induction, and from 15.3 to 53.1 weeks for the
+risankizumab 360 mg group and from 15.7 to 48.1 weeks for the risankizumab 180 mg group during
+maintenance. No apparent impact of anti-drug antibodies on risankizumab exposure, efficacy, or safety
+(injection site reactions and hypersensitivity reactions) was observed.
+© 2024 American Medical Association. All rights reserved.
+eReferences
+1. Bretz F, Pinheiro JC, Branson M. Combining multiple comparisons and modeling techniques in dose-
+response studies. Biometrics. Sep 2005;61(3):738-48. doi:10.1111/j.1541-0420.2005.00344.x
+2. Pinheiro J, Bornkamp B, Bretz F. Design and analysis of dose-finding studies combining multiple
+comparisons and modeling procedures. J Biopharm Stat. 2006;16(5):639-56.
+doi:10.1080/10543400600860428
+3. Lon HK, Cheng L, Nudurupati S, et al. Pharmacokinetic Comparability of Risankizumab Formulations in
+Prefilled Syringe and Auto-injector for Subcutaneous Injection. Clin Ther. Mar 2021;43(3):629-636.
+doi:10.1016/j.clinthera.2021.01.009
+© 2024 American Medical Association. All rights reserved.

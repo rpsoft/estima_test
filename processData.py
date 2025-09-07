@@ -21,9 +21,9 @@ embeddings = OllamaEmbeddings(
 )
 
 # Read pdf files in the docs folder
-docs_folder = "docs"
-pdf_files = [f for f in os.listdir(docs_folder) if f.endswith('.pdf')]
-print(f"Found {len(pdf_files)} PDF files in {docs_folder} folder")
+docs_folder = "aws_raw"
+document_files = [f for f in os.listdir(docs_folder) if f.endswith('.txt')]
+print(f"Found {len(document_files)} PDF files in {docs_folder} folder")
 
 if os.path.exists(persist_dir):
 	# Reload existing Chroma DB
@@ -34,25 +34,13 @@ if os.path.exists(persist_dir):
 
 	print("Loaded existing Chroma DB from", persist_dir)
 else:
+	print("Creating new Chroma DB")
+	document_dict = {}
 
-	pdf_dict = {}
+	for txt_file in document_files:
+		with open(os.path.join(docs_folder, txt_file), "r", encoding="utf-8") as f:
+			document_dict[txt_file] = f.read()
 
-	for pdf_file in pdf_files:
-		with pdfplumber.open(docs_folder + "/" + pdf_file) as pdf:
-			full_text = ""
-			for page in pdf.pages:
-				words = page.extract_words()
-				line = ""
-				last_top = None
-				for word in words:
-					# Start a new line if y-position changes significantly
-					if last_top is not None and abs(word['top'] - last_top) > 3:
-						full_text += line.strip() + "\n"
-						line = ""
-					line += word['text'] + " "
-					last_top = word['top']
-				full_text += line.strip() + "\n"  # flush last line of the page
-			pdf_dict[pdf_file] = full_text
 
 
 	# %%
@@ -61,12 +49,12 @@ else:
 	text_splitter = RecursiveCharacterTextSplitter(
 		chunk_size=1000,
 		chunk_overlap=200,
-		# separators=["\n\n", "\n", " ", ""]
+		separators=["\n\n", "\n", " ", ""]  # prefer splitting at paragraphs/sentences
 	)
 
-	# Chunk the texts in pdf_dict
+	# Chunk the texts in document_dict
 	documents = []
-	for filename, text in pdf_dict.items():
+	for filename, text in document_dict.items():
 		chunks = text_splitter.split_text(text)
 
 		for j, chunk in enumerate(chunks):

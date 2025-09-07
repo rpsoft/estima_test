@@ -1,0 +1,2540 @@
+
+Research
+JAMA
+Original Investigation
+Risankizumab for Ulcerative Colitis
+Two Randomized Clinical Trials
+Edouard Louis, MD; Stefan Schreiber, MD; Remo Panaccione, MD; Peter Bossuyt, MD, PhD; Luc Biedermann, MD;
+Jean-Frederic Colombel, MD; Gareth Parkes, MD, PhD; Laurent Peyrin-Biroulet, MD; Geert D'Haens, MD, PhD;
+Tadakazu Hisamatsu, MD; Britta Siegmund, MD; Kaichun Wu, MD; Brigid S. Boland, MD; Gil Y. Melmed, MD;
+Alessandro Armuzzi, MD; Phillip Levine, MDCM; Jasmina Kalabic, MD; Su Chen, PhD; Ling Cheng, PhD;
+Lei Shu, PhD; W. Rachel Duan, MD, PhD; Valerie Pivorunas, PhD; Yuri Sanchez Gonzalez, PhD;
+Ronilda D'Cunha, PhD; Ezequiel Neimark, MD; Kori Wallace, MD, PhD; Raja Atreya, MD; Marc Ferrante, MD, PhD;
+Edward V. Loftus Jr, MD; for the INSPIRE and COMMAND Study Group
+Editorial page 877
+IMPORTANCE The clinical effects of risankizumab (a monoclonal antibody that selectively
+Multimedia
+targets the p19 subunit of IL-23) for the treatment of ulcerative colitis are unknown.
+Supplemental content
+OBJECTIVE To evaluate the efficacy and safety of risankizumab when administered as an
+induction and a maintenance therapy for patients with ulcerative colitis.
+DESIGN, SETTING, AND PARTICIPANTS Two phase 3 randomized clinical trials were conducted.
+The induction trial was conducted at 261 clinical centers (in 41 countries) and enrolled 977
+patients from November 5, 2020, to August 4, 2022 (final follow-up on May 16, 2023). The
+maintenance trial was conducted at 238 clinical centers (in 37 countries) and enrolled 754
+patients from August 28, 2018, to March 30, 2022 (final follow-up on April 11, 2023). Eligible
+patients had moderately to severely active ulcerative colitis; a history of intolerance or
+inadequate response to 1 or more conventional therapies, advanced therapies, or both types
+of therapies; and no prior exposure to risankizumab.
+INTERVENTIONS For the induction trial, patients were randomized 2:1 to receive 1200 mg
+of risankizumab or placebo administered intravenously at weeks O, 4, and 8. For the
+maintenance trial, patients with a clinical response (determined using the adapted
+Mayo score) after intravenous treatment with risankizumab were randomized 1:1:1 to receive
+subcutaneous treatment with 180 mg or 360 mg of risankizumab or placebo (no longer
+receiving risankizumab) every 8 weeks for 52 weeks.
+MAIN OUTCOMES AND MEASURES The primary outcome was clinical remission (stool
+frequency score ≤1 and not greater than baseline, rectal bleeding score of O, and endoscopic
+subscore ≤1 without friability) at week 12 for the induction trial and at week 52 for the
+maintenance trial.
+RESULTS Among the 975 patients analyzed in the induction trial (aged 42.1 [SD, 13.8] years;
+586/973 [60.1%] were male; and 677 [69.6%] were White), the clinical remission rates at
+week 12 were 132/650 (20.3%) for 1200 mg of risankizumab and 20/325 (6.2%) for placebo
+(adjusted between-group difference, 14.0% [95% CI, 10.0%-18.0%], P < .001). Among the
+548 patients analyzed in the maintenance trial (aged 40.9 [SD, 14.0] years; 313 [57.1%] were
+male; and 407 [74.3%] were White), the clinical remission rates at week 52 were 72/179
+(40.2%) for 180 mg of risankizumab, 70/186 (37.6%) for 360 mg of risankizumab, and
+46/183 (25.1%) for placebo (adjusted between-group difference for 180 mg of risankizumab
+vs placebo, 16.3% [97.5% CI, 6.1%-26.6%], P < .001; adjusted between-group difference for
+360 mg of risankizumab vs placebo, 14.2% [97.5% CI, 4.0%-24.5%], P = .002). No new safety
+Author Affiliations: Author
+risks were detected in the treatment groups.
+affiliations are listed at the end of this
+article.
+CONCLUSION AND RELEVANCE Compared with placebo, risankizumab improved clinical
+Group Information: The members of
+remission rates in an induction trial and in a maintenance trial for patients with moderately to
+the INSPIRE and COMMAND Study
+severely active ulcerative colitis. Further study is needed to identify benefits beyond the
+Group appear in Supplement 3.
+52-week follow-up.
+Corresponding Author: Edouard
+Louis, MD, Department of
+TRIAL REGISTRATION ClinicalTrials.gov Identifiers: NCT03398148 and NCT03398135
+Hepato-Gastroenterology and
+Digestive Oncology, University
+Hospital CHU of Liège, Avenue de
+JAMA. 2024;332(11):881-897. doi:10.1001/jama.2024.12414
+l'Hôpital 1, 4000 Liège, Belgium
+Published online July 22, 2024. Last corrected on October 24, 2024.
+(edouard.louis@uliege.be).
+881
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Emma Benbow on 09/01/2025
+Research Original Investigation
+Risankizumab for Ulcerative Colitis
+U
+lcerative colitis is a chronic, immune-mediated in-
+flammatory bowel disease associated with diarrhea,
+Key Points
+rectal bleeding, and bowel urgency. In North America,
+Question Among patients with moderately to severely active
+the prevalence of ulcerative colitis is 0.4% and it affects ap-
+ulcerative colitis, does risankizumab improve clinical remission
+proximately 1.5 million people.¹ Ulcerative colitis symptoms
+rates compared with placebo when risankizumab is administered
+are associated with reduced quality of life, impaired social and
+as an induction and a maintenance therapy?
+psychological function, and increased health care costs. 1-3 Cur-
+Findings Among the 975 patients analyzed in the induction trial,
+rent therapies, including corticosteroids and immunomodu-
+1200 mg of risankizumab significantly increased the rates of
+lators, are limited by lack of initial response, loss of response,
+clinical remission at 12-week follow-up compared with placebo
+and potential adverse events (such as increased risk of infec-
+(20.3% vs 6.2%, respectively). Among 548 patients included in
+tions or malignancy). Tumor necrosis factor inhibitors, such
+the primary efficacy analysis for the maintenance trial, 180 mg of
+as infliximab and adalimumab, are a first-line therapy for
+risankizumab and 360 mg of risankizumab significantly increased
+ulcerative colitis; however, approximately one-third of pa-
+the rates of clinical remission (40.2% and 37.6%, respectively)
+compared with placebo (25.1%).
+tients will not respond to initial treatment with a tumor ne-
+crosis factor inhibitor.⁴
+Meaning Risankizumab improved the rates of clinical remission
+The cytokine IL-23 is implicated in intestinal inflamma-
+when used as an induction and a maintenance therapy for patients
+tion and ulcerative colitis pathogenesis,⁵ and it stimulates the
+with moderately to severely active ulcerative colitis.
+proliferation of inflammatory cell populations and supports
+the activation of other cytokines, including IL-17 and IL-22.
+Ustekinumab, which targets the p40 subunit shared between
+clinical centers in 37 countries from August 28, 2018, to March
+IL-12 and IL-23, and mirikizumab, which targets the p19 sub-
+30, 2022, with the final follow-up on April 11, 2023 (Figure 2).
+unit specific to IL-23, have previously demonstrated the
+therapeutic potential of this pathway in ulcerative colitis.⁶,⁷
+Inclusion and Exclusion Criteria
+Risankizumab is a monoclonal IgG-1 antibody that selectively
+Patients eligible for the induction trial (1) were 18 years to 80
+targets the IL-23 p19 subunit, blocking signaling through the
+years of age with a diagnosis of ulcerative colitis for at least 3
+IL-23 receptor. Risankizumab has been approved by the US
+months, (2) had an adapted Mayo score of 5 to 9 points
+Food and Drug Administration and the European Medicines
+(range, 0-9) (the adapted Mayo score is composed of the cat-
+Agency for the treatment of Crohn disease, plaque psoriasis,
+egorical subscores for stool frequency [range, 0-3; a score of
+and psoriatic arthritis; has been approved by the Pharmaceu-
+0 for a "normal" number of stools and a score of 3 for ≥5
+ticals and Medical Devices Agency for the treatment of pal-
+stools than "normal"], rectal bleeding [range, 0-3; a score of
+moplantar pustulosis; and is being investigated for the treat-
+0 for no blood seen and a score of 3 for blood passed alone],
+ment of ulcerative colitis. 8-10
+and an endoscopic score [range, 0-3; a score of 0 for "nor-
+This report describes the results of 2 phase 3 trials that
+mal" appearance of mucosa and a score of 3 for severe dis-
+evaluated the efficacy and safety of risankizumab compared
+ease, including spontaneous bleeding and ulcerations]),
+with placebo as an induction and a maintenance therapy in pa-
+(3) had an endoscopic subscore of 2 to 3 that was confirmed
+tients with moderately to severely active ulcerative colitis.
+by central review, and (4) had a history of intolerance or inad-
+equate response to conventional therapy alone, or to 1 or
+more advanced therapies (eg, infliximab, adalimumab, goli-
+Methods
+mumab, vedolizumab, tofacitinib, filgotinib, upadacitinib,
+ozanimod), or to a combination of conventional and
+Trial Design
+advanced therapies. Exclusion criteria included prior expo-
+Two phase 3, multicenter, double-blind, placebo-controlled
+sure to p40 inhibitors (eg, ustekinumab) or p19 inhibitors
+randomized clinical trials were conducted. The induction
+(eg, risankizumab or mirikizumab). The full eligibility criteria
+trial was called the INSPIRE substudy 2 and the mainte-
+appear in the eMethods 2 in Supplement 1.
+nance trial was called the COMMAND substudy 1 (additional
+Patients eligible for the maintenance trial (1) had been
+information appears in eMethods 1 and eFigure 1 in Supple-
+enrolled in an induction trial and (2) had an adequate
+ment 1). An independent ethics committee or institutional
+response to risankizumab at 12- or 24-week follow-up (an
+review board at each study site approved the trial protocol
+adequate response was defined as a decrease of ≥30% from
+(Supplement 2), the informed consent forms, and the
+baseline, a reduction of 2 points on the adapted Mayo score,
+recruitment materials before patient enrollment. The stud-
+and a decrease of ≥1 in rectal bleeding score or an absolute
+ies were conducted in accordance with the International
+rectal bleeding score ≤1). The induction trial consisted of the
+Conference for Harmonization guidelines, applicable regu-
+phase 3 induction substudy and a phase 2b induction sub-
+lations, and the Declaration of Helsinki. All patients pro-
+study, which included a dose-ranging study followed by an
+vided written informed consent.
+open-label substudy (eMethods 3 and eFigure 1 in Supple-
+Enrollment for the induction trial was conducted at 261
+ment 1). The phase 2b dose-finding substudy evaluated the
+clinical centers in 41 countries from November 5, 2020, to
+efficacy and safety of risankizumab as an induction treat-
+August 4, 2022, with final follow-up on May 16, 2023 (Figure 1).
+ment to identify the appropriate induction dose of risanki-
+Enrollment for the maintenance trial was conducted at 238
+zumab for further evaluation in a phase 3 trial.
+882
+JAMA September 17, 2024 Volume 332, Number 11
+jama.com
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Emma Benbow on 09/01/2025
+Risankizumab for Ulcerative Colitis
+Original Investigation Research
+Figure 1. Flow of Patients in the Induction Trial
+1430 Adults aged ≥18 y with ulcerative colitis unresponsive
+to ≥1 advanced therapy were screened
+453 Excludedᵃ
+977 Randomizedᵇ
+652 Randomized to receive 1200 mg of
+325 Randomized to receive placebo
+risankizumab administered intravenously
+administered intravenously
+650 Received intervention as randomized
+325 Received intervention as randomized
+1 Unable to receive intravenous
+treatment
+ᵃDetermination of eligibility was
+1 Withdrew prior to treatment
+made at the clinical sites at the time
+of enrollment. The specific reasons
+for not meeting screening criteria
+13 Discontinued treatment after the first dose
+27 Discontinued treatment after the first dose
+were not collected.
+4 Withdrew consent
+6 Withdrew consent
+ᵇThe 2:1 randomization was stratified
+2 Experienced an adverse event
+12 Experienced an adverse event
+1 Lack of efficacy
+5 Lack of efficacy
+by the number of prior biological
+1 Had COVID-19 infection
+0 Had COVID-19 infection
+drugs (0 or 1 vs >1) each patient
+1 Logistical restrictions because
+0 Logistical restrictions because
+received that produced an
+of COVID-19 pandemic
+of COVID-19 pandemic
+inadequate response, current use of
+4 Other reasons
+4 Other reasons
+steroids (yes vs no), and adapted
+Mayo score (≤7 vs >7).
+637 Completed therapy to 12 wk
+298 Completed therapy to 12 wk
+ᶜThe patients included in the primary
+efficacy analysis received at least 1
+dose of study drug during the
+650 Included in primary efficacy analysisᶜ
+325 Included in primary efficacy analysisᶜ
+12-week, double-blind induction
+period.
+Randomization and Blinding
+block randomization methods. The block randomization sched-
+For the induction trial, patients were randomized 2:1 to re-
+ules were generated by randomization specialists at AbbVie
+ceive 1200 mg of risankizumab or placebo administered in-
+(sponsor of the 2 trials) and distributed to the interactive re-
+travenously at weeks 0, 4, and 8 (Figure 1). The dose of risanki-
+sponse technology vendor for randomization. The interac-
+zumab was based on the results of a phase 2b substudy
+tive response technology was used to provide the appropri-
+(eFigures 2-3 and eTables 1-2 in Supplement 1). Randomiza-
+ate medication kit numbers that were dispensed to each patient
+tion was stratified by the presence of baseline corticosteroid
+according to their randomized treatment group. Patients, in-
+use (yes, no), baseline adapted Mayo score (≤7, >7), and a his-
+vestigators, and study personnel involved in the conduct of
+tory of intolerance or inadequate response to advanced thera-
+the trial or in the analyses were blinded to treatment assign-
+pies (0, 1, >1 treatments).
+ments until data analysis.
+Patients from the induction trial with an adequate clini-
+cal response (determined using the adapted Mayo score) af-
+Administration of Risankizumab and Placebo
+ter 12 or 24 weeks of risankizumab therapy administered in-
+An unblinded pharmacist (or qualified designee) prepared
+travenously were randomized in the maintenance trial 1:1:1 to
+the intravenous and subcutaneous solutions consisting of
+180 mg or 360 mg of risankizumab or placebo (no longer re-
+saline with an equal volume of the study drug or placebo
+ceiving risankizumab) administered subcutaneously every 8
+according to group assignment. The study drug (risanki-
+weeks for 52 weeks (Figure 2 and eFigure 1 in Supplement 1).
+zumab) or placebo was administered with covered syringes.
+Randomization was stratified by history of inadequate re-
+The risankizumab and placebo subcutaneous kits were iden-
+sponse to advanced therapy (yes, no), last risankizumab in-
+tical in appearance.
+duction dose (600 mg, 1200 mg, 1800 mg administered intra-
+In the induction trial, patients taking stable doses of cor-
+venously), and clinical remission status (per local evaluation)
+ticosteroids, aminosalicylates, or immunomodulators at base-
+at the last visit of the induction trial (yes, no). Although pa-
+line continued these treatments throughout the trial. In the
+tients with an adequate clinical response to treatment with ri-
+maintenance trial, patients undergoing corticosteroid therapy
+sankizumab at either weeks 12 or 24 were included in the safety
+were required to taper by week 8. Starting at week 16 of the
+outcomes analysis, only randomized patients who (1) re-
+maintenance trial, patients in any treatment group could re-
+ceived at least 1 dose of the study drug and (2) had an ad-
+ceive open-label risankizumab therapy (ie, 1 single dose of ri-
+equate clinical response to risankizumab administered intra-
+sankizumab administered intravenously followed by 360 mg
+venously after 12 weeks of treatment were included in the
+administered subcutaneously every 8 weeks) in the event of
+primary efficacy analysis for the maintenance trial.
+loss of adequate clinical response (defined as a rectal bleed-
+Randomization was performed using web-based interac-
+ing score of ≥1 point than the week 0 value or an endoscopic
+tive response technology (Endpoint Clinical, version 3.0) with
+subscore of 2 or 3).
+jama.com
+JAMA September 17, 2024 Volume 332, Number 11
+883
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Emma Benbow on 09/01/2025
+Research Original Investigation
+Risankizumab for Ulcerative Colitis
+Figure 2. Flow of Patients in the Maintenance Trial
+754 Adult patients who had a clinical response
+after 12 wk of treatment with risankizumab
+administered intravenously were screenedᵃ
+422 Enrolled from phase 2b dose-ranging or
+open-label substudy
+332 Enrolled from phase 3 induction substudy
+170 Excluded
+70 Had a clinical response to placebo administered subcutaneously
+56 Had a clinical response to 180-mg risankizumab induction therapy
+administered subcutaneously
+44 Had a clinical response to 360-mg risankizumab induction therapy
+administered subcutaneously
+584 Randomizedᵇ
+193 Randomized to receive 180 mg of risankizumab
+195 Randomized to receive 360 mg of risankizumab
+196 Randomized to receive placebo administered
+administered subcutaneously
+administered subcutaneously
+subcutaneously
+179 Received intervention as randomized
+186 Received intervention as randomized
+183 Received intervention as randomized
+14 Had a clinical response before 24 wk
+9 Had a clinical response before 24 wk
+13 Had a clinical response before 24 wk
+with risankizumab administered
+with risankizumab administered
+with risankizumab administered
+intraveneouslyᶜ
+intraveneouslyᶜ
+intraveneouslyᶜ
+12 Discontinued treatment after the first dose
+21 Discontinued treatment after the first dose
+18 Discontinued treatment after the first dose
+5 Lack of efficacy
+8 Lack of efficacy
+5 Lack of efficacy
+3 Withdrew consent
+7 Withdrew consent
+5 Withdrew consent
+3 Experienced an adverse event
+2 Experienced an adverse event
+1 Experienced an adverse event
+0 Lost to follow-up
+1 Lost to follow-up
+1 Lost to follow-up
+0 Logistical problem (geopolitical restrictions)
+1 Logistical problem (geopolitical restrictions)
+0 Logistical problem (geopolitical restrictions)
+1 Other reason
+2 Other reasons
+6 Other reasons
+167 Completed 52 wk of therapy
+165 Completed 52 wk of therapy
+165 Completed 52 wk of therapy
+179 Included in primary efficacy analysis
+186 Included in primary efficacy analysis
+183 Included in primary efficacy analysis
+The patients with an inadequate response to risankizumab could receive an
+ᶜReceived 1800-mg intravenous dose in phase 2b study or 1200-mg
+additional 12 weeks of therapy with risankizumab (during an extended period of
+intravenous dose in phase 3 study. These individuals were included in the safety
+induction therapy in the phase 3 substudy; data not shown).
+analysis only (not included in the primary efficacy analysis).
+ᵇIncluded in the safety analysis.
+Primary Outcome in the Induction and Maintenance Trials
+Mayo score (in the induction trial only at week 4; decrease of
+In the induction trial, the primary outcome was clinical re-
+≥30% and 1 point from baseline and a decrease in rectal
+mission, which was determined using the adapted Mayo score
+bleeding score ≥1 or an absolute rectal bleeding score ≤1),
+(stool frequency score <1 and not greater than baseline, rectal
+(3) endoscopic improvement (endoscopic subscore <1 with-
+bleeding score of 0, and endoscopic subscore ≤1 without fri-
+out friability), (4) endoscopic remission (endoscopic subscore
+ability) at 12-week follow-up, which is consistent with regu-
+of 0), (5) histological, endoscopic, and mucosal improve-
+latory guidance. 11-13 In the maintenance trial, the primary out-
+ment (endoscopic subscore of 0 or 1 without friability and
+come was clinical remission, which was determined using the
+Geboes score <3.1), (6) histological, endoscopic, and mucosal
+adapted Mayo score (the components of the score were de-
+remission (endoscopic subscore of 0 and Geboes score
+fined similarly to the primary outcome in the induction trial),
+<2.0), (7) absence of bowel urgency, (8) absence of abdom-
+at 52-week follow-up.
+inal pain, (9) absence of nocturnal bowel movements,
+(10) absence of tenesmus, and (11) change from baseline for
+Secondary Outcomes in the Induction
+fecal incontinence, sleep interruption due to ulcerative colitis
+and Maintenance Trials
+symptoms, fatigue score (determined using the Functional
+At 12-week follow-up in the induction trial and at 52-
+Assessment of Chronic Illness Therapy-Fatigue¹⁴ [FACIT-F;
+week follow-up in the maintenance trial, the prespecified
+score range, 0-52 points; a higher score indicates less fatigue;
+secondary outcomes were (1) clinical response, which was
+a meaningful improvement was a change of 4-9 points
+determined using the adapted Mayo score (a decrease of
+["minimally improved" or "much improved"] according
+≥30% and ≥2 points from baseline and a decrease in rectal
+to the Patient Global Impression of Change), score on the
+bleeding score of ≥1 or an absolute rectal bleeding score of
+Inflammatory Bowel Disease Questionnaire (IBDQ; score
+≤1), (2) clinical response determined using the partial adapted
+range, 32-224 points; a higher score indicates better quality
+884
+JAMA September 17, 2024 Volume 332, Number 11
+jama.com
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Emma Benbow on 09/01/2025
+Risankizumab for Ulcerative Colitis
+Original Investigation Research
+of life; a meaningful improvement was a change of 15 points),
+clinical remission (between each risankizumab dose group
+and in ulcerative colitis-related hospitalizations (eMethods 3
+and the placebo group) using the 2-sided Miettinen and
+in Supplement 1). 15
+Nurminen test at a significance level of .025, adjusting the
+The secondary outcomes of histological, endoscopic, and
+.05-significance level for the 2 comparisons.⁶
+mucosal improvement, absence of bowel urgency, absence of
+abdominal pain, absence of nocturnal bowel movements,
+Induction Trial
+absence of tenesmus, fecal incontinence, and sleep interrup-
+The primary efficacy analysis for the induction trial included
+tion were added to the induction trial on December 16,
+randomized patients who received at least 1 dose of study drug.
+2022, to align with the update from the Selecting Therapeu-
+The demographics and baseline characteristics for each treat-
+tic Targets in Inflammatory Bowel Disease initiative. 16
+ment group were summarized using descriptive statistics. To
+These secondary outcomes were added before any results
+control for the family-wise type I error rate at a 2-sided sig-
+were analyzed.
+nificance level of .05, the primary outcome was tested at a pre-
+The maintenance trial evaluated the following outcomes
+specified 2-sided significance level of .05 for risankizumab
+at 52-week follow-up: maintenance of clinical remission (de-
+compared with placebo. If the primary outcome achieved sig-
+termined using the adapted Mayo score) at week 0 and at week
+nificance, continued testing of the secondary outcomes fol-
+52, corticosteroid-free clinical remission, and maintenance of
+lowed a prespecified weight of allocation as indicated in the
+endoscopic improvement at week 0 and at week 52.
+graphical multiple testing procedure (eFigure 4 in Supple-
+ment 1). No type I error control was applied to the explor-
+Additional Prespecified Analyses
+atory outcomes.
+For the induction and maintenance trials, additional efficacy
+The categorical efficacy outcomes (eg, percentage of pa-
+analyses were performed including (1) the patients who had
+tients achieving clinical or endoscopic remission) were ana-
+documented treatment intolerance or had an inadequate
+lyzed using the Cochran-Mantel-Haenszel test for common risk
+clinical response to 1 or more advanced therapies (infliximab,
+difference. Continuous efficacy outcomes (eg, change from
+adalimumab, golimumab, vedolizumab, tofacitinib, filgo-
+baseline in FACIT-F or IBDQ total score) were analyzed using
+tinib, upadacitinib, ozanimod) and (2) the patients who were
+a mixed-effect model and a repeated-measures method or
+tolerant of treatment or had an adequate response to at least
+analysis of covariance that included the categorical fixed ef-
+1 type of advanced therapy. Type I error was not controlled
+fects of treatment, stratification factors, and the continuous
+for this analysis.
+fixed covariates of baseline measurement. Safety was as-
+The inflammatory biomarkers of high-sensitivity C-reactive
+sessed through week 12 of follow-up according to adverse
+protein (CRP) and fecal calprotectin were exploratory out-
+events reported among all the patients who were random-
+comes and were included to characterize disease activity.¹⁶
+ized and received at least 1 dose of risankizumab or placebo
+Change from baseline in high-sensitivity CRP was evaluated
+(eResults 1-3 in Supplement 1). The safety data were summa-
+at weeks 0, 4, 8, and 12 in the induction trial and at weeks O,
+rized descriptively.
+24, and 52 in the maintenance trial. Fecal calprotectin was as-
+sessed at weeks 0, 4, and 12 in the induction trial and at weeks
+Maintenance Trial
+0, 24, and 52 in the maintenance trial.
+To control for the family-wise type I error rate at a 2-sided sig-
+nificance level of .05, the primary outcome was tested at the
+Post Hoc Analysis
+prespecified 2-sided significance level of .025 for each risanki-
+Serum concentrations of IL-22 were measured at weeks O, 4,
+zumab dose compared with placebo. If the primary outcome
+12, and 52 in the maintenance trial using the SMC high-
+achieved significance, continued testing of the secondary out-
+sensitivity immunoassay (EMD Millipore) via a quantitative
+comes followed a prespecified weight of allocation (eFigure 5
+fluorescent sandwich immunoassay technique.
+in Supplement 1). The secondary outcomes (prespecified sig-
+nificance level of .025) were maintenance of clinical remis-
+Statistical Analysis
+sion, corticosteroid-free clinical remission, and maintenance
+For the induction trial, a sample size of 966 patients provided
+of endoscopic improvement.
+90% power or greater (based on an assumption of 6% for clini-
+No control for the type I error rate was applied to the ex-
+cal remission [determined using the adapted Mayo score] in
+ploratory outcomes or the subgroup analyses. The same as-
+the placebo group and 16% in the risankizumab group at week
+sessment methods were used for the categorical and continu-
+12) to detect a treatment difference of 10% for the primary out-
+ous efficacy outcomes for both the induction and maintenance
+come of clinical remission using the 2-sided Miettinen and
+trials. Safety was assessed among patients with an adequate
+Nurminen test at a significance level of .05.⁶ The statistical
+clinical response to risankizumab (administered intrave-
+analysis plan appears in Supplement 2.
+nously) at 12 weeks or 24 weeks. These patients received at least
+For the maintenance trial, a sample size of 573 patients
+dose of risankizumab during the maintenance trial. The safety
+provided 90% power or greater (based on an assumption of
+data were summarized descriptively.
+22% for clinical remission [determined using the adapted
+Mayo score] in the placebo group and 42% in the 180-mg
+Missing Data
+and 360-mg risankizumab groups at week 52) to detect a
+The primary approach for handling missing data was nonre-
+treatment difference of 20% for the primary outcome of
+sponder imputation while incorporating multiple imputation
+jama.com
+JAMA September 17, 2024 Volume 332, Number 11
+885
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Emma Benbow on 09/01/2025
+Research Original Investigation
+Risankizumab for Ulcerative Colitis
+to handle missing data due to logistical restrictions because of
+tively; adjusted between-group difference, 14.0% [95% CI,
+the COVID-19 pandemic or geopolitical restrictions for the cat-
+10.0%-18.0%], P < .001) (Table 2 and eFigure 6 and eTable 4
+egorical variables. Multiple imputations were used that incor-
+in Supplement 1).
+porated the return to baseline values for the continuous vari-
+ables. No missing data were imputed for the safety analyses. All
+Secondary Outcomes
+statistical analyses were completed using SAS version 9.4 or
+Risankizumab significantly improved clinical response
+newer (SAS Institute Inc).
+(determined using the adapted Mayo score) compared with
+placebo (64.3% vs 35.7%, respectively; between-group dif-
+ference, 28.6% [95% CI, 22.3%-34.8%], P < .001), clinical
+Results
+response determined using the partial adapted Mayo score at
+week 4 (52.2% vs 30.5%; between-group difference, 21.8%
+Of the 1430 patients screened for the induction trial, 977 were
+[95% CI, 15.6%-28.1%], P < .001), endoscopic improvement
+randomized and 975 received 1 or more doses of risanki-
+(36.5% vs 12.1%; between-group difference, 24.3% [95% CI,
+zumab (n = 650) or placebo (n = 325) administered intrave-
+19.3%-29.4%], P < .001), endoscopic remission (10.6%
+nously (Figure Among these 975 patients (aged 42.1
+vs 3.4%; between-group difference, 7.2% [95% CI, 4.2%-
+years; 586/973 [60.1%] were male; and 677 [69.6%] were
+10.2%], P < .001), histological, endoscopic, and mucosal
+White), 637/650 (98%) in the risankizumab group completed
+improvement (24.5% vs 7.7%; between-group difference,
+12-week follow-up compared with 298/325 (92%) in the pla-
+16.6% [95% CI, 12.3%-21.0%], P < .001), and histological,
+cebo group.
+endoscopic, and mucosal remission (6.3% vs 0.6%; between-
+Of the 584 patients randomized in the maintenance trial
+group difference, 5.6% [95% CI, 3.5%-7.7%], P < .001)
+(all treatments administered subcutaneously), 548 had an ad-
+(Table 2 and eFigures 7-8 in Supplement 1).
+equate clinical response to risankizumab at 12 weeks during
+Risankizumab significantly improved the patient-
+the induction trial and these patients were included in the pri-
+reported outcome of absence of bowel urgency compared
+mary efficacy population (179 in the 180 mg of risankizumab
+with placebo (44.1% vs 27.7%, respectively; between-group
+group, 186 in the 360 mg of risankizumab group, and 183
+difference, 16.3% [95% CI, 10.3% to 22.4%], P < .001),
+in the placebo group [no longer receiving risankizumab])
+absence of abdominal pain (35.8% vs 26.5%; between-group
+(Figure 2). Among these 548 patients (aged 40.9 [SD, 14.0]
+difference, 9.3% [95% CI, 3.4% to 15.3%], P = .002), absence
+years; 313 [57.1%] were male; and 407 [74.3%] were White) with
+of nocturnal bowel movements (67.3% vs 43.1%; between-
+an adequate clinical response to risankizumab, 167/179 (93%)
+group difference, 24.2% [95% CI, 17.9% to 30.5%], P < .001),
+in the 180 mg of risankizumab group, 165/186 (89%) in the
+absence of tenesmus (48.7% vs 30.2%; between-group dif-
+360 mg of risankizumab group, and 165/183 (90%) in the pla-
+ference, 18.6% [95% CI, 12.4% to 24.8%], P < .001), fecal
+cebo group (no longer receiving risankizumab) completed 52-
+incontinence (mean change from baseline, -3.8 vs -2.2 epi-
+week follow-up.
+sodes/week; between-group difference, -1.6 [95% CI, -2.4
+Of those included in the primary efficacy population,
+to -0.9] episodes/week, P < .001), and sleep interruption
+503/975 patients (52%) in the induction trial and 411/548
+(mean change from baseline, -2.5 vs -1.5 days/week;
+patients (75%) in the maintenance trial had a history of
+between-group difference, -1.0 [95% CI, -1.3 to -0.6] days/
+intolerance or inadequate response to advanced therapies
+week, P < .001) (Table 2).
+(Table 1). At week 0 in the maintenance trial, 44/179
+Risankizumab significantly improved fatigue compared
+patients (25%) in the 180 mg of risankizumab group, 40/186
+with placebo (change in mean FACIT-F score from base-
+patients (22%) in the 360 mg of risankizumab group, and
+line, 7.9 vs 3.3, respectively; between-group difference, 4.5
+53/183 patients (29%) in the placebo group (no longer
+[95% CI, 3.1 to 6.0], P < .001) and health-related quality of
+receiving risankizumab) were in clinical remission (eTable 3
+life (change in mean IBDQ score from baseline, 42.6 vs 24.3;
+in Supplement 1).
+between-group difference, 18.3 [95% CI, 13.4 to 23.3],
+At week 12 of the induction trial, there were missing
+P < .001) (Table 2 and eFigure 9A in Supplement 1). The
+data for the primary outcome of clinical remission in 15/650
+occurrence of ulcerative colitis-related hospitalizations was
+patients (2.3%) in the 1200 mg of risankizumab group and in
+significantly reduced in the risankizumab group compared
+18/325 patients (5.5%) in the placebo group. At week 52 of
+with the placebo group through week 12 (0.8% vs 5.5%,
+the maintenance trial, there were missing data for the pri-
+respectively; between-group difference, -4.8% [95% CI,
+mary outcome of clinical remission in 18/179 patients
+-7.3% to -2.2%], P < .001) (Table 2).
+(10.1%) in the 180 mg of risankizumab group, in 25/186
+patients (13.4%) in the 360 mg of risankizumab group, and
+Maintenance Trial
+in 23/183 patients (12.6%) in the placebo group (no longer
+Primary Outcome
+receiving risankizumab).
+At week 52, each dose of risankizumab significantly im-
+proved clinical remission rates compared with placebo (no
+Induction Trial
+longer receiving risankizumab) (40.2% for 180 mg of risanki-
+Primary Outcome
+zumab and 37.6% for 360 mg of risankizumab vs 25.1% for
+At week 12, risankizumab significantly improved clinical re-
+placebo (between-group difference for 180 mg of risanki-
+mission rates compared with placebo (20.3% vs 6.2%, respec-
+zumab vs placebo, 16.3% [97.5% CI, 6.1%-26.6%], P < .001;
+886
+JAMA September 17, 2024 Volume 332, Number 11
+jama.com
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Emma Benbow on 09/01/2025
+Risankizumab for Ulcerative Colitis
+Original Investigation Research
+Table 1. Baseline Characteristics of Patients Participating in the Induction and Maintenance Trials
+Induction trial (12 wk)
+Maintenance trial (52 wk)a
+1200 mg of
+risankizumab
+administered
+Placebo administered
+Risankizumab administered subcutaneously
+Placebo administered
+intravenously
+intravenously
+subcutaneously
+(n 650)
+(n 325)
+180 mg (n = 179)
+360 mg (n = 186)
+(n 183)
+Sex, No. (%)
+Female
+265 (40.8)
+124 (38.2)
+74 (41.3)
+79 (42.5)
+82 (44.8)
+Male
+385 (59.2)
+201 (61.8)
+105 (58.7)
+107 (57.5)
+101 (55.2)
+Age, mean (SD), y
+41.8 (13.5)
+42.8 (14.3)
+40.9 (14.7)
+42.5 (12.9)
+39.2 (14.2)
+Body mass index
+No. of patients
+647
+325
+177
+186
+183
+Mean (SD)ᵇ
+24.7 (5.3)
+24.9 (5.2)
+24.9 (5.4)
+24.2 (4.9)
+24.2 (5.3)
+Race, No. (%)c
+No. of patients
+648
+325
+179
+186
+183
+American Indian
+1 (0.2)
+0
+0
+0
+0
+or Alaska Native
+Asian
+171 (26.4)
+96 (29.5)
+36 (20.1)
+51 (27.4)
+46 (25.1)
+Black or African
+12 (1.9)
+7 (2.2)
+4 (2.2)
+1 (0.5)
+2 (1.1)
+American
+Native Hawaiian
+0
+0
+0
+0
+0
+or Other Pacific Islander
+Multiple
+5 (0.8)
+4 (1.2)
+0
+1 (0.5)
+0
+White
+459 (70.8)
+218 (67.1)
+139 (77.7)
+133 (71.5)
+135 (73.8)
+Ethnicity, No. (%)
+Hispanic or Latino
+44 (6.8)
+20 (6.2)
+19 (10.6)
+11 (5.9)
+5 (2.7)
+Non-Hispanic
+604 (93.2)
+305 (93.8)
+160 (89.4)
+175 (94.1)
+178 (97.3)
+or non-Latino
+Disease duration,
+7.7 (6.9)
+8.1 (7.0)
+8.5 (7.4)
+9.3 (7.1)
+8.2 (7.2)
+mean (SD), y
+Location and extent
+of disease, No. (%)
+Left side
+313 (48.2)
+150 (46.2)
+84 (46.9)
+92 (49.5)
+85 (46.4)
+Extensive or pancolitis
+334 (51.4)
+174 (53.5)
+94 (52.5)
+94 (50.5)
+98 (53.6)
+Limited to rectum
+3 (0.5)
+1 (0.3)
+1 (0.6)
+0
+0
+Adapted Mayo scoreᵉ
+No. of patients
+649
+325
+179
+186
+183
+Score, mean (SD)
+7.1 (1.2)
+7.1 (1.3)
+7.2 (1.2)
+7.0 (1.3)
+7.2 (1.2)
+Score category, No. (%)
+≤7
+376 (57.9)
+190 (58.5)
+102 (57.0)
+109 (58.6)
+92 (50.3)
+>7
+273 (42.1)
+135 (41.5)
+77 (43.0)
+77 (41.4)
+91 (49.7)
+Endoscopic subscore,
+2.7 (0.5)
+2.7 (0.5)
+2.7 (0.4)
+2.7 (0.5)
+2.7 (0.5)
+mean (SD)f
+Score category, No. (%)
+2
+208 (32.0)
+94 (28.9)
+47 (26.3)
+63 (33.9)
+52 (28.4)
+3
+442 (68.0)
+231 (71.1)
+132 (73.7)
+123 (66.1)
+131 (71.6)
+High-sensitivity C-reactive
+protein
+No. of patients
+638
+318
+177
+184
+179
+Median (IQR), mg/L⁹
+3.4 (1.2-8.6)
+4.0 (1.2-9.5)
+4.7 (1.5-13.6)
+2.8 (1.0-7.7)
+4.2 (1.5-12.0)
+Fecal calprotectin
+No. of patients
+602
+302
+151
+166
+162
+Median (IQR), µg/gh
+1530.0 (592.0-3196.0)
+1624.0 (601.0-3493.0)
+1605.0 (611.0-3180.0)
+1568.0 (499.0-3884.0)
+1514.5 (729.0-2910.0)
+Medication use, No. (%)
+Immunosuppressants
+108 (16.6)
+53 (16.3)
+35 (19.6)
+32 (17.2)
+37 (20.2)
+Aminosalicylates
+475 (73.1)
+238 (73.2)
+119 (66.5)
+135 (72.6)
+117 (63.9)
+Corticosteroids
+236 (36.3)
+112 (34.5)
+74 (41.3)
+59 (31.7)
+68 (37.2)
+(continued)
+jama.com
+JAMA September 17, 2024 Volume 332, Number 11
+887
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Emma Benbow on 09/01/2025
+Research Original Investigation
+Risankizumab for Ulcerative Colitis
+Table 1. Baseline Characteristics of Patients Participating in the Induction and Maintenance Trials (continued)
+Induction trial (12 wk)
+Maintenance trial (52 wk)a
+1200 mg of
+risankizumab
+administered
+Placebo administered
+Risankizumab administered subcutaneously
+Placebo administered
+intravenously
+intravenously
+subcutaneously
+(n 650)
+(n 325)
+180 mg (n = 179)
+360 mg (n = 186)
+(n 183)
+Treatment response
+history, No. (%)
+Inadequate to advanced
+333 (51.2)
+170 (52.3)
+134 (74.9)
+139 (74.7)
+138 (75.4)
+therapy¹,j
+Inadequate to
+317 (48.8)
+155 (47.7)
+45 (25.1)
+47 (25.3)
+45 (24.6)
+nonadvanced therapy
+No. of times patient had an
+inadequate response to
+advanced therapy, No. (%)
+0
+317 (48.8)
+155 (47.7)
+45 (25.1)
+47 (25.3)
+45 (24.6)
+1
+153 (23.5)
+80 (24.6)
+52 (29.1)
+55 (29.6)
+62 (33.9)
+2
+112 (17.2)
+55 (16.9)
+44 (24.6)
+37 (19.9)
+40 (21.9)
+>2
+68 (10.5)
+35 (10.8)
+38 (21.2)
+47 (25.3)
+36 (19.7)
+No. of times with
+inadequate response to
+anti-tumor necrosis factor
+therapy, No. (%)j
+No. of patients
+333
+170
+134
+139
+138
+0
+48 (14.4)
+28 (16.5)
+11 (8.2)
+11 (7.9)
+7 (5.1)
+1
+209 (62.8)
+112 (65.9)
+71 (53.0)
+85 (61.2)
+92 (66.7)
+2
+68 (20.4)
+22 (12.9)
+50 (37.3)
+39 (28.1)
+35 (25.4)
+>2
+8 (2.4)
+8 (4.7)
+2 (1.5)
+4 (2.9)
+4 (2.9)
+a The patients in the maintenance trial (and included in the primary efficacy
+of 5 to 9 points indicates moderate to severe active disease; a score of 0
+analysis) received at least 1 dose of risankizumab either during the 12-week
+indicates inactive disease.
+induction trial or during the 52-week maintenance trial. Additional information
+f
+Evaluated for each observed segment of the colon (rectum, sigmoid,
+appears in eTable 3 in Supplement 1.
+descending colon, transverse colon, and ascending colon or cecum) using a
+b Calculated as weight in kilograms divided by height in meters squared.
+4-point scale. A higher score indicates more severe disease.
+C Patients were asked to respond to closed category questions with the option
+g The reference range is 0 mg/L to 10 mg/L.
+of selecting multiple race categories.
+h The reference value is less than 50 µg/g.
+di Selected 2 or more race categories.
+i Advanced therapies included infliximab, adalimumab, golimumab,
+e Measures disease activity in patients with ulcerative colitis. There are 3
+vedolizumab, tofacitinib, filgotinib, upadacitinib, and ozanimod.
+components of the score: the stool frequency score, the rectal bleeding score,
+j
+An inadequate response was defined as lack of response to treatment or the
+and an endoscopic subscore. Each score is measured on a scale from 0 to 3
+patient experienced unacceptable therapy-related adverse effects.
+and then the scores are combined. The combined score range is 0 to 9. A score
+between-group difference for 360 mg of risankizumab vs
+P < .001), (2) endoscopic remission (23.2% for 180 mg of ri-
+placebo, 14.2% [97.5% CI, 4.0%-24.5%], P = .002) (Table 3
+sankizumab and 24.3% for 360 mg of risankizumab vs 14.8%
+and eTable 5 in Supplement 1).
+for placebo; between-group difference for 180 mg of risanki-
+zumab vs placebo, 9.5% [97.5% CI, 0.8%-18.2%], P = .01;
+Secondary Outcomes
+between-group difference for 360 mg of risankizumab vs pla-
+Each dose of risankizumab significantly improved clinical re-
+cebo, 9.6% [97.5% CI, 0.9%-18.2%], P = .01), and (3) histologi-
+sponse (determined using the adapted Mayo score) com-
+cal, endoscopic, and mucosal improvement (42.8% for 180 mg
+pared with placebo (68.2% for 180 mg of risankizumab and
+of risankizumab and 42.2% for 360 mg of risankizumab vs
+62.3% for 360 mg of risankizumab vs 51.9% for placebo;
+23.5% for placebo; between-group difference for 180 mg of ri-
+between-group difference for 180 mg of risankizumab vs pla-
+sankizumab vs placebo, 20.2% [97.5% CI, 9.9%-30.5%],
+cebo, 17.1% [97.5% CI, 6.2%-28.0%], P < .001; between-group
+P < .001; between-group difference for 360 mg of risanki-
+difference for 360 mg of risankizumab vs placebo, 11.5%
+zumab vs placebo, 19.8% [97.5% CI, 9.5%-30.0%], P < .001).
+[97.5% CI, 0.3%-22.6%], P = .02) (Table 3).
+Modest differences between each dose of risankizumab
+Each dose of risankizumab significantly increased (1) en-
+and placebo were observed for histological, endoscopic, and
+doscopic improvement compared with placebo (50.8% for
+mucosal remission (12.9% for 180 mg of risankizumab and
+180 mg of risankizumab and 48.3% for 360 mg of risanki-
+15.6% for 360 mg of risankizumab vs 9.8% for placebo;
+zumab vs 31.7% for placebo; between-group difference for
+between-group difference for 180 mg of risankizumab VS pla-
+180 mg of risankizumab vs placebo, 20.1% [97.5% CI, 9.2%-
+cebo, 4.0% [97.5% CI, -3.1% to 11.2%], P = .21; between-
+30.9%], P < .001; between-group difference for 360 mg of ri-
+group difference for 360 mg of risankizumab vs placebo, 6.1%
+sankizumab vs placebo, 17.4% [97.5% CI, 6.6%-28.3%],
+[97.5% CI, -1.2% to 13.4%], P = .06).
+888
+JAMA September 17, 2024 Volume 332, Number 11
+jama.com
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Emma Benbow on 09/01/2025
+Risankizumab for Ulcerative Colitis
+Original Investigation Research
+Table 2. Primary and Key Secondary Outcomes in the Induction Trial
+No. (%) [95% CI]ᵃ
+1200 mg of risankizumab
+Placebo administered
+Adjusted
+administered intravenously
+intravenously
+between-group
+(n 650)
+(n 325)
+difference, % (95% CI)ᵇ
+P valueᶜ
+Primary outcome
+Clinical remission (determined using the adapted
+132 (20.3) [17.2 to 23.4]
+20 (6.2) [3.6 to 8.9]
+14.0 (10.0 to 18.0)
+<.001
+Mayo score)ᵈ,ᵉ
+Secondary outcomes
+Clinical response
+Determined using the adapted Mayo scoreᵈ
+418 (64.3) [60.6 to 67.9]
+116 (35.7) [30.5 to 40.9]
+28.6 (22.3 to 34.8)
+<.001
+Determined using the partial adapted Mayo score
+339 (52.2) [48.3 to 56.0]
+99 (30.5) [25.5 to 35.5]
+21.8 (15.6 to 28.1)
+<.001
+at wk 49
+Improvement
+Endoscopich
+237 (36.5) [32.8 to 40.2]
+39 (12.1) [8.5 to 15.6]
+24.3 (19.3 to 29.4)
+<.001
+Histological, endoscopic, and mucosal
+159 (24.5) [21.2 to 27.8]
+25 (7.7) [4.8 to 10.6]
+16.6 (12.3 to 21.0)
+<.001
+Endoscopic remission
+69 (10.6) [8.2 to 13.0]
+11 (3.4) [1.4 to 5.4]
+7.2 (4.2 to 10.2)
+<.001
+No bowel urgency
+287 (44.1) [40.3 to 47.9]
+90 (27.7) [22.8 to 32.6]
+16.3 (10.3 to 22.4)
+<.001
+No abdominal paink
+232 (35.8) [32.1 to 39.4]
+86 (26.5) [21.7 to 31.3]
+9.3 (3.4 to 15.3)
+.002
+Histological, endoscopic, and mucosal remission¹
+41 (6.3) [4.4 to 8.2]
+2 (0.6) [0 to 1.5]
+5.6 (3.5 to 7.7)
+<.001
+Mean change (95% CI)
+13-Item Functional Assessment of Chronic Illness
+7.9 (7.0 to 8.7)
+3.3 (2.1 to 4.5)
+4.5 (3.1 to 6.0)
+<.001
+Therapy-Fatigue scale scoreᵐ
+32-Question Inflammatory Bowel Disease
+42.6 (39.7 to 45.6)
+24.3 (20.2 to 28.5)
+18.3 (13.4 to 23.3)
+<.001
+Questionnaire scoreⁿ
+≥1 Ulcerative colitis-related hospitalization
+5 (0.8) [0.1 to 1.4]
+18 (5.5) [3.1 to 8.0]
+-4.8 (-7.3 to -2.2)
+<.001
+No nocturnal bowel movements
+437 (67.3) [63.7 to 70.9]
+140 (43.1) [37.7 to 48.5]
+24.2 (17.9 to 30.5)
+<.001
+No tenesmus
+317 (48.7) [44.9 to 52.6]
+98 (30.2) [25.2 to 35.1]
+18.6 (12.4 to 24.8)
+<.001
+Fecal incontinence, mean change (95% CI),
+-3.8 (-4.3 to -3.4)
+-2.2 (-2.9 to -1.6)
+-1.6 (-2.4 to -0.9)
+<.001
+episodes/wk°
+Sleep interrupted due to ulcerative colitis symptoms,
+-2.5 (-2.7 to -2.3)
+-1.5 (-1.8 to -1.2)
+-1.0 (-1.3 to -0.6)
+<.001
+mean change (95% CI), d/wk
+a Unless otherwise indicated. All outcomes were controlled for multiplicity. The
+severity in patients with ulcerative colitis. There are 2 components of the
+results for the categorical outcomes are based on nonresponder imputation
+score: stool frequency subscore and rectal bleeding subscore. Each score is
+while incorporating multiple imputation to handle missing data due to
+measured on a scale of 0 to 3 and then the scores are combined. The
+logistical restrictions because of the COVID-19 pandemic or geopolitical
+combined score range is 0 to 6. A score of 6 indicates active disease and
+restrictions. The results for the continuous outcomes are based on return to
+spontaneous bleeding; a score of 0 indicates inactive disease.
+baseline multiple imputation.
+h Defined by an endoscopic subscore of 1 or less without friability.
+b Calculated using the Mantel-Haenszel common rate difference with
+i
+Defined by an endoscopic subscore of 0 or 1 without friability and a Geboes
+nonresponder imputation while incorporating multiple imputation to handle
+score of 3.1 or less.
+missing data due to logistical restrictions because of the COVID-19 pandemic
+j
+or geopolitical restrictions for the categorical outcomes and using analysis of
+Defined by an endoscopic subscore of 0.
+covariance or mixed-effect model and a repeated-measures method with
+k A 4-point scale was used to evaluate symptom frequency and severity over time.
+return to baseline multiple imputation for the continuous outcomes.
+A higher score signified more severe pain. The mean of the scores from the most
+C All comparisons were statistically significant according to hierarchical testing.
+recent 3 days and up to 10 days prior to each study visit was calculated.
+I
+di The adapted Mayo score measures disease activity in patients with ulcerative
+Defined by an endoscopic subscore of 0 and a Geboes score of less than 2.0.
+colitis. There are 3 components of the score: the stool frequency score, the
+m Assesses how fatigue is associated with disease and how it has an effect on
+rectal bleeding score, and an endoscopic subscore. Each score is measured on
+daily activities and function, including tiredness, weakness, listlessness, and
+a scale from 0 to 3 and then the scores are combined. The combined score
+lack of energy. The score range is 0 to 52 points. A higher score reflects less
+range is 0 to 9. A score of 5 to 9 points indicates moderate to severe active
+fatigue (expressed as a least-squares mean change from baseline). An increase
+disease; a score of 0 indicates inactive disease.
+in the score from baseline reflects improvement in fatigue. There were 614
+e Clinical remission was defined as a stool frequency score of 1 or less and not
+patients in the 1200-mg group; placebo, 308.
+greater than the score at baseline. A score of 0 was given for patients with
+n Evaluates quality of life. The 32 questions are divided into 4 dimensions:
+rectal bleeding. An endoscopic subscore was used to evaluate each segment
+bowel symptoms, systemic symptoms, emotional function, and social
+of the colon (rectum, sigmoid, descending colon, transverse colon, and
+function. The total score range is 32 to 224. A higher score reflects better
+ascending colon or cecum) using a 4-point scale. A higher score indicates more
+quality of life. An increase in the score from baseline reflects improvement in
+severe disease. An endoscopic subscore of 1 or less was given for patients
+quality of life. There were 619 patients in the 1200-mg group; placebo, 310.
+without friability.
+O Quantified the number of weekly episodes of accidental bowel leakage prior to
+f
+Clinical response was defined as a decrease of at least 30% and a decrease of
+each study visit. A reduction from baseline score indicated improvement.
+at least 2 points from baseline. At week 4, clinical response was defined as a
+There were 602 patients in the 1200-mg group; placebo, 288.
+decrease of at least 30% and a decrease of 1 point from baseline. At all weeks,
+p Quantified the number of nights with sleep interruption due to ulcerative
+clinical response was also determined by a decrease in rectal bleeding score of
+colitis symptoms in the most recent 7 days prior to each study visit.
+1 or greater or an absolute rectal bleeding score of 1 or less.
+A reduction from baseline score indicated improvement. There were 602
+g The partial adapted Mayo score is a noninvasive assessment of disease
+patients in the 1200-mg group; placebo, 288.
+jama.com
+JAMA September 17, 2024 Volume 332, Number 11
+889
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Emma Benbow on 09/01/2025
+890
+Downloaded from jamanetwork.com by Emma Benbow on 09/01/2025
+Table 3. Primary and Key Secondary Outcomes in the Maintenance Trial
+No. (%) [97.5% CI]ᵃ
+JAMA September 17, 2024 Volume 332, Number 11
+Risankizumab administered subcutaneously
+Risankizumab (180 mg) vs placebo
+Risankizumab (360 mg) vs placebo
+Placebo administered
+Adjusted between-group
+Adjusted between-group
+180 mg (n = 179)
+360 mg (n = 186)
+subcutaneously (n = 183)
+difference, % (97.5% CI)ᵇ
+P valueᶜ
+difference, % (97.5% CI)ᵇ
+P valueᶜ
+Primary outcome
+Research Original Investigation
+Clinical remission
+72 (40.2) [31.9 to 48.4]
+70 (37.6) [29.7 to 45.6]
+46 (25.1) [17.9 to 32.3]
+16.3 (6.1 to 26.6)
+<.001
+14.2 (4.0 to 24.5)
+.002
+(determined using the
+adapted Mayo score)ᵈ,ᵉ
+Secondary outcomes
+Clinical response
+122 (68.2) [60.4 to 76.0]
+116 (62.3) [54.4 to 70.3]
+95 (51.9) [43.6 to 60.2]
+17.1 (6.2 to 28.0)
+<.001
+11.5 (0.3 to 22.6)
+.02
+(determined using the
+adapted Mayo score)ᵈ,f
+Improvement
+Endoscopic⁹
+91 (50.8) [42.4 to 59.2]
+90 (48.3) [40.1 to 56.5]
+58 (31.7) [24.0 to 39.4]
+20.1 (9.2 to 30.9)
+<.001
+17.4 (6.6 to 28.3)
+<.001
+Histological, endoscopic,
+77 (42.8) [34.5 to 51.1]
+79 (42.2) [34.1 to 50.4]
+43 (23.5) [16.5 to 30.5]
+20.2 (9.9 to 30.5)
+<.001
+19.8 (9.5 to 30.0)
+<.001
+© 2024 American Medical Association. All rights reserved.
+and mucosalh
+Endoscopic remission'
+41 (23.2) [16.1 to 30.3]
+45 (24.3) [17.3 to 31.4]
+27 (14.8) [8.9 to 20.6]
+9.5 (0.8 to 18.2)
+.01
+9.6 (0.9 to 18.2)
+.01
+No bowel urgency¹
+96 (53.6) [45.3 to 62.0]
+92 (49.4) [41.2 to 57.6]
+57 (31.1) [23.5 to 38.8]
+22.6 (11.8 to 33.5)
+<.001
+18.4 (7.4 to 29.3)
+<.001
+No abdominal pain
+84 (46.9) [38.6 to 55.3]
+70 (37.8) [29.8 to 45.8]
+54 (29.5) [22.0 to 37.1]
+17.0 (6.0 to 28.0)
+<.001
+8.2 (-2.6 to 19.0)
+.09
+Histological, endoscopic,
+23 (12.9) [7.3 to 18.6]
+29 (15.6) [9.7 to 21.6]
+18 (9.8) [4.9 to 14.8]
+4.0 (-3.1 to 11.2)
+.21
+6.1 (-1.2 to 13.4)
+.06
+and mucosal remission
+Mean change from
+induction baseline
+(95% CI)
+13-Item Functional
+10.9 (8.5 to 13.4)
+10.3 (7.8 to 12.8)
+7.0 (4.6 to 9.5)
+3.9 (0.8 to 7.0)
+.005
+3.3 (0.2 to 6.3)
+.02
+Assessment of Chronic
+Illness Therapy-Fatigue
+scale score¹
+32-Question Inflammatory
+52.6 (43.8 to 61.3)
+50.3 (41.0 to 59.5)
+35.0 (26.0 to 44.1)
+17.5 (6.6 to 28.4)
+<.001
+15.2 (3.7 to 26.8)
+.003
+Bowel Disease
+Questionnaire scoreᵐ
+≥1 Ulcerative colitis-related
+0.6 (0 to 1.9)
+1.2 (0 to 3.1)
+3.1 (0 to 6.1)
+-2.5 (-5.8 to 0.8)
+.09
+-1.8 (-5.5 to 1.8)
+.25
+hospitalization, patients/
+100 person-years
+(97.5% CI)
+No nocturnal bowel
+75 (41.9) [33.6 to 50.2]
+81 (43.5) [35.3 to 51.6]
+55 (30.1) [22.5 to 37.7]
+12.0 (2.0 to 21.9)
+.007
+14.8 (4.8 to 24.7)
+<.001
+movement
+No tenesmus
+66 (36.9) [28.8 to 45.0]
+68 (36.8) [28.8 to 44.8]
+43 (23.5) [16.5 to 30.5]
+13.1 (3.4 to 22.9)
+.003
+14.4 (4.5 to 24.3)
+.001
+Mean change from
+induction baseline
+(97.5%CI)
+Fecal incontinence,
+-3.4 (-4.9 to -2.0)
+-2.9 (-4.5 to -1.3)
+-2.8 (-4.4 to -1.1)
+-0.7 (-2.8 to 1.5)
+.48
+-0.1 (-2.4 to 2.2)
+.92
+episodes/wkⁿ
+Sleep interrupted
+-2.6 (-3.2 to -1.9)
+-2.5 (-3.1 to -1.9)
+-1.8 (-2.4 to -1.2)
+-0.8 (-1.7 to 0.07)
+.04
+-0.7 (-1.5 to 0.1)
+.06
+due to ulcerative colitis
+jama.com
+symptoms, d/wk°
+Risankizumab for Ulcerative Colitis
+(continued)
+Downloaded from jamanetwork.com by Emma Benbow on 09/01/2025
+jama.com
+Table 3. Primary and Key Secondary Outcomes in the Maintenance Trial (continued)
+No. (%) [97.5% CI]ᵃ
+Risankizumab administered subcutaneously
+Risankizumab (180 mg) vs placebo
+Risankizumab (360 mg) vs placebo
+Placebo administered
+Adjusted between-group
+Adjusted between-group
+180 mg (n = 179)
+360 mg (n = 186)
+subcutaneously (n = 183)
+difference, % (97.5% CI)ᵇ
+P valueᶜ
+difference, % (97.5% CI)ᵇ
+P valueᶜ
+Clinical remission
+Maintenance, No./total (%)
+31/44 (70.2) [54.7 to 85.8]
+20/40 (50.0) [32.3 to 67.7]
+21/53 (39.6) [24.6 to 54.7]
+29.2 (7.4 to 51.0)
+.003
+12.5 (-10.5 to 35.6)
+.22
+Risankizumab for Ulcerative Colitis
+[97.5% CI]P
+Corticosteroid-freeᶜ
+71 (39.6) [31.4 to 47.8]
+69 (37.1) [29.2 to 45.0]
+46 (25.1) [17.9 to 32.3]
+15.8 (5.6 to 26.0)
+<.001
+13.7 (3.5 to 24.0)
+.003
+Maintenance of endoscopic
+45/61 (73.6) [60.9 to 86.3]
+37/68 (54.1) [40.5 to 67.7]
+37/78 (47.4) [34.8 to 60.1]
+23.9 (6.4 to 41.4)
+.002
+4.8 (-13.7 to 23.2)
+.56
+improvement, No./total (%)
+[97.5% CI]'
+a Unless otherwise indicated. All outcomes were controlled for multiplicity. The results for the categorical
+score signified more severe pain. The mean of the scores from the most recent 3 days and up to 10 days prior to
+outcomes are based on nonresponder multiple imputation to handle missing data due to logistical restrictions
+each study visit was calculated.
+because of the COVID-19 pandemic or geopolitical restrictions. The results for the continuous outcomes are
+k Defined by an endoscopic subscore of 0 and a Geboes score of less than 2.0.
+based on return to baseline multiple imputation. The patients in the maintenance trial (and included in the
+I
+© 2024 American Medical Association. All rights reserved.
+primary efficacy analysis) received at least 1 dose of risankizumab either during the 12-week induction trial or
+Assesses how fatigue is associated with disease and how it has an effect on daily activities and function,
+during the 52-week maintenance trial.
+including tiredness, weakness, listlessness, and lack of energy. The score range is 0 to 52 points. A higher score
+reflects less fatigue (expressed as a least-squares mean change from baseline). An increase in the score from
+b Calculated using the Mantel-Haenszel common rate difference with nonresponder imputation while
+baseline reflects improvement in fatigue. For the assessment of the FACIT-F, there were 166 patients in the
+incorporating multiple imputation to handle missing data due to logistical restrictions because of the COVID-19
+180 mg of risankizumab group; 163 in the 360 mg of risankizumab group; and 171 in the placebo group.
+pandemic or geopolitical restrictions for categorical outcomes and using analysis of covariance or mixed-effect
+model and a repeated-measures method with return to baseline multiple imputation for continuous outcomes.
+Evaluates quality of life. The 32 questions are divided into 4 dimensions: bowel symptoms, systemic symptoms,
+emotional function, and social function. The total score range is 32 to 224. A higher score reflects better quality
+C Hierarchical testing was used to calculate the P values.
+of life. An increase in the score from baseline reflects improvement in quality of life. For the evaluation of the
+d The adapted Mayo score measures disease activity in patients with ulcerative colitis. There are 3 components of
+Inflammatory Bowel Disease Questionnaire, there were 168 patients in the 180 mg of risankizumab group; 168
+the score: the stool frequency score, the rectal bleeding score, and an endoscopic subscore. Each score is
+in the 360 mg of risankizumab group; and 172 in the placebo group.
+measured on a scale from 0 to 3 and then the scores are combined. The combined score range is 0 to 9. A score
+Quantified the number of weekly episodes of accidental bowel leakage prior to each study visit. A reduction
+of 5 to 9 points indicates moderate to severe active disease; a score of 0 indicates inactive disease.
+from baseline induction score indicated improvement. For the evaluation of fecal incontinence, there were
+e Clinical remission was defined as a stool frequency score of 1 or less and not greater than the score at baseline.
+66 patients in the 180 mg of risankizumab group; 70 in the 360 mg of risankizumab group; and 69 in the
+A score of 0 was given for patients with rectal bleeding. An endoscopic subscore was used to evaluate each
+placebo group.
+segment of the colon (rectum, sigmoid, descending colon, transverse colon, and ascending colon or cecum)
+Quantified the number of nights with sleep interruption due to ulcerative colitis symptoms in the most recent
+using a 4-point scale. A higher score indicates more severe disease. An endoscopic subscore of 1 or less was
+7 days prior to each study visit. A reduction from baseline induction score indicated improvement. For the
+given for patients without friability.
+evaluation of sleep disruption, there were 66 patients in the 180 mg of risankizumab group; 70 in the 360 mg of
+f Clinical response was defined as a decrease of at least 30% and a decrease of at least 2 points from baseline and
+risankizumab group; and 69 in the placebo group.
+was determined by a decrease in rectal bleeding score of 1 or greater or an absolute rectal bleeding score of 1 or
+Defined as clinical remission at week 52 among patients who were in remission at week 0 of maintenance.
+less.
+JAMA September 17, 2024 Volume 332, Number 11
+q Defined as clinical remission at week 52 among patients who abstained from corticosteroid use for 90 days or
+g Defined by an endoscopic subscore of 1 or less without friability.
+longer prior to the assessment at week 52.
+h Defined by an endoscopic subscore of 0 or 1 without friability and a Geboes score of 3.1 or less.
+r Defined as endoscopic improvement at week 52 among patients who were in remission at week 0 of
+i
+Defined by an endoscopic subscore of 0.
+maintenance.
+j
+The patients were assessed using a 4-point scale to evaluate symptom frequency and severity over time. A higher
+Original Investigation Research
+891
+Research Original Investigation
+Risankizumab for Ulcerative Colitis
+Numerical differences were observed in the following
+zumab vs placebo, -2.5/100 person-years [97.5% CI, -5.8 to 0.8/
+patient-reported outcomes: (1) absence of bowel urgency (53.6%
+100 person-years], P = .09; between-group difference for
+for 180 mg of risankizumab and 49.4% for 360 mg of risanki-
+360 mg of risankizumab vs placebo, -1.8/100 person-years
+zumab vs 31.1% for placebo; between-group difference for
+[97.5% CI, -5.5 to 1.8/100 person-years], P = .25).
+180 mg of risankizumab vs placebo, 22.6% [97.5% CI, 11.8% to
+Higher proportions of patients treated with 180 mg of ri-
+33.5%], P < .001; between-group difference for 360 mg of ri-
+sankizumab were able to sustain clinical remission from main-
+sankizumab vs placebo, 18.4% [97.5% CI, 7.4% to 29.3%],
+tenance week 0 to week 52 compared with placebo (70.2% for
+P < .001), (2) absence of abdominal pain (46.9% for 180 mg of
+180 mg of risankizumab and 50.0% for 360 mg of risanki-
+risankizumab and 37.8% for 360 mg of risankizumab vs 29.5%
+zumab vs 39.6% for placebo; between-group difference for
+for placebo; between-group difference for 180 mg of risanki-
+180 mg of risankizumab vs placebo, 29.2% [97.5% CI, 7.4% to
+zumab vs placebo, 17.0% [97.5% CI, 6.0% to 28.0%], P < .001;
+51.0%], P = .003; between-group difference for 360 mg of ri-
+between-group difference for 360 mg of risankizumab vs pla-
+sankizumab vs placebo, 12.5% [97.5% CI, -10.5% to 35.6%],
+cebo, 8.2% [97.5% CI, -2.6% to 19.0%], P = .09), (3) absence of
+P = .22).
+nocturnal bowel movements (41.9% for 180 mg of risanki-
+Among patients who continued with any dose of risanki-
+zumab and 43.5% for 360 mg of risankizumab vs 30.1% for pla-
+zumab, there were numerically improved rates for corticoste-
+cebo; between-group difference for 180 mg of risankizumab vs
+roid-free clinical remission compared with placebo (39.6% for
+placebo, 12.0% [97.5% CI, 2.0% to 21.9%], P = .007; between-
+180 mg of risankizumab and 37.1% for 360 mg of risanki-
+group difference for 360 mg of risankizumab vs placebo, 14.8%
+zumab vs 25.1% for placebo; between-group difference for
+[97.5% CI, 4.8% to 24.7%], P < .001), and (4) absence of tenes-
+180 mg of risankizumab vs placebo, 15.8% [97.5% CI, 5.6%-
+mus (36.9% for 180 mg of risankizumab and 36.8% for 360 mg
+26.0%], P < .001; between-group difference for 360 mg of ri-
+of risankizumab vs 23.5% for placebo; between-group differ-
+sankizumab vs placebo, 13.7% [97.5% CI, 3.5%-24.0%],
+ence for 180 mg of risankizumab vs placebo, 13.1% [97.5% CI,
+P = .003) and for overall corticosteroid discontinuation (64.9%
+3.4% to 22.9%], P = .003; between-group difference for 360 mg
+for 180 mg of risankizumab and 54.2% for 360 mg of risanki-
+of risankizumab vs placebo, 14.4% [97.5% CI, 4.5% to 24.3%],
+zumab vs 36.8% for placebo; between-group difference for
+P = .001).
+180 mg of risankizumab vs placebo, 28.4% [97.5% CI, 14.0%-
+Numerical differences were observed for fecal inconti-
+42.8%], P < .001; between-group difference for 360 mg of ri-
+nence (mean change from baseline, -3.4 episodes/week for
+sankizumab vs placebo, 20.7% [97.5% CI, 4.9%-36.6%], P = .01)
+180 mg of risankizumab and -2.9 episodes/week for 360 mg
+(Table 3 and eFigure 10 in Supplement 1).
+of risankizumab vs -2.8 episodes/week for placebo; between-
+Among the 72 patients treated with risankizumab and who
+group difference for 180 mg of risankizumab vs placebo, -0.7
+had clinical remission at week 52, there were 71 (98.6%) not
+[97.5% CI, -2.8 to 1.5] episodes/week, P = .48; between-
+taking corticosteroids. Higher proportions of patients treated
+group difference for 360 mg of risankizumab vs placebo, -0.1
+with 180 mg of risankizumab with endoscopic improvement
+[97.5% CI, -2.4 to 2.2] episodes/week, P = .92) and for sleep
+at week 0 of maintenance were able to sustain their status to
+interruption (mean change from baseline, -2.6 days/week for
+week 52 compared with placebo (73.6% for 180 mg of risanki-
+180 mg of risankizumab and -2.5 days/week for 360 mg of ri-
+zumab and 54.1% for 360 mg of risankizumab vs 47.4% for pla-
+sankizumab vs -1.8 - days/week for placebo; between-group dif-
+cebo; between-group difference for 180 mg of risankizumab
+ference for 180 mg of risankizumab vs placebo, -0.8 [97.5% CI,
+VS placebo, 23.9% [97.5% CI, 6.4% to 41.4%], P = .002; between-
+-1.7 to 0.07] days/week, P = .04; between-group difference for
+group difference for 360 mg of risankizumab vs placebo, 4.8%
+360 mg of risankizumab vs placebo, -0.7 [97.5% CI, -1.5 to 0.1]
+[97.5% CI, -13.7% to 23.2%], P = .56).
+days/week, P = .06).
+Numerical differences were also observed for fatigue
+Additional Prespecified Subgroup Analyses in the Induction
+(change in mean FACIT-F score from baseline, 10.9 for 180 mg
+and Maintenance Trials
+of risankizumab and 10.3 for 360 mg of risankizumab vs 7.0
+In the induction trial, the clinical remission rates were nu-
+for placebo; between-group difference for 180 mg of risanki-
+merically improved for patients without a history of intoler-
+zumab vs placebo, 3.9 [97.5% CI, 0.8 to 7.0], P = .005; between-
+ance or inadequate response to advanced therapy and treated
+group difference for 360 mg of risankizumab vs placebo, 3.3
+with risankizumab compared with patients in the placebo
+[97.5% CI, 0.2 to 6.3], P = .02) and for quality of life (change
+group (29.7% vs 8.4%, respectively; between-group differ-
+in mean IBDQ score from baseline, 52.6 for 180 mg of risanki-
+ence, 21.3% [95% CI, 14.6% to 27.9%]), and also for patients
+zumab and 50.3 for 360 mg of risankizumab vs 35.0 for pla-
+with a history of inadequate response to advanced therapy
+cebo; between-group difference for 180 mg of risankizumab
+(11.4% vs 4.3%; between-group difference, 7.2% [95% CI, 2.6%-
+vs placebo, 17.5 [97.5% CI, 6.6 to 28.4], P < .001; between-
+11.8%]) (eTable 6 in Supplement 1).
+group difference for 360 mg of risankizumab vs placebo, 15.2
+In the maintenance trial, the patients without a history of
+[97.5% CI, 3.7 to 26.8], P = .003). The occurrence of ulcer-
+inadequate response to advanced therapy and treated with
+ative colitis-related hospitalizations decreased for patients
+either dose of risankizumab (180 mg or 360 mg) had numeri-
+treated with risankizumab compared with placebo (0.6/100
+cally improved clinical remission rates compared with pla-
+person-years for 180 mg of risankizumab and 1.2/100 person-
+cebo (50.9% for 180 mg of risankizumab and 61.7% for 360 mg
+years for 360 mg of risankizumab vs 3.1/100 person-years for
+of risankizumab vs 31.1% for placebo; between-group differ-
+placebo; between-group difference for 180 mg of risanki-
+ence for 180 mg of risankizumab vs placebo, 19.8% [95% CI,
+892
+JAMA September 17, 2024 Volume 332, Number 11
+jama.com
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Emma Benbow on 09/01/2025
+Risankizumab for Ulcerative Colitis
+Original Investigation Research
+-0.2% to 39.7%]; between-group difference for 360 mg of ri-
+For the maintenance trial, a numeric reduction was ob-
+sankizumab vs placebo, 30.6% [95% CI, 11.2% to 50.0%]). Pa-
+served in high-sensitivity CRP at week 52 (0.2 mg/L for 180 mg
+tients with a history of inadequate response to advanced
+of risankizumab and -0.2 mg/L for 360 mg of risankizumab
+therapy and treated with either dose of risankizumab also had
+vs 2.1 mg/L for placebo; between-group difference for 180 mg
+numerically improved rates of clinical remission compared
+of risankizumab vs placebo, -1.8 mg/L [97.5% CI, -3.4 to
+with placebo during maintenance (36.6% for 180 mg of risanki-
+-0.3 mg/L], P = .02; between-group difference for 360 mg of
+zumab and 29.5% for 360 mg of risankizumab vs 23.2% for pla-
+risankizumab vs placebo, -2.2 mg/L [97.5% CI, -3.8 to
+cebo; between-group difference for 180 mg of risankizumab
+-0.6 mg/L], P = .006) and in fecal calprotectin (-358 mg/kg for
+vs placebo, 13.4% [95% CI, 2.6% to 24.2%]; between-group dif-
+180 mg of risankizumab and -120 mg/kg for 360 mg of risanki-
+ference for 360 mg of risankizumab vs placebo, 6.3% [95% CI,
+zumab vs 500 mg/kg for placebo; between-group difference
+-4.0% to 16.7%]).
+for 180 mg of risankizumab vs placebo, -858.6 mg/kg [97.5% CI,
+A numerically greater improvement was observed in the
+-1502.8 to -214.4 mg/kg], P = .009; between-group differ-
+induction trial for endoscopic improvement in patients treated
+ence for 360 mg of risankizumab vs placebo, -620.5 mg/kg
+with risankizumab (47.6% in those without a history of inad-
+[97.5% CI, -1260.4 to 19.4 mg/kg], P = .06) (eFigure 11E-H in
+equate response to advanced therapy vs 25.9% in those with
+Supplement 1).
+a history of inadequate response to prior advanced therapy),
+endoscopic remission (16.7% vs 4.8%, respectively), histologi-
+Post Hoc Analysis
+cal, endoscopic, and mucosal improvement (33.4% vs 16.0%),
+Serum IL-22 concentrations were evaluated to confirm
+and histological, endoscopic, and mucosal remission (10.7%
+risankizumab IL-23 pathway engagement. Among patients
+vs 2.1%). Similar results were observed for maintenance in
+receiving placebo throughout both the induction trial (ad-
+patients treated with 180 mg of risankizumab; there were
+ministered intravenously) and the maintenance trial (admin-
+numerically greater increases in the secondary clinical and
+istered subcutaneously), no difference was observed in the
+endoscopic outcomes among those without a history of intol-
+mean change in IL-22 from baseline to week 4 (-29.7%) and
+erance or inadequate response to advanced therapy vs those
+from baseline to week 52 (-31.9%) (P = .27 for week 4 and
+with a history of inadequate response to advanced therapy,
+P = .18 for week 52; eFigure 11I in Supplement 1). In contrast,
+including endoscopic improvement (59.8% vs 47.8%, respec-
+patients receiving risankizumab throughout both the induc-
+tively), endoscopic remission (36.6% vs 18.7%), histological,
+tion trial and the maintenance trial showed numeric suppres-
+endoscopic, and mucosal improvement (54.8% vs 38.8%),
+sion of IL-22 levels from baseline to week 4 (-47.5% for
+and histological, endoscopic, and mucosal remission (27.0%
+180 mg, P < .001; -30.2% for 360 mg, P = .02) and from base-
+vs 8.2%).
+line to week 52 (-66.3% for 180 mg and -57.0% for 360 mg,
+Numerically greater differences were also observed for
+P < .001 for both outcomes) (eFigure 11I in Supplement 1).
+maintenance in secondary clinical and endoscopic outcomes
+Patients who received risankizumab in the induction trial
+in patients treated with 360 mg of risankizumab without a his-
+demonstrated suppression at week 4 (-51.7%) continuing to
+tory of intolerance or inadequate response to advanced therapy
+week 52 (-62.1% in placebo group), suggesting a durable
+vs those with a history of inadequate response to advanced
+effect of risankizumab on the IL-23 pathway after 12 weeks of
+therapy, including endoscopic improvement (76.2% vs 38.8%,
+induction therapy (P < .001 for both outcomes).
+respectively), endoscopic remission (51.6% vs 15.1%), histo-
+logical, endoscopic, and mucosal improvement (69.3% vs
+Safety Outcomes for the Induction and Maintenance Trials
+33.1%), and histological, endoscopic, and mucosal remission
+In the induction trial, the most frequently reported adverse
+(32.1% vs 10.1%).
+events (using the Medical Dictionary for Regulatory Activi-
+For the induction trial, patients in the 1200 mg of ri-
+ties preferred terms) were COVID-19 (4.8%) and anemia (3.4%)
+sankizumab group had numerically larger reductions in
+in the risankizumab group and colitis ulcerative (10.2%) and
+high-sensitivity CRP from baseline to week 4 (-4.2 mg/L vs
+anemia (6.5%) in the placebo group (Table 4). The rate of se-
+-1.4 mg/L for placebo) and from baseline to week 12
+rious adverse events was 2.3% for risankizumab compared with
+(-4.4 mg/L vs -0.3 mg/L, respectively) (between-group dif-
+10.2% for placebo. One treatment-emergent death occurred in
+ference in mean change from baseline to week 4, -2.8 mg/L
+the risankizumab group and was due to respiratory failure
+[95% CI, -4.0 to -1.5 mg/L], P < .001; between-group differ-
+caused by COVID-19 pneumonia.
+ence in mean change from baseline to week 12, -4.1 mg/L
+In the maintenance trial, the most frequently reported
+[95% CI, -5.5 to -2.7 mg/L], P < .001) (eFigure 11A-B in
+adverse events among all treatment groups were colitis
+Supplement 1). Similar results were observed for fecal calpro-
+ulcerative (13.0% in the 180 mg of risankizumab group
+tectin from baseline to week 4 (-1106 mg/kg for risanki-
+and 13.8% in the 360 mg of risankizumab group vs 14.8% in
+zumab vs 306 mg/kg for placebo) and from baseline to week
+the placebo group) and COVID-19 (8.8% in the 180 mg
+12 (-1804 mg/kg vs -928 mg/kg, respectively); between-
+group and 13.3% in the 360 mg group vs 11.7% for placebo).
+group difference in mean change from baseline to week 4,
+Colitis ulcerative refers to the worsening of the underlying
+-1457 mg/kg [95% CI, -2036 to -879 mg/kg], P < .001;
+disease, which was defined at the investigator's discretion.
+between-group difference in mean change from baseline to
+Serious adverse events were reported in 5.2% in the 180 mg
+week 12, -876 mg/kg [95% CI, -1300 to -453 mg/kg],
+group and 5.1% in the 360 mg group vs 8.2% in the pla-
+P < .001) (eFigure 11C-D in Supplement 1).
+cebo group.
+jama.com
+JAMA September 17, 2024 Volume 332, Number 11
+893
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Emma Benbow on 09/01/2025
+Research Original Investigation
+Risankizumab for Ulcerative Colitis
+Table 4. Treatment-Emergent Adverse Events Through Week 12 of the Induction Trial and Through Week 52 of the Maintenance Trial
+Adverse events, No. (%)
+Induction trial (12 wk)a
+Maintenance trial (52 wk)
+1200 mg of
+risankizumab
+Placebo
+Risankizumab administered
+Placebo
+administered
+administered
+subcutaneously
+administered
+intravenously
+intravenously
+subcutaneously
+(n 651)
+(n 324)
+180 mg (n = 193)
+360 mg (n = 195)
+(n = 196)
+Adverse events
+Any
+274 (42.1)
+161 (49.7)
+140 (72.5)
+138 (70.8)
+150 (76.5)
+Possibly related to the study drugᵇ
+61 (9.4)
+26 (8.0)
+36 (18.7)
+34 (17.4)
+41 (20.9)
+Leading to discontinuation
+4 (0.6)
+12 (3.7)
+3 (1.6)
+5 (2.6)
+3 (1.5)
+of study drug
+Related to COVID-19
+35 (5.4)
+19 (5.9)
+20 (10.4)
+26 (13.3)
+27 (13.8)
+Seriousᶜ
+15 (2.3)
+33 (10.2)
+10 (5.2)
+10 (5.1)
+16 (8.2)
+Severed
+16 (2.5)
+33 (10.2)
+3 (1.6)
+6 (3.1)
+10 (5.1)
+Died
+1 (0.2)e
+0
+0
+1 (0.5)f
+0
+Most frequent adverse events (≥5% in any treatment group)9
+COVID-19
+31 (4.8)
+19 (5.9)
+17 (8.8)
+26 (13.3)
+23 (11.7)
+Anemia
+22 (3.4)
+21 (6.5)
+1 (0.5)
+1 (0.5)
+2 (1.0)
+Arthralgia
+20 (3.1)
+5 (1.5)
+11 (5.7)
+18 (9.2)
+9 (4.6)
+Headache
+19 (2.9)
+7 (2.2)
+9 (4.7)
+8 (4.1)
+15 (7.7)
+Nasopharyngitis
+18 (2.8)
+8 (2.5)
+18 (9.3)
+12 (6.2)
+16 (8.2)
+Colitis ulcerativeh
+11 (1.7)
+33 (10.2)
+25 (13.0)
+27 (13.8)
+29 (14.8)
+Treatment-emergent adverse events of special interest⁹,i
+Hypersensitivity
+24 (3.7)
+6 (1.9)
+20 (10.4)
+10 (5.1)
+10 (5.1)
+Hepatic events
+10 (1.5)
+14 (4.3)
+3 (1.6)
+13 (6.7)
+1 (0.5)
+Serious infections
+4 (0.6)
+4 (1.2)
+2 (1.0)
+1 (0.5)
+4 (2.0)
+Injection site reactions
+4 (0.6)
+4 (1.2)
+7 (3.6)
+5 (2.6)
+2 (1.0)
+Herpes zoster
+2 (0.3)
+0
+2 (1.0)
+1 (0.5)
+3 (1.5)
+Opportunistic infection¹
+0
+0
+0
+1 (0.5)
+0
+Active tuberculosis
+0
+0
+0
+0
+0
+Serious hypersensitivity
+0
+0
+0
+0
+0
+Adjudicated anaphylactic reactions
+0
+0
+0
+0
+0
+Adjudicated major cardiovascular events
+0
+0
+0
+0
+0
+Malignancies (all types)
+0
+2 (0.6)
+0
+2 (1.0)
+1 (0.5)
+Non-melanoma skin cancer
+0
+0
+0
+0
+1 (0.5)
+a One patient randomized to 1200 mg of risankizumab was treated with
+i Treatment-emergent adverse events began either on or after the first dose of
+placebo.
+the study drug, during the induction period, before the first dose of study drug
+b Assessed by study investigators.
+during the extended treatment period, or within 140 days after the last dose
+of the study drug in the maintenance trial.
+C Met any of the following criteria: death, life-threatening, hospitalization or
+j
+prolongation of hospitalization, congenital anomaly, persistent or significant
+Includes both nonserious and serious hypersensitivity reaction events. The
+disability or incapacity, important medical event requiring a medical or a
+events were identified with standardized MedDRA queries. The broader
+surgical intervention to prevent serious outcome.
+medical concept terms related to the injection and infusion site (ie, injection
+site rash) overlap with customized MedDRA queries for injection site reaction.
+d Classified as grade 3 or above using version 4.03 of the Common Terminology
+Criteria for Adverse Events.
+k Identified with search criteria covering the standardized MedDRA queries of
+hepatic failure, fibrosis, and cirrhosis and other liver damage-related
+e Due to respiratory failure caused by COVID-19 pneumonia.
+conditions, hepatitis, noninfectious, cholestasis and jaundice of hepatic origin,
+f Due to the colon adenocarcinoma and not related to study drug.
+liver-related investigations, signs and symptoms, and liver-related coagulation
+g Ordered by decreasing frequency in the 1200 mg of risankizumab group.
+and bleeding disturbances.
+h Medical Dictionary for Regulatory Activities (MedDRA) preferred term.
+I
+Excludes tuberculosis and herpes zoster.
+Includes, but is not limited to, worsening of the underlying disease, which was
+defined at the investigator's discretion.
+One non-treatment-emergent death in the 360 mg of ri-
+carcinoma in a patient with a history of a breast lump and 1
+sankizumab group due to colon adenocarcinoma was re-
+non-treatment-emergent colon adenocarcinoma, which was
+ported, which existed prior to administration of the first dose
+fatal). Both events were determined to be unrelated to the study
+of the study drug. Malignancies were reported in 2 patients un-
+drug. Exposure-adjusted event rates for the induction and
+dergoing treatment with risankizumab (1 invasive ductal breast
+maintenance trials appear in eTables 7-10 in Supplement 1.
+894
+JAMA September 17, 2024 Volume 332, Number 11
+jama.com
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Emma Benbow on 09/01/2025
+Risankizumab for Ulcerative Colitis
+Original Investigation Research
+This finding is consistent with the results reported here from
+Discussion
+the induction and maintenance trials. Numerically higher clini-
+cal remission and endoscopic outcomes were observed in pa-
+In the phase 3 induction and maintenance trials, treatment with
+tients without a history of inadequate response to advanced
+risankizumab improved rates of clinical remission compared
+therapy during the maintenance trial for the 360-mg dose of
+with placebo in patients with moderately to severely active ul-
+risankizumab compared with 180-mg dose, but not in pa-
+cerative colitis. In the induction trial, treatment with risanki-
+tients with a history of inadequate response to advanced
+zumab improved endoscopic and histological secondary out-
+therapy. Although the reason for the attenuated efficacy of anti-
+comes characterized by endoscopic improvement; endoscopic
+inflammatory agents in patients with ulcerative colitis and a
+remission; and histological, endoscopic, and mucosal improve-
+history of inadequate response to advanced therapy is not fully
+ment. These improvements were also observed in the main-
+understood, there is accumulating evidence that uncon-
+tenance trial.
+trolled inflammation may be associated with immunological,
+Endoscopic and histological inflammation in patients with
+structural, and neuromuscular changes in the diseased colon
+ulcerative colitis have been identified as important indica-
+that may be less responsive to treatment. 24,25
+tors of disease activity. 16 Adequate healing (as measured by his-
+tological, endoscopic, and mucosal improvement) has been as-
+Limitations
+sociated with improved long-term outcomes in patients with
+The 2 randomized clinical trials had several limitations. First,
+ulcerative colitis, including decreased steroid use, hospital-
+in the maintenance trial, drug levels of risankizumab were de-
+ization, and colectomy avoidance. 17 After 1 year of treatment
+tectable until week 16 in the placebo group (no longer receiv-
+with either maintenance dose of risankizumab (180 mg or
+ing risankizumab but received it during the induction trial),
+360 mg administered subcutaneously), more than 40% of
+demonstrating continued risankizumab exposure from the in-
+patients had histological and endoscopic improvement.
+duction trial; this may potentially inflate the response rates for
+Further research is needed to define the optimal assessment
+outcomes in the placebo group during the maintenance trial. 19
+of histological healing as a measure of disease remission and
+Persistent suppression of serum concentrations of IL-22 (an ef-
+its long-term effect.
+fector cytokine and biomarker of anti-IL-23 therapy) was ob-
+In the maintenance trial, 75% of the patient population
+served from week 4 to week 52.
+had a history of inadequate response to advanced therapies.
+Second, patients with prior exposure to ustekinumab were
+Safety outcomes in this trial were consistent with previously
+excluded from the trial. The efficacy of risankizumab in ul-
+reported safety outcomes in clinical trials of risankizumab for
+cerative colitis for patients with prior exposure to emerging
+Crohn disease. 18,19 Many patients with inflammatory bowel
+therapies in the evolving inflammatory bowel disease treat-
+disease have a history of intolerance or an inadequate
+ment landscape requires further study. Third, follow-up be-
+response to advanced therapies (including infliximab, adali-
+yond 52 weeks is not available.
+mumab, golimumab, and vedolizumab; the Janus kinase
+inhibitors tofacitinib, filgotinib, and upadacitinib; and ozani-
+mod, which is a sphingosine-1-phosphate receptor modula-
+Conclusions
+tor) that inhibit inflammatory pathways of inflammatory
+bowel disease. 20,21
+Compared with placebo, risankizumab improved clinical re-
+Evidence from other trials indicates that response rates are
+mission rates in an induction trial and in a maintenance trial
+typically higher for patients without a history of inadequate
+for patients with moderately to severely active ulcerative coli-
+response to advanced therapy than the rates for patients with
+tis. Further study is needed to identify benefits beyond the 52-
+a history of inadequate response to advanced therapy. 6,7,22,23
+week follow-up.
+ARTICLE INFORMATION
+Author Affiliations: Department of
+Department of Gastroenterology and INSERM
+Correction: This article was corrected on August 7,
+Hepato-Gastroenterology and Digestive Oncology,
+U1256, University Hospital of Nancy, Lorraine
+2024, to remove "ustekinumab" from the
+University Hospital CHU of Liège, Liège, Belgium
+University, Vandoeuvre, France (Peyrin-Biroulet);
+parenthetical list of advanced therapies under the
+(Louis); Department of Internal Medicine,
+Department of Gastroenterology, Amsterdam
+heading "Additional Prespecified Analyses" and
+University Hospital Schleswig-Holstein,
+University Medical Centers, Amsterdam, the
+update the legend for eFigure 3 in Supplement 1.
+Christian-Albrecht University of Kiel, Kiel, Germany
+Netherlands (D'Haens); Department of
+(Schreiber); Inflammatory Bowel Disease Unit,
+Gastroenterology and Hepatology, Kyorin
+Accepted for Publication: June 6, 2024.
+Division of Gastroenterology and Hepatology,
+University School of Medicine, Mitaka, Japan
+Published Online: July 22, 2024.
+University of Calgary, Calgary, Alberta, Canada
+(Hisamatsu); Department of Gastroenterology,
+doi:10.1001/jama.2024.12414
+(Panaccione); Imelda GI Clinical Research Center,
+Infectiology and Rheumatology, Charité-
+Correction: This article was corrected on August 7,
+Imelda General Hospital, Bonheiden, Belgium
+Universitaetsmedizin Berlin, Corporate Member of
+2024, to remove "ustekinumab" from the
+(Bossuyt); Department of Gastroenterology and
+Freie Universität Berlin and Humboldt-Universität
+parenthetical list of advanced therapies under the
+Hepatology, University Hospital Zurich, Zurich,
+zu Berlin, Berlin, Germany (Siegmund); State Key
+heading "Additional Prespecified Analyses" and
+Switzerland (Biedermann); Henry D. Janowitz
+Laboratory of Cancer Biology, National Clinical
+update the legend for eFigure 3 in Supplement 1.
+Division of Gastroenterology, Department of
+Research Center for Digestive Diseases and Xijing
+This article was corrected on October 24, 2024, to
+Medicine, Icahn School of Medicine at Mount Sinai,
+Hospital of Digestive Diseases, Fourth Military
+fix the affiliation for Nobuo Aoyama and add the
+New York, New York (Colombel); Department of
+Medical University, Xi'an, China (Wu); Division of
+names and affiliations for 6 investigators to the list
+Gastroenterology, Royal London Hospital, Barts
+Gastroenterology, University of California-San
+of nonauthor collaborators in Supplement 3.
+Health NHS Trust, London, England (Parkes);
+Diego, La Jolla (Boland); F. Widjaja Inflammatory
+jama.com
+JAMA September 17, 2024 Volume 332, Number 11
+895
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Emma Benbow on 09/01/2025
+Research Original Investigation
+Risankizumab for Ulcerative Colitis
+Bowel Disease Institute, Cedars Sinai Medical
+Pfizer, and Viatris; receiving lecture fees from
+from AbbVie, Alfresa Pharma, Boston Scientific,
+Center, Los Angeles, California (Melmed); IBD
+AbbVie, Janssen, Pfizer, and Takeda; receiving
+Daiichi Sankyo, EA Pharma, Janssen, JIMRO, Kissei
+Center, IRCCS Humanitas Research Hospital,
+advisory board fees from AbbVie, Arena
+Pharmaceutical Co, Kyorin Pharmaceutical,
+Rozzano, Milan, Italy (Armuzzi); Department of
+Pharmaceuticals, Bristol Myers Squibb, Hospira,
+Mitsubishi Tanabe Pharma, Mochida
+Biomedical Sciences, Humanitas University, Pieve
+Janssen, Merck, Mundipharma, Pentax Medical,
+Pharmaceutical, Nippon Kayaku, Pfizer, Takeda, and
+Emanuele, Milan, Italy (Armuzzi); AbbVie Inc, North
+Pfizer, PSI contract research organization, Roche,
+Zeria Pharmaceutical; receiving consulting fees
+Chicago, Illinois (Levine, Chen, Cheng, Shu, Duan,
+Sandoz, and Takeda; and receiving personal fees
+from AbbVie, Boston Scientific, Bristol Myers
+Pivorunas, Sanchez Gonzalez, D'Cunha, Neimark,
+from AbbVie, Bristol Myers Squibb, Clinical
+Squibb, EA Pharma, Janssen, Nichi-lko, Gilead
+Wallace); AbbVie Deutschland GmbH and Co KG,
+Academic Group, Celltrion, Falk, European Pharma
+Sciences, Eli Lilly, Takeda, Bristol Myers Squibb,
+Ludwigshafen, Germany (Kalabic); First
+Group, Galapagos, Janssen, Lilly, Materia Prima,
+Mitsubishi Tanabe Mochida Pharmaceutical,
+Department of Medicine, University Hospital
+Pentax, Pfizer, Scope, Takeda, Arena, Circle Pharma
+Nichi-Iko Pharmaceutical Co, and Pfizer; and
+Erlangen, Friedrich-Alexander-University
+Inc, Globalport, PSI contract research organization,
+receiving lecture fees from AbbVie, Boston
+Erlangen-Nürnberg, Erlangen, Germany (Atreya);
+Roche, and Tetrameros. Dr Biedermann reported
+Scientific, Bristol Myers Squibb, EA Pharma, Gilead
+Department of Gastroenterology and Hepatology,
+receiving lecture and consulting fees from Takeda,
+Sciences, Janssen, JIMRO, Lilly, Mitsubishi Tanabe
+University Hospitals Leuven, KU Leuven, Leuven,
+Sanofi, AbbVie, Falk, Bristol Myers Squibb, Janssen,
+Pharma, Mochida Pharmaceutical, Kissei
+Belgium (Ferrante); Division of Gastroenterology
+Lilly, and Pfizer and serving on advisory boards for
+Pharmaceutical, Pfizer, and Takeda. Dr Siegmund
+and Hepatology, Mayo Clinic College of Medicine
+AbbVie, Amgen, Aquilion, Bristol Myers Squibb,
+reported serving as a consultant to AbbVie, Abivax,
+and Science, Rochester, Minnesota (Loftus).
+Esocap, Falk, Janssen, Pfizer, Takeda, and Sanofi.
+Arena, Bristol Myers Squibb, Boehringer Ingelheim,
+Author Contributions: Dr Louis had full access to
+Dr Colombel reported receiving consulting fees
+CED Service GmbH, Celgene, CT Scout, Endpoint
+all of the data in the study and takes responsibility
+from AbbVie, Amgen, AnaptysBio, Allergan, Arena
+Health, Falk, Forga Software, Galapagos, Janssen,
+for the integrity of the data and the accuracy of the
+Pharmaceuticals, Boehringer Ingelheim, Bristol
+Eli Lilly, Materia Prima, Pfizer, Takeda, Pharma
+data analysis. Drs Louis and Schreiber are co-first
+Myers Squibb, Celgene Corporation, Celltrion, Eli
+Insight, Predictimmune, and PsiCro; receiving
+authors.
+Lilly, Ferring Pharmaceuticals, Galmed Research,
+speaker fees from AbbVie, Bristol Myers Squibb,
+Concept and design: Louis, Schreiber, Biedermann,
+GSK, Genentech (Roche), Immunic, Janssen
+CED Service GmbH, Chiesi, Falk, Ferring, Gilead,
+Colombel, Levine, Neimark, Wallace, Ferrante.
+Pharmaceuticals, Kaleido Biosciences, Immunic,
+Janssen, Lilly, Materia Prima, Takeda, and Pfizer;
+Acquisition, analysis, or interpretation of data: All
+Invea, Iterative Scopes, Merck, Landos, Microba
+and receiving grants from Arena/Pfizer. Dr Boland
+authors.
+Life Science, Novartis, Otsuka Pharmaceutical,
+reported receiving grants from Merck, Prometheus
+Drafting of the manuscript: Louis, Panaccione,
+Pfizer, Protagonist Therapeutics, Prometheus,
+Biosciences, Merck, Bristol Myers Squibb, and
+Bossuyt, Biedermann, Colombel, Parkes, Levine,
+Sanofi, Seres, Sun, Takeda, Teva, TiGenix, Union,
+Gilead and receiving personal fees from Gilead,
+D'Cunha, Neimark, Wallace, Atreya.
+and Vifor; receiving grants, lecture fees, and other
+Pfizer, Merck, and Bristol Myers Squibb for serving
+Critical review of the manuscript for important
+personal fees from Amgen, Celgene Corporation,
+on advisory boards and consulting. Dr Melmed
+intellectual content: All authors.
+Kaleido Biosciences, and TiGenix; receiving
+reported serving as a consultant to AbbVie, Arena,
+Statistical analysis: Colombel, Levine, Chen, Cheng,
+received research grants from AbbVie, Janssen
+Boeringer Ingelheim, Bristol Myers Squibb, Dieta,
+Shu, Duan, D'Cunha, Atreya.
+Pharmaceuticals, Takeda, and Bristol Myers Squibb;
+Ferring, Fresenius Kalbi, Genentech, Gilead,
+Administrative, technical, or material support:
+receiving payment for lectures from AbbVie and
+Iterative Scopes, Lilly, Janssen, Oshi Health, Pfizer,
+Schreiber, Wu, Levine, Pivorunas, Neimark, Atreya.
+Takeda; and having stock options in Intestinal
+Prometheus Labs, Samsung Bioepis, Takeda,
+Supervision: Schreiber, Biedermann, D'Haens,
+Biotech Development. Dr Parkes reported receiving
+Techlab, and Viatris; receiving grants from Pfizer;
+Hisamatsu, Siegmund, Wu, Boland, Armuzzi,
+personal fees from AbbVie, Allergan, Bristol Myers
+having equity in Dieta; receiving personal fees from
+Levine, Kalabic, Neimark, Wallace, Atreya, Ferrante.
+Squibb, Celltrion, Ferring, Galapagos, Janssen,
+OptionCare and Verantos; having a patent issued
+Napp Pharmaceuticals, Pfizer, Sorriso
+for treating inflammatory bowel disease using
+Conflict of Interest Disclosures: Dr Louis reported
+Pharmaceuticals, Takeda, and Tillotts; receiving
+ultraviolet light; and having a patent pending for
+receiving research grants from Janssen, Pfizer, and
+research funding from AbbVie and Takeda; and
+treating inflammatory bowel disease with
+Takeda; receiving educational grants from AbbVie,
+serving as the director and being a shareholder in
+antifungal therapy. Dr Armuzzi reported receiving
+Janssen, MSD (Merck Sharp & Dohme), and Takeda;
+Ampersand Health. Dr Peyrin-Biroulet reported
+personal fees from AbbVie, Allergan, Amgen,
+receiving speaker fees from AbbVie, Falk, Ferring,
+receiving personal fees from AbbVie, Abivax,
+Arena, Biogen, Boehringer Ingelheim, Bristol Myers
+Hospira, Janssen, MSD, Pfizer, and Takeda; serving
+Adacyte, Alimentiv, Alma Bio Therapeutics, Amgen,
+Squibb, Celltrion, Eli Lilly, Falk, Ferring, Galapagos,
+on advisory boards for AbbVie, Arena, Celgene,
+Applied Molecular Transport, Arena, Biogen, Bristol
+Gilead, Janssen, Lionhealth, MSD, Mylan, Nestlé,
+Ferring, Galapagos, Gilead, Hospira, Janssen, MSD,
+Myers Squibb, Celltrion, CONNECT Biopharm,
+Pfizer, Protagonist Therapeutics, Roche, Samsung
+Pfizer, and Takeda; and serving as a consultant for
+Cytoki Pharma, Enthera, Ferring, Fresenius Kabi,
+Bioepis, Sandoz, Takeda, Teva Pharmaceuticals, and
+AbbVie. Dr Schreiber reported receiving consulting
+Galapagos, Genentech, Gilead, Gossamer Bio, GSK,
+Tillots Pharma; receiving speaker fees from AbbVie,
+fees from AbbVie, Amgen, Arena, Bristol Myers
+HAC-Pharma, IAG Image Analysis, Index
+Amgen, Biogen, Bristol Myers Squibb, Celltrion, Eli
+Squibb, Boehringer Ingelheim, Celltrion, Falk
+Pharmaceuticals, Inotrem, Janssen, Lilly, Medac,
+Lilly, Ferring, Galapagos, Gilead, Janssen, Merck &
+Pharma, Ferring, Galapagos/Gilead, Genentech/
+Mopac, Morphic, MSD, Norgine, Nordic Pharma,
+Co, Mitsubishi Tanabe, Novartis, Pfizer, Roche,
+Roche, GSK (GlaxoSmithKline), IMAB Biophatrma,
+Novartis, OM Pharma, ONO Pharma, OSE
+Samsung Bioepis, Sandoz, Takeda, and Tigenix; and
+Lilly, MSD, Morphic, Novartis, Pfizer, Shire, Takeda,
+Immunotherapeutics, Pandion Therapeutics,
+receiving research grants from Biogen, Merck & Co,
+and Ventyx and receiving speaker fees from Ferring,
+Par'Immune, Pfizer, Prometheus, Protagonist,
+Pfizer, and Takeda. Dr Levine reported being a
+Galapagos/Gilead, MSD, Pfizer, and Takeda.
+Roche, Roivant, Sanofi, Sandoz, Takeda,
+former AbbVie employee (at the time the study was
+Dr Panaccione reported receiving consulting fees,
+Theravance, Thermo Fisher, Tigenix, Tillots, Viatris,
+conducted) and owning stock in AbbVie. Dr Kalabic
+speaker fees, and research support from Abbott,
+Vifor, Ysopia, Abivax, Samsung, Ventyx, Roivant,
+reported having a patent pending for risankizumab
+AbbVie, Abbivax, Alimentiv (formerly Robarts),
+and Vectivbio and receiving grants from Celltrion
+to treat Crohn disease and ulcerative colitis.
+Amgen, Arena Pharmaceuticals, AstraZeneca,
+and Fresenius Kabi. Dr D'Haens reported receiving
+Drs Kalabic, Chen, Cheng, Shu, Duan, Pivorunas,
+Biogen, Boehringer Ingelheim, Bristol Myers
+personal fees from AbbVie, Alimentiv, AstraZeneca,
+Sanchez Gonzalez, D'Cunha, Neimark, and Wallace
+Squibb, Celgene, Celltrion, Cosmos
+Pfizer, Johnson & Johnson, Bristol Myers Squibb,
+are employees of AbbVie. In addition, Dr Wallace
+Pharmaceuticals, Eisai, Elan, Eli Lilly, Ferring,
+Boehringer Ingelheim, Eli Lilly, GSK, Immunc,
+reported having a patent pending for use of
+Galapagos, Fresenius Kabi, Genentech, Gilead
+Polpharm, Takeda, and Ventyx; receiving grants
+risankizumab to treat Crohn disease and ulcerative
+Sciences, GSK, BIOJAMP, Janssen, Merck, Mylan,
+from Pfizer, Takeda, and Tillotts; serving as an
+colitis. Dr Atreya reported receiving personal fees
+Novartis, Oppilan Pharma, Organon, Pandion
+adviser to AbbVie, Alimentiv, AstraZeneca, Bristol
+from AbbVie, Arena Pharmaceuticals, AstraZeneca,
+Pharma, Pendopharm, Pfizer, Progenity,
+Meyers Squibb, Boehringer Ingelheim, Celltrion, Eli
+Biogen, Boehringer Ingelheim, Bristol Myers
+Prometheus Biosciences, Protagonist Therapeutics,
+Lilly, Galapagos, Pfizer, Immunic, Johnson &
+Squibb, Celgene, Celltrion Healthcare, the Falk
+Roche, Sandoz, Satisfai Health, Sublimity
+Johnson, Takeda, Tillotts, Ventyx, and Vifor
+Foundation, Ferring, Fresenius Kabi, Galapagos,
+Therapeutics, Takeda Pharmaceuticals, Theravance
+Pharma; and receiving speaker fees from AbbVie,
+Gilead, InDex Pharmaceuticals, Janssen-Cilag,
+Biopharma, Trellus, Viatris, Ventyx, and UCB.
+Johnson & Johnson, Pfizer, Takeda, and Tillotts.
+Kliniksa Pharmaceuticals, Lilly, MSD, Novartis,
+Dr Bossuyt reported receiving research grants from
+Dr Hisamatsu reported receiving research grants
+Pfizer, Roche, Samsung Bioepsis, Stelic Institute,
+AbbVie, Amgen, Janssen, Mundipharma, Mylan,
+896
+JAMA September 17, 2024 Volume 332, Number 11
+jama.com
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Emma Benbow on 09/01/2025
+Risankizumab for Ulcerative Colitis
+Original Investigation Research
+Takeda Pharma, Tillotts Pharma AG, and Viatris and
+4. Gisbert JP, Chaparro M. Primary failure to an
+16. Turner D, Ricciuto A, Lewis A, et al;
+receiving research/educational support from
+anti-TNF agent in inflammatory bowel disease:
+International Organization for the Study of IBD.
+AbbVie, Biogen, InDex Pharmaceuticals, Takeda
+switch (to a second anti-TNF agent) or swap (for
+STRIDE-II: an update on the Selecting Therapeutic
+Pharma, and Tillotts Pharma AG. Dr Ferrante
+another mechanism of action)? J Clin Med. 2021;10
+Targets in Inflammatory Bowel Disease (STRIDE)
+reported receiving personal fees from AbbVie,
+(22):5318. doi:10.3390/jcm10225318
+initiative of the International Organization for the
+AgomAb Therapeutics, Biogen, Boehringer
+5. Verstockt B, Salas A, Sands BE, et al; Alimentiv
+Study of IBD (IOIBD): determining therapeutic goals
+Ingelheim, Celgene, Celltrion, the Falk Foundation,
+Translational Research Consortium (ATRC). IL-12
+for treat-to-target strategies in IBD. Gastroenterology.
+Eli Lilly, Ferring, Janssen-Cilag, MRM Health, MSD,
+and IL-23 pathway inhibition in inflammatory bowel
+2021;160(5):1570-1583. doi:10.1053/j.gastro.2020.12.
+Pfizer, Regeneron, Takeda, Thermo Fisher, Truvion
+disease. Nat Rev Gastroenterol Hepatol. 2023;20
+031
+Healthcare, and Viatris; receiving research grants
+(7):433-446. doi:10.1038/s41575-023-00768-1
+17. Parkes G, Ungaro RC, Danese S, et al.
+from AbbVie, Biogen, Exempli Gratia
+Pharmaceuticals, Janssen, Pfizer, Takeda, and
+6. Sands BE, Sandborn WJ, Panaccione R, et al;
+Correlation of mucosal healing endpoints with
+Viatris; and receiving fees for speaking from Biogen,
+UNIFI Study Group. Ustekinumab as induction and
+long-term clinical and patient-reported outcomes in
+Boehringer Ingelheim, the Falk Foundation, Ferring,
+maintenance therapy for ulcerative colitis. N Engl J
+ulcerative colitis. J Gastroenterol. 2023;58(10):
+Janssen-Cilag, MSD, Pfizer, Takeda, Truvion
+Med. 2019;381(13):1201-1214. doi:10.1056/
+990-1002. doi:10.1007/s00535-023-02013-7
+Healthcare, and Viatris. Dr Loftus reported
+NEJMoa1900750
+18. D'Haens G, Panaccione R, Baert F, et al.
+receiving consulting fees from AbbVie, Alvotech,
+7. D'Haens G, Dubinsky M, Kobayashi T, et al;
+Risankizumab as induction therapy for Crohn's
+Amgen, Arena, Astellas, Avalo, Boehringer
+LUCENT Study Group. Mirikizumab as induction
+disease: results from the phase 3 ADVANCE and
+Ingelheim, Bristol Myers Squibb, Celltrion
+and maintenance therapy for ulcerative colitis.
+MOTIVATE induction trials. Lancet. 2022;399
+Healthcare, Eli Lilly, Fresenius Kabi, Genentech,
+N Engl J Med. 2023;388(26):2444-2455. doi:10.
+(10340):2015-2030. doi:10.1016/S0140-6736(22)
+Gilead Sciences, GSK, Gossamer Bio, lota
+1056/NEJMoa2207940
+00467-6
+Biosciences, Iterative Health, Janssen, Morphic
+8. Skyrizi (risankizumab): highlights of prescribing
+19. Ferrante M, Panaccione R, Baert F, et al.
+Therapeutic, Ono Pharma, Protagonist, Sun
+information. Package insert. AbbVie; 2022.
+Risankizumab as maintenance therapy for
+Pharma, Surrozen, Takeda, TR1X, and UCB Pharma;
+Accessed July 20, 2023. https://www.accessdata.
+moderately to severely active Crohn's disease:
+receiving research support from AbbVie,
+fda.gov/drugsatfda_docs/label/2022/
+results from the multicentre, randomised,
+AstraZeneca, Bristol Myers Squibb, Celgene/
+761262s000lbl.pdf
+double-blind, placebo-controlled, withdrawal
+Receptos, Genentech, Gilead Sciences, Gossamer
+phase 3 FORTIFY maintenance trial. Lancet. 2022;
+Bio, Janssen, Pfizer, Receptos, Takeda, Theravance,
+9. Skyrizi (risankizumab): annex I summary of
+399(10340):2031-2046. doi:10.1016/S0140-6736
+and UCB Pharma; and being a shareholder of Exact
+product characteristics. Package insert. AbbVie.
+(22)00466-4
+Sciences. No other disclosures were reported.
+Accessed August 5, 2023. https://www.ema.
+europa.eu/en/documents/product-information/
+20. Ben-Horin S, Chowers Y. Tailoring anti-TNF
+Funding/Support: Both studies were funded by
+skyrizi-epar-product-information_en.pdf
+therapy in IBD: drug levels and disease activity. Nat
+AbbVie.
+Rev Gastroenterol Hepatol. 2014;11(4):243-255.
+10. Skyrizi (risankizumab): prescribing information:
+Role of the Funder/Sponsor: AbbVie had a role in
+doi:10.1038/nrgastro.2013.253
+4th edition. AbbVie. Accessed July 12, 2023.
+the design and conduct of the study; collection,
+https://www.pmda.go.jp/english/review-services/
+21. Singh S, Murad MH, Fumery M, Dulai PS,
+management, analysis, and interpretation of the
+reviews/approved-information/drugs/OO01.
+Sandborn WJ. First- and second-line
+data; preparation, review, or approval of the
+html#select19
+pharmacotherapies for patients with moderate to
+manuscript; and decision to submit the manuscript
+severely active ulcerative colitis: an updated
+for publication.
+11. Ulcerative colitis: clinical trial endpoints:
+network meta-analysis. Clin Gastroenterol Hepatol.
+guidance for industry. News release. US Food and
+Group Information: The members of the INSPIRE
+2020;18(10):2179-2191.e6.doi:10.1016/j.cgh.2020.01.
+Drug Administration; August 2016. Accessed June
+008
+and COMMAND Study Group appear in
+12, 2024. https://www.fda.gov/media/99526/
+Supplement 3.
+download
+22. Feagan BG, Rubin DT, Danese S, et al. Efficacy
+Data Sharing Statement: See Supplement 4.
+of vedolizumab induction and maintenance therapy
+12. Ulcerative colitis: developing drugs for
+in patients with ulcerative colitis, regardless of prior
+Additional Contributions: We thank the trial
+treatment guidance for industry. News release.
+exposure to tumor necrosis factor antagonists. Clin
+investigators and the patients who participated in
+US Food and Drug Administration; April 2022.
+Gastroenterol Hepatol. 2017;15(2):229-239.e5. doi:
+these clinical trials. We additionally thank Paulette
+Accessed June 12, 2024. https://www.fda.gov/
+10.1016/j.cgh.2016.08.044
+Krishack, PhD, and Karen B. Chien, PhD (both with
+media/158016/download
+AbbVie), for providing medical writing assistance;
+23. Sandborn WJ, Vermeire S, Peyrin-Biroulet L,
+13. Australian Therapeutic Goods Administration.
+Angela T. Hadsell, BA (AbbVie), for providing
+et al. Etrasimod as induction and maintenance
+International scientific guideline: guideline on the
+editorial support; and Paloma Mendez, MS
+therapy for ulcerative colitis (ELEVATE): two
+development of new medicinal products for the
+(AbbVie), for providing operational leadership and
+randomised, double-blind, placebo-controlled,
+treatment of ulcerative colitis. Accessed June 12,
+oversight of the clinical trials. The individuals listed
+phase 3 studies. Lancet. 2023;401(10383):1159-1171.
+2024. https://www.tga.gov.au/resources/resource/
+were compensated for their contributions.
+doi:10.1016/S0140-6736(23)00061-2
+international-scientific-guidelines/international-
+scientific-guideline-guideline-development-new-
+24. Friedrich M, Pohin M, Jackson MA, et al; Oxford
+REFERENCES
+medicinal-products-treatment-ulcerative-colitis
+IBD Cohort Investigators; Roche Fibroblast Network
+1. Gros B, Kaplan GG. Ulcerative colitis in adults:
+Consortium. IL-1-driven stromal-neutrophil
+14. Loftus EV Jr, Ananthakrishnan AN, Lee WJ, et al.
+a review. JAMA. 2023;330(10):951-965. doi:10.
+interactions define a subset of patients with
+Content validity and psychometric evaluation of the
+1001/jama.2023.15389
+inflammatory bowel disease that does not respond
+Functional Assessment of Chronic Illness
+to therapies. Nat Med. 2021;27(11):1970-1981.
+2. Feig JL, Gribetz ME, Lebwohl MG. Chronic lichen
+Therapy-Fatigue (FACIT-Fatigue) in patients with
+doi:10.1038/s41591-021-01520-5
+sclerosus successfully treated with intralesional
+Crohn's disease and ulcerative colitis.
+adalimumab. Br J Dermatol. 2016;174(3):687-689.
+Pharmacoecon Open. 2023;7(5):823-840. doi:10.
+25. Torres J, Billioud V, Sachar DB, Peyrin-Biroulet
+doi:10.1111/bjd.14212
+1007/s41669-023-00419-w
+L, Colombel JF. Ulcerative colitis as a progressive
+disease: the forgotten evidence. Inflamm Bowel Dis.
+3. Han SW, McColl E, Barton JR, James P, Steen IN,
+15. Feagan BG, Rochon J, Fedorak RN, et al;
+2012;18(7):1356-1363. doi:10.1002/ibd.22839
+Welfare MR. Predictors of quality of life in ulcerative
+North American Crohn's Study Group Investigators.
+colitis: the importance of symptoms and illness
+Methotrexate for the treatment of Crohn's disease.
+representations. Inflamm Bowel Dis. 2005;11(1):24-
+N Engl J Med. 1995;332(5):292-297. doi:10.1056/
+34. doi:10.1097/00054725-200501000-00004
+NEJM199502023320503
+jama.com
+JAMA September 17, 2024 Volume 332, Number 11
+897
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Emma Benbow on 09/01/2025

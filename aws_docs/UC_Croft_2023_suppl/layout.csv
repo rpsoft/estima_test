@@ -1,0 +1,55 @@
+'Page number,'Layout,'Text,'Reading Order,'Confidence score % (Layout)
+'1,'Title 1,"'SUPPLEMENTARY MATERIAL",'0,'42.16308594
+'1,'Text 1,"'Safety and efficacy of multimatrix mesalamine in paediatric patients with mild-to-moderate ulcerative colitis: a phase 3, randomised, double-blind study",'1,'64.69726563
+'1,'Text 2,"'Nicholas Michael Croft MBBS, 1,2 Bartosz Korczowski MD,³ Jarosław Kierkus MD,⁴ Beatriz Caballero MD,⁵ Manoj Kumar Thakur MS⁶",'2,'96.87500000
+'1,'Text 3,"'¹Blizard Institute, Faculty of Medicine, Queen Mary University of London, London, UK; 2 Paediatric Gastroenterology, Royal London Children's Hospital, Barts Health NHS Trust, London, UK; ³Department of Pediatrics and Pediatric Gastroenterology, College of Medical Sciences, University of Rzeszów, Rzeszów, Poland; ⁴Department of Gastroenterology, Hepatology and Feeding Disorders, Children's Memorial Health Institute, Warsaw, Poland; ⁵Takeda Clinical Science, Zurich, Switzerland; ⁶Takeda Development Center Americas, Inc., Lexington, MA, USA.",'3,'97.55859375
+'1,'Page number 1,"'1",'4,'74.56054688
+'2,'Title 2,"'Table of Contents",'5,'43.31054688
+'2,'Text 4,"'Supplementary Methods",'6,'92.23632813
+'2,'Text 5,"'3",'7,'94.87304688
+'2,'Text 6,"'Supplementary Table 1. Common prior excluded treatments",'8,'96.72851563
+'2,'Text 7,"'3",'9,'96.14257813
+'2,'Text 8,"'Supplementary Table 2. Outcome measures",'10,'97.70507813
+'2,'Text 9,"'5",'11,'97.60742188
+'2,'Text 10,"'Supplementary Results",'12,'94.04296875
+'2,'Text 11,"'8",'13,'97.36328125
+'2,'Text 12,"'Supplementary Table 3. Patient disposition",'14,'96.97265625
+'2,'Text 13,"'8",'15,'96.38671875
+'2,'Page number 2,"'2",'16,'80.61523438
+'3,'Title 3,"'Supplementary Methods",'17,'49.21875000
+'3,'Text 14,"'Inclusion and exclusion criteria",'18,'75.29296875
+'3,'Text 15,"'Eligible patients were 5-17 years of age, with body weight of 18-90 kg and a confirmed diagnosis of mild-to-moderate ulcerative colitis (UC), established by sigmoidoscopy/colonoscopy with compatible histology. Patients were excluded if they had severe UC, defined as Physician's Global Assessment (PGA) score of 3 at baseline, Crohn's disease, bleeding disorders, and/or active peptic ulcer disease. The common prior treatments that are excluded medications for this study are detailed in Supplementary Table 1. During the study, administration of the following medication was not permitted and would result in withdrawal of the subject:",'19,'98.58398438
+'3,'List 1,"",'20,'94.18945313
+'3,'Text 16 - Part of List 1,"'Systemic or rectal corticosteroids",'21,'96.92382813
+'3,'Text 17 - Part of List 1,"'Other medications containing 5-aminosalicylic acid (5-ASA; e.g. sulfasalazine or mesalamine/mesalazine), including topical administration",'22,'96.48437500
+'3,'Text 18 - Part of List 1,"'Immunomodulators (e.g. 6-mercaptopurine, azathioprine, cyclosporine, and methotrexate)",'23,'97.55859375
+'3,'Text 19 - Part of List 1,"'Biologics (e.g. anti-tumour necrosis factor agents, such as infliximab)",'24,'97.31445313
+'3,'Text 20 - Part of List 1,"'Others: nicotine patches, any products containing fish oils (fish oils are prohibited unless on a stable dose 4 weeks prior to the screening visit [Visit 1] and throughout study participation), or any investigational or marketed drug that may interfere with the evaluation of the investigational product.",'25,'93.79882813
+'3,'Text 21,"'Non-steroidal anti-inflammatory drugs, anti-diarrhoeals, laxatives, antibiotics, and drugs that cause constipation are permitted for up to 10 consecutive days if taken for a condition unrelated to UC. Prophylactic use of a stable dose of aspirin up to 325 mg/day for cardiac disease was permitted. For mild/acute pain, acetaminophen was recommended. Administration of seasonal vaccines was permitted during the study; however, routine vaccinations should be deferred until after study completion where possible.",'26,'96.19140625
+'3,'Text 22,"'Supplementary Table 1. Common prior excluded treatments",'27,'65.57617188
+'3,'Table 1,"",'28,'94.43359375
+'3,'Text 23,"'Non-steroidal anti-inflammatory drugs, anti-diarrhoeals, laxatives, and antibiotics are permitted for up to 10 consecutive days if taken for a condition unrelated to UC Does not include current 5-aminosalicylic acid treatment",'29,'81.39648438
+'3,'Text 24,"'Study visits",'30,'50.78125000
+'3,'Text 25,"'Study visits occurred at the following time points after Visit 2, depending on the patient's partial Ulcerative Colitis Disease Activity Index (UC-DAI) score: Week 2, Week 4, and Week 8 (double-blind acute [DBA] phase withdrawal) in the DBA phase; Week 2, Week 4, and Week 8 (open-label acute [OLA] phase withdrawal) in the OLA phase; and Weeks 2-4, Week 13, and Week 26 (double-blind maintenance [DBM] phase withdrawal) in the DBM phase.",'31,'96.24023438
+'3,'Section header 1,"'Statistical analysis",'32,'54.78515625
+'3,'Text 26,"'This study was an estimation study with no formal hypothesis testing; therefore, the study was not powered to detect differences between treatment groups. More than 100 patients were to be screened and up to 80 patients were to be enrolled in the DBA phase of the study. After agreement with the United States Food and Drug Administration (FDA), the sample size for the DBA phase was reduced to 53 patients owing to difficulties in recruitment. P-values are presented as descriptive statistics only. The overall safety analysis set consisted of",'33,'95.55664063
+'3,'Page number 3,"'3",'34,'85.15625000
+'4,'Text 27,"'randomised patients who had taken ≥1 doses of multimatrix mesalamine. An independent data monitoring committee reviewed the safety data generated during the study.",'35,'94.33593750
+'4,'Text 28,"'In the DBA phase, the primary efficacy outcome was compared between treatment groups using an uncorrected chi-square test on the DBA safety analysis set. The null hypothesis was that no difference was seen in the proportion of patients with a clinical response at Week 8 when a high or low-dose multimatrix mesalamine was administered. The numbers and proportions of patients with a clinical response at Week 8 and the difference between treatment groups, together with the two-sided 95% confidence interval (CI) and the p-values, were calculated. The odds ratio (OR) comparing the two treatments and 95% CI were also calculated. In the DBM phase, the primary efficacy outcome was compared between treatment groups using a Cochran-Mantel-Haenszel test stratified for three levels of Week 8 responder status (entered DBM phase directly, responder at Week 8 of the DBA phase, or responder at Week 8 of the OLA phase) on the DBM phase safety analysis set. The null hypothesis was that no difference was seen in the proportion of patients with a clinical response at Week 26 when a high or low dose of multimatrix mesalamine was administered. The numbers and proportions of patients with a clinical response at Week 26 and the difference between treatment groups, together with the two-sided 95% CI and associated p-values were calculated. The OR comparing the two treatments, together with the 95% CI and p-value, was also calculated.",'36,'99.31640625
+'4,'Text 29,"'In the DBA phase, clinical and endoscopic responses at Week 8 were compared between treatment groups using a continuity-corrected chi-square test. The change in Daily Ulcerative Colitis Scale (DUCS) score from baseline to Week 8 was compared between treatment groups using an analysis of covariance, including treatment group as a factor and baseline DUCS score as a covariate. The percentage of patients with an improvement in Pediatric Ulcerative Colitis Activity Index (PUCAI) score from baseline to Week 8 was compared between treatment groups using a continuity-corrected chi-square test. In the DBM phase, clinical and endoscopic responses were compared between treatment groups using a Cochran-Mantel-Haenszel test adjusted for prior response status (entered the DBM phase directly, responder at Week 8 of the DBA phase, or responder at Week 8 of the OLA phase). The change in DUCS score from DBM phase Week 0 to Week 26 was compared between treatment groups using an analysis of covariance, including treatment group as a factor and DUCS score at DBM phase Week 0 and prior response status as covariates. The percentage of patients in remission at DBM phase Week 26 was compared between treatment groups using a Cochran-Mantel-Haenszel test adjusted for prior response status. Analyses were performed using SAS version 9·2 or higher (SAS Institute Inc., Cary, NC, USA).",'37,'97.70507813
+'4,'Text 30,"'Study outcome measures The different outcome measures used in this study are detailed in Supplementary Table 2.",'38,'32.25097656
+'4,'Page number 4,"'4",'39,'81.25000000
+'5,'Text 31,"'Supplementary Table 2. Outcome measures",'40,'73.33984375
+'5,'Table 2,"",'41,'97.55859375
+'5,'Page number 5,"'5",'42,'89.16015625
+'6,'Table 3,"",'43,'97.90039063
+'6,'Page number 6,"'6",'44,'95.06835938
+'7,'Table 4,"",'45,'93.99414063
+'7,'Text 32,"'DBA=double-blind acute; DBM=double-blind maintenance; DUCS=Daily Ulcerative Colitis Scale; eCRF=electronic case report form; ObsRO=observer-reported outcome; OLA=open-label acute; PGA=Physician's Global Assessment; PRO=patient-reported outcome; PUCAI=Pediatric Ulcerative Colitis Activity Index; UC=ulcerative colitis; UC-DAI=Ulcerative Colitis Disease Activity Index. *Schroeder KW, et al. N Engl J Med. 1987;317(26):1625-9; Sutherland LR, et al. Gastroenterology. 1987;92(6): 1894-8.",'46,'34.20410156
+'7,'Page number 7,"'7",'47,'73.73046875
+'8,'Section header 2,"'Supplementary Results",'48,'38.86718750
+'8,'Text 33,"'Supplementary Table 3. Patient disposition",'49,'74.90234375
+'8,'Table 5,"",'50,'93.60351563
+'8,'Text 34,"'Data are presented as n (%)",'51,'35.62011719
+'8,'Text 35,"'DBA=double-blind acute; DBM=double-blind maintenance; MMX=multi-matrix system; OLA=open-label acute. ""Completed the study' includes subjects who entered the DBM phase from one of the acute phases, completed the Week 26 visit, and had follow-up assessment within 7 days of the last dose of the investigational product, and subjects who entered directly into the DBM phase, completed the Week 26 visit, and had follow-up assessment within 7 days of the last dose of the investigational product. Not continued in study' includes subjects who completed the DBA phase but did not continue into the OLA phase or the DBM phase. 'Not enrolled in double-blind maintenance phase' includes subjects who completed the OLA phase who did not enrol in the DBM phase. *Primary reason for discontinuation was the reason for discontinuation from the last phase that a subject was enrolled in, if the subject did not complete the phase. Subject 201-0017 withdrew from the DBM phase on 10 Oct 2018 but has missing reason for withdrawal. The subject had adverse events of diarrhoea and haematochezia on 23 Sep 2018. Medication adherence was defined by use of 80%-120% of the study medication.",'52,'46.77734375
+'8,'Page number 8,"'8",'53,'78.90625000

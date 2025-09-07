@@ -1,10 +1,15 @@
-import processData
 # %%
+# %load_ext autoreload
+# %autoreload 1
 
-from retrieve import perform_rag
+# %aimport retrieve
 
+# %%
+import processData
 
-# processData.pdf_files
+processData.document_files.sort()
+# %%
+import retrieve
 
 
 slr_fields = [
@@ -28,32 +33,33 @@ slr_fields = [
 ]
 
 extracted_data = {}
-for filename in processData.pdf_files:
+for filename in processData.document_files:
+
+	# filename = "UC_Louis_2024_suppl.txt"
+
 	rags = []
 	for field in slr_fields:
 		print(f"{filename} -- {field}")
-		res = perform_rag(field, filename, processData.vectorstore)
-		rags.append({"field":field,"result":res.message.content})
-		# break
+		res = retrieve.perform_rag(field, filename, processData.vectorstore, k=5)
+		rags.append({"field":field,"result":res["response"].message.content, "context":res["context"]})
+
 
 	extracted_data[filename] = rags
 
-	# break ##debugging
+	# break
+
 
 # %%
 #
 
-print(extracted_data[filename])
-
-# %%
-
 import json
 
-print(extracted_data[filename][0]["result"].replace("json", ""))
 
-json_content = json.loads(extracted_data[filename][0]["result"].replace("```json", "").replace("```","")) #extracted_data[filename][0]["result"]
+with open('extracted_data.json', 'w') as f:
+    json.dump(extracted_data, f)
 
 # %%
-json_content["participants"]
+import formatOutput
+
 
 # %%
