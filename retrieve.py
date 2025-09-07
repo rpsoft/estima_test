@@ -1,12 +1,9 @@
 
-import ollama
 import os
-from dotenv import load_dotenv
 
-# Load variables from .env into environment
-load_dotenv()
-
-# Load variables from .env into environment
+# Import our configuration and generation factory
+from config import config
+from generation_factory import create_chat_client, get_generation_info
 
 def perform_rag(slr_field, filename, vectorstore, k=1):
 	results = vectorstore.similarity_search(
@@ -49,14 +46,20 @@ def perform_rag(slr_field, filename, vectorstore, k=1):
 
 	query = f"Extract {slr_field} \n from the text:\n{context} following these instructions \n {formatInstructions} . "
 
-	client = ollama.Client(host=os.getenv("OLLAMA_URL", "localhost:11434"))
+	# Create chat client based on configuration
+	client = create_chat_client()
 
+	# Send chat completion request
 	response = client.chat(
-	    model= os.getenv("GEN_MODEL", "gpt-oss" ),
 	    messages=[{"role": "user", "content": query}]
 	)
 
-	return({"response": response, "context": context})
+	# Create a mock response object to maintain compatibility with existing code
+	class MockResponse:
+		def __init__(self, content):
+			self.message = type('Message', (), {'content': content})()
+
+	return({"response": MockResponse(response.content), "context": context})
 
 
 ## class BaselineCharacteristics(BaseModel):

@@ -2,37 +2,34 @@
 import os
 import pdfplumber
 
-from dotenv import load_dotenv
-
-# Load variables from .env into environment
-load_dotenv()
-
-persist_dir = os.getenv("PERSIST_DIR", "./chroma_db")
-
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.schema import Document
 from langchain.vectorstores import Chroma
-from langchain.embeddings import OllamaEmbeddings
 
-# Initialize embeddings model
-embeddings = OllamaEmbeddings(
-	model= os.getenv("EMBEDDINGS_MODEL", "oscardp96/medcpt-article" ),
-	base_url=os.getenv("OLLAMA_URL", "localhost:11434")
-)
+# Import our configuration and embeddings factory
+from config import config
+from embeddings_factory import create_embeddings, get_embeddings_info
+
+# Initialize embeddings model based on configuration
+embeddings = create_embeddings()
+
+# Print embeddings configuration
+embeddings_info = get_embeddings_info()
+print(f"Using embeddings: {embeddings_info['provider']} - {embeddings_info['model']}")
 
 # Read pdf files in the docs folder
 docs_folder = "aws_raw"
 document_files = [f for f in os.listdir(docs_folder) if f.endswith('.txt')]
 print(f"Found {len(document_files)} PDF files in {docs_folder} folder")
 
-if os.path.exists(persist_dir):
+if os.path.exists(config.persist_dir):
 	# Reload existing Chroma DB
 	vectorstore = Chroma(
-		persist_directory=persist_dir,
+		persist_directory=config.persist_dir,
 		embedding_function=embeddings
 	)
 
-	print("Loaded existing Chroma DB from", persist_dir)
+	print("Loaded existing Chroma DB from", config.persist_dir)
 else:
 	print("Creating new Chroma DB")
 	document_dict = {}
@@ -69,5 +66,5 @@ else:
 	vectorstore = Chroma.from_documents(
 		documents,
 		embedding=embeddings,
-		persist_directory=persist_dir
+		persist_directory=config.persist_dir
 	)
