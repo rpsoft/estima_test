@@ -68,3 +68,5 @@ df = pd.DataFrame(records)
 df.drop(columns=["explain"], errors='ignore', inplace=True)
 
 df.to_csv("extracted_data.csv", index=True)
+
+# %%
