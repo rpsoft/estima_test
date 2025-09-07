@@ -11,7 +11,6 @@ processData.document_files.sort()
 # %%
 import retrieve
 
-
 slr_fields = [
 		#"You have also been informed by the client that the following baseline characteristics need to be extracted:",
 		"Number of patients recruited by trial per treatment arm",
@@ -35,8 +34,6 @@ slr_fields = [
 extracted_data = {}
 for filename in processData.document_files:
 
-	# filename = "UC_Louis_2024_suppl.txt"
-
 	rags = []
 	for field in slr_fields:
 		print(f"{filename} -- {field}")
@@ -46,14 +43,11 @@ for filename in processData.document_files:
 
 	extracted_data[filename] = rags
 
-	# break
-
 
 # %%
 #
 
 import json
-
 
 with open('extracted_data.json', 'w') as f:
     json.dump(extracted_data, f)
@@ -61,5 +55,3 @@ with open('extracted_data.json', 'w') as f:
 # %%
 import formatOutput
 
-
-# %%
