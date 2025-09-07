@@ -1,0 +1,88 @@
+# Estima - Medical Document Data Extraction System
+# Detailed requirements with version explanations
+
+# =============================================================================
+# CORE LANGCHAIN DEPENDENCIES
+# =============================================================================
+# Main LangChain framework
+langchain>=0.2.0,<0.3.0
+
+# Community integrations (includes Ollama, OpenAI, ChromaDB integrations)
+langchain-community>=0.2.0,<0.3.0
+
+# Core LangChain components
+langchain-core>=0.2.0,<0.3.0
+
+# =============================================================================
+# VECTOR DATABASE AND EMBEDDINGS
+# =============================================================================
+# ChromaDB for vector storage and similarity search
+chromadb>=0.4.0,<0.5.0
+
+# =============================================================================
+# AI PROVIDER SUPPORT
+# =============================================================================
+# Ollama client for local AI models
+ollama>=0.1.0,<0.2.0
+
+# OpenAI client for cloud AI models
+openai>=1.0.0,<2.0.0
+
+# =============================================================================
+# DATA PROCESSING AND ANALYSIS
+# =============================================================================
+# Pandas for data manipulation and CSV export
+pandas>=2.0.0,<3.0.0
+
+# NumPy for numerical operations (dependency of pandas)
+numpy>=1.24.0,<2.0.0
+
+# =============================================================================
+# DOCUMENT PROCESSING
+# =============================================================================
+# PDF processing and text extraction
+pdfplumber>=0.9.0,<1.0.0
+
+# =============================================================================
+# ENVIRONMENT AND CONFIGURATION
+# =============================================================================
+# Environment variable management
+python-dotenv>=1.0.0,<2.0.0
+
+# =============================================================================
+# OPTIONAL ENHANCED FEATURES
+# =============================================================================
+# Uncomment these for additional functionality:
+
+# Token counting and cost estimation for OpenAI
+# tiktoken>=0.5.0,<1.0.0
+
+# Data validation and structured outputs
+# pydantic>=2.0.0,<3.0.0
+
+# HTTP requests (usually included with other packages)
+# requests>=2.31.0,<3.0.0
+
+# Progress bars for long-running operations
+# tqdm>=4.65.0,<5.0.0
+
+# Enhanced logging
+# loguru>=0.7.0,<1.0.0
+
+# =============================================================================
+# DEVELOPMENT DEPENDENCIES (for contributors)
+# =============================================================================
+# Uncomment for development:
+
+# Code formatting
+# black>=23.0.0,<24.0.0
+
+# Linting
+# flake8>=6.0.0,<7.0.0
+
+# Type checking
+# mypy>=1.5.0,<2.0.0
+
+# Testing
+# pytest>=7.4.0,<8.0.0
+# pytest-cov>=4.1.0,<5.0.0
